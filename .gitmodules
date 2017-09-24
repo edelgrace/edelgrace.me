@@ -4,3 +4,9 @@
 [submodule "public"]
 	path = public
 	url = http://github.com/edelgrace/edelgrace.github.io.git
+[submodule "hugo-nuo"]
+	path = hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo.git
+[submodule "themes/hugo-nuo"]
+	path = themes/hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo.git
