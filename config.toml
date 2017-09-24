@@ -1,4 +1,4 @@
-baseURL = "http://edelgrace.github.io/"
+baseURL = "https://edelgrace.github.io/"
 languageCode = "en-us"
 title = "edelgrace"
 theme="tranquilpeak"
@@ -7,7 +7,7 @@ canonifyurls = true
 defaultContentLanguage = "en-us"
 
 [permalinks]
-post = "/:year/:month/:slug/"
+post = "/:slug/"
 
 [taxonomies]
 tag = "tags"
@@ -28,46 +28,63 @@ name = "Home"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
 url = "/"
 [[menu.main]]
-weight = 2
+weight = 4
 identifier = "categories"
 name = "Categories"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
 url = "/categories"
 [[menu.main]]
-weight = 3
+weight = 5
 identifier = "tags"
 name = "Tags"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
 url = "/tags"
 [[menu.main]]
-weight = 4
+weight = 6
 identifier = "archives"
 name = "Archives"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
 url = "/archives"
 [[menu.main]]
-weight = 5
+weight = 2
 identifier = "about"
 name = "About"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
 url = "/#about"
+[[menu.main]]
+weight = 3
+identifier = "projects"
+name = "Projects"
+pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tasks\"></i>"
+url = "/project"
 
 [[menu.links]]
-weight = 1
+weight = 2
 identifier = "github"
 name = "Github"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
 url = "https://github.com/edelgrace"
-
 [[menu.links]]
-weight = 1
+weight = 4
+identifier = "steam"
+name = "Steam"
+pre = "<i class=\"sidebar-button-icon fa fa-lg fa-steam\"></i>"
+url = "https://steamcommunity.com/id/mazohystic"
+[[menu.links]]
+weight = 4
+identifier = "ravelry"
+name = "Ravelry"
+pre = "<i class=\"sidebar-button-icon fa fa-lg fa-ravelry\"></i>"
+url = "https://ravelry.com/people/erzadel"
+[[menu.links]]
+weight = 3
 identifier = "twitter"
 name = "Twitter"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
 url = "https://twitter.com/edelgraceme"
 
 
-[[menu.misc]]
+[[menu.links]]
   weight = 1
   identifier = "rss"
   name = "RSS"
@@ -79,7 +96,7 @@ clearReading = true
 hierarchicalCategories = true
 description = "Hugo tranquilpeak theme demo"
 sidebarBehavior = 1
-coverImage = "http://res.cloudinary.com/dvozrk6m8/image/upload/v1506219093/cover_tob8lg.png"
+coverImage = "http://res.cloudinary.com/dvozrk6m8/image/upload/v1506230047/cover_imrbpj.png"
 imageGallery = true
 thumbnailImage = true
 thumbnailImagePosition = "bottom"
