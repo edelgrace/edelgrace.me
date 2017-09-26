@@ -80,6 +80,8 @@ After discussions with other classmates, I realized that my button relies a lot 
 
 {{<figure src="/img/project/kowthers-turtle-button/sketch-14.png" title="Final prototype">}}
 
+{{<figure src="/img/project/kowthers-turtle-button/sketch-15.png" title="Figuring out some storyboarding">}}
+
 # The Final Solution
 
 {{<youtube Wj2l9I13xk8>}}
