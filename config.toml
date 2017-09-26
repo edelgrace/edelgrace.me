@@ -7,7 +7,7 @@ canonifyurls = true
 defaultContentLanguage = "en-us"
 
 [permalinks]
-post = "/:slug/"
+post = "/:section/:slug/"
 
 [taxonomies]
 tag = "tags"
@@ -93,8 +93,7 @@ url = "/index.xml"
 
 [params]
 clearReading = true
-hierarchicalCategories = true
-description = "Hugo tranquilpeak theme demo"
+hierarchicalCategories = false
 sidebarBehavior = 1
 coverImage = "http://res.cloudinary.com/dvozrk6m8/image/upload/v1506230047/cover_imrbpj.png"
 imageGallery = true

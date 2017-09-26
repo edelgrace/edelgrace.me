@@ -5,7 +5,11 @@ type: "project"
 date: 2017-09-23T23:25:12-06:00
 ---
 
-{{<figure src="/img/project/kowthers-turtle-button/screenshot-01.png" title="An example screenshot of Hungry Tyrtle">}}
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1506373075/screenshot_01_vcra95.gif">}}
+
+* [Source code](http://github.com/edelgrace/kowthers-turtle-button)
+* [Download](https://github.com/edelgrace/kowthers-turtle-button/raw/master/KowtherButton.exe)
+* [How to Run](https://github.com/edelgrace/kowthers-turtle-button/blob/master/README.md)
 
 # The "Problem"
 
@@ -77,3 +81,20 @@ After discussions with other classmates, I realized that my button relies a lot 
 {{<figure src="/img/project/kowthers-turtle-button/sketch-14.png" title="Final prototype">}}
 
 # The Final Solution
+
+{{<youtube Wj2l9I13xk8>}}
+**How to run the program**
+
+In the end, I decided on representing Kowther through a series of food induced daydreams which is triggered by the user feeding the turtle. I think it really captures Kowther's metaphoric apetite for knowledge and each little scene has a certain charm which shows some of Kowther's charm as well.
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_00.png" title="Romeo and Juliet scene reflecting interest in historical fiction">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_01.png" title="Watching (historical fiction) movies">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_02.png" title="Future pets: a cat and a turtle">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_03.png" title="Simulation software Kowther is working on">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_04.png" title="A DnD scene">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_05.png" title="Storm from X-men being Storm">}}
