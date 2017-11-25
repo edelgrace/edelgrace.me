@@ -22,6 +22,26 @@ The goal of this project was to design a button that would delight its user and 
 * She listens to a lot of podcasts some which are movie related and some are DnD related (but she's never played DnD before)
 * She likes the X-men!
 
+# The Solution
+
+{{<youtube Wj2l9I13xk8>}}
+
+**How to run the program**
+
+In the end, I decided on representing Kowther through a series of food induced daydreams which is triggered by the user feeding the turtle. I think it really captures Kowther's metaphoric apetite for knowledge and each little scene has a certain charm which shows some of Kowther's charm as well.
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_00.png" title="Romeo and Juliet scene reflecting interest in historical fiction">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_01.png" title="Watching (historical fiction) movies">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_02.png" title="Future pets: a cat and a turtle">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_03.png" title="Simulation software Kowther is working on">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_04.png" title="A DnD scene">}}
+
+{{<figure src="/img/project/kowthers-turtle-button/screenshot_05.png" title="Storm from X-men being Storm">}}
+
 # The Process
 
 ## Sketching
@@ -80,23 +100,9 @@ After discussions with other classmates, I realized that my button relies a lot 
 
 {{<figure src="/img/project/kowthers-turtle-button/sketch-14.png" title="Final prototype">}}
 
-{{<figure src="/img/project/kowthers-turtle-button/sketch-15.png" title="Figuring out some storyboarding">}}
+{{<figure src="/img/project/kowthers-turtle-button/sketch-16.png" title="Figuring out some logic with storyboarding">}}
 
-# The Final Solution
-
-{{<youtube Wj2l9I13xk8>}}
-**How to run the program**
-
-In the end, I decided on representing Kowther through a series of food induced daydreams which is triggered by the user feeding the turtle. I think it really captures Kowther's metaphoric apetite for knowledge and each little scene has a certain charm which shows some of Kowther's charm as well.
-
-{{<figure src="/img/project/kowthers-turtle-button/screenshot_00.png" title="Romeo and Juliet scene reflecting interest in historical fiction">}}
-
-{{<figure src="/img/project/kowthers-turtle-button/screenshot_01.png" title="Watching (historical fiction) movies">}}
-
-{{<figure src="/img/project/kowthers-turtle-button/screenshot_02.png" title="Future pets: a cat and a turtle">}}
-
-{{<figure src="/img/project/kowthers-turtle-button/screenshot_03.png" title="Simulation software Kowther is working on">}}
-
-{{<figure src="/img/project/kowthers-turtle-button/screenshot_04.png" title="A DnD scene">}}
-
-{{<figure src="/img/project/kowthers-turtle-button/screenshot_05.png" title="Storm from X-men being Storm">}}
+# Credits
+"Fluffing a Duck" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
