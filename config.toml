@@ -13,7 +13,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "http://res.cloudinary.com/dvozrk6m8/image/upload/v1512463955/edel-altares_jcufrn.png"
   author = "Edel Grace Altares"
-  description = "Here you can keep up with various things I do"
+  description = "Here you can keep up with all of the various things I do."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
