@@ -51,7 +51,7 @@ Originally, I came up with many different sketches that played with the same inp
 
 {{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1512850890/New_Doc_2017-12-09_17_zqet6j.jpg" title="Travel diary necklace" >}}
 
-{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1512850891/New_Doc_2017-12-09_18_oxvvbz.jpg" title="SLeeping masks and winter items" >}}
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1512850891/New_Doc_2017-12-09_18_oxvvbz.jpg" title="Sleeping masks and winter items" >}}
 
 {{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1512850890/New_Doc_2017-12-09_15_rdjuro.jpg" title="Ring variants" >}}
 
@@ -101,7 +101,7 @@ A mishap I had was that the lights were working inversely as to what I wanted. I
 
 # Final Notes
 
-In the end, I wish I could have done more with the ring. It would have been nice to get the vibration motors going to add some more feedback to the users. I am pleased with the interaction overall however and I think a steady stream of light has its advantages over flashes of light (such as it would be more noticable and it has a nicer overall aesthetic). The simplicity of the ring is one of the advantages as it can be essentially worn anywhere at any time however something more tailored to a specific situation might have been more beneficial.
+In the end, I wish I could have done more with the ring. It would have been nice to get the vibration motors going to add some more feedback to the users. I am pleased with the interaction overall however and I think a steady stream of light has its advantages over flashes of light (such as it would be more noticeable and it has a nicer overall aesthetic). The simplicity of the ring is one of the advantages as it can be essentially worn anywhere at any time however something more tailored to a specific situation might have been more beneficial.
 
 # Credits
 

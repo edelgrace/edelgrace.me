@@ -18,7 +18,7 @@ date: 2017-09-23T23:25:12-06:00
 The goal of this project was to design a button that would delight its user and respect some aspects of their personality. In this case, the user was a fellow classmate of mine, [Kowther](http://kowther.com). After some interviewing, I determined the following:
 
 * She watches a lot of movies but  no horror or rom coms
-* She has a double major in psychology and lingusitics
+* She has a double major in psychology and linguisitics
 * She wants a pet box turtle and a cat named Aang (like from *Avatar: The Last Airbender*)
 * She works a lot and enjoys it (just wishes she would get paid more)
 * She listens to a lot of podcasts some which are movie related and some are DnD related (but she's never played DnD before)
@@ -30,7 +30,7 @@ The goal of this project was to design a button that would delight its user and 
 
 **How to run the program**
 
-In the end, I decided on representing Kowther through a series of food induced daydreams which is triggered by the user feeding the turtle. I think it really captures Kowther's metaphoric apetite for knowledge and each little scene has a certain charm which shows some of Kowther's charm as well.
+In the end, I decided on representing Kowther through a series of food induced daydreams which is triggered by the user feeding the turtle. I think it really captures Kowther's metaphoric appetite for knowledge and each little scene has a certain charm which shows some of Kowther's charm as well.
 
 {{< gallery hover-effect="none" caption-effect="none" >}}
 
@@ -120,4 +120,4 @@ This project was a fun creative exercise. The process of creating all the assets
 
 
 # Credits
-* "Fluffing a Duck" Kevin MacLeod <a href="incompetech.com">incompetech.com</a>
+* "Fluffing a Duck" Kevin MacLeod [incompetech.com](http://incompetech.com)
