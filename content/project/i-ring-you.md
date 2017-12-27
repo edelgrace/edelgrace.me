@@ -3,6 +3,8 @@ title: "I Ring You"
 slug: "i-ring-you"
 type: "project"
 date: 2017-10-17T23:25:12-06:00
+featured_image: "http://res.cloudinary.com/dvozrk6m8/image/upload/v1514391671/hyggethumbnail_khxibc.png"
+snippet: "Two rings that can bring long distance couples together by sending small messages throughout the day in the form of patterns of flashing lights."
 ---
 
 {{< load-photoswipe >}}

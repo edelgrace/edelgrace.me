@@ -3,6 +3,8 @@ title: "Kowther's Turtle Button"
 slug: "kowthers-turtle-button"
 type: "project"
 date: 2017-09-23T23:25:12-06:00
+featured_image: "http://res.cloudinary.com/dvozrk6m8/image/upload/v1514391671/hyggethumbnail_khxibc.png"
+snippet: "A simple one button program designed specifically to showcase qualities of the client's personality."
 ---
 
 {{< load-photoswipe >}}

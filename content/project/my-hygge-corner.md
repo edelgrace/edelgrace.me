@@ -3,6 +3,8 @@ title: "My Hygge Corner"
 slug: "My Hygge Corner"
 type: "project"
 date: 2017-12-01T23:25:12-06:00
+featured_image: "http://res.cloudinary.com/dvozrk6m8/image/upload/v1514391671/hyggethumbnail_khxibc.png"
+snippet: "A 360 and Kinect experience of building your own pillow fort that assigns different furniture as hot spots for storing your pictures."
 ---
 
 {{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1512861891/screen3_dprjps.png" title="Sample screenshot">}}
