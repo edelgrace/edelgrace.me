@@ -3,7 +3,7 @@ title: "360 Star Gazing"
 slug: "360 Star Gazing"
 type: "project"
 date: 2017-11-11T23:25:12-06:00
-featured_image: "http://res.cloudinary.com/dvozrk6m8/image/upload/v1514338114/360thumbnail_sef6vc.png"
+featured_image: "http://res.cloudinary.com/dvozrk6m8/image/upload/v1514417528/360thumbnail_ontyne.png"
 snippet: "A Google Cardboard 360 Video experience where users can find constellations in the sky."
 ---
 
