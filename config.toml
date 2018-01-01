@@ -2,10 +2,10 @@ baseurl = "https://edelgrace.github.io/"
 languageCode = "en-US"
 title = "edel grace altares"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "edelgrace"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-theme = "hugo-sustain"
+theme = "edel"
 
 [permalinks]
   post = "/:section/:slug"
@@ -14,30 +14,3 @@ theme = "hugo-sustain"
   avatar = "http://res.cloudinary.com/dvozrk6m8/image/upload/v1512463955/edel-altares_jcufrn.png"
   author = "Edel"
   description = "My name is **Edel Grace Altares**. My programming interests include **full stack development** and **back end development**. My languages of choice are **Python** and **Java**. Outside of programming I enjoy crocheting, video games, cats, historical fiction, and reading."
-
-  # Custom assets can be linked with their paths relative to static/
-  custom_css = []
-  custom_js  = []
-
-[params.social]
-  Github        = "edelgrace"
-  Email         = "edel.altares@gmail.com"
-  Twitter       = "edelgraceme"
-  LinkedIn      = "edel-altares"
-
-## Main Menu
-[[menu.main]]
-  mame = "about"
-  identifier = "about"
-  weight = 200
-  url = "/"
-[[menu.main]]
-  name = "projects"
-  identifier = "projects"
-  weight = 200
-  url = "/project/"
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
