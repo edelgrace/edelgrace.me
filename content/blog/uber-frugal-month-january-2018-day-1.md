@@ -3,7 +3,7 @@ title: 'Uber Frugal Month January 2018: Day 1'
 author: Edel
 type: blog
 date: 2018-01-02
-draft: true
+draft: false
 slug: uber-frugal-month-january-2018-day-1
 categories:
   - Life
@@ -17,7 +17,7 @@ This is a month-long challenge held over at [Frugalwoods](http://www.frugalwoods
 
 ## The Homework
 
-**Step 1:** Establish your goals
+### Step 1: Establish your goals
 
 **Why are you participating in this challenge?**
 
@@ -39,11 +39,11 @@ Graduated. Moved out. In a city that isn't Calgary. Workimg a job I don't despis
 
 I am spending too much and saving too little. I need to build those habits and learn to live without.
 
-## Step 2: Review last month's spending
+### Step 2: Review last month's spending
 
 I use [You Need a Budget](http://youneedabudget.com) to track my spending. It's a great app and I've been using it for a whie now. I'm a little hesitant to look at my December spending but let's jump in anyway...
 
-http://res.cloudinary.com/dvozrk6m8/image/upload/v1514827353/Capture__2018-01-01-10-21-12_ttq7st.png
+<img src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1514827353/Capture__2018-01-01-10-21-12_ttq7st.png" alt="December spending pie chart">
 
 $733.12 CAD doesn't sound like a lot but it is when you take into the fact that I have no income and all that money is coming from my savings.
 
@@ -59,43 +59,48 @@ Expenses are clothes. I did have one unnecessary clothes purchase. I don't regre
 
 Since Sears was closing down they put everything on clearance. I managed to buy four cute orange plates for my future apartment just for $6.22.
 
-## Step 3: CategorIze your expenses
+### Step 3: CategorIze your expenses
 
 Done and done. Anything not bills are discretionary.
 
-## Step 4: What can I eliminate entirely?
+### Step 4: What can I eliminate entirely?
 
 This is tough. I would love to no longer eat out but that is a good chunk of my expenses.
 
-+ Clothes. I got tons of clothes for Chrisrmas. I don't need anymore.
-+ Coffee. I don't even like coffee and I always feel gross and groggy.
-+ Eating out on campus. I can't avoid eating out entirely because date nights but I really do not need to eat out on campus. I'll bring my own food.
-+ Yarn. While I didn't get any yarn last month I do not need any more yarn and I always impulse buy yarn.
-+ Future moving out items. That can wait for when I have cash flow.
-+ Books. Who needs to buy books when you have free library memberships??
-+ Video games. I have a ton that need playing still. No steam sales for me!
-+ Gym membership. This is a hard maybe. I prefer the gym equipment. I might just downgrade it.
++ **Clothes:** I got tons of clothes for Chrisrmas. I don't need anymore.
++ **Coffee:** I don't even like coffee and I always feel gross and groggy.
++ **Eating out on campus:** I can't avoid eating out entirely because date nights but I really do not need to eat out on campus. I'll bring my own food.
++ **Yarn:** While I didn't get any yarn last month I do not need any more yarn and I always impulse buy yarn.
++ **Future moving out items:** That can wait for when I have cash flow.
++ **Books:** Who needs to buy books when you have free library memberships??
++ **Video games:** I have a ton that need playing still. No steam sales for me!
++ **Gym membership:** This is a hard maybe. I prefer the gym equipment. I might just downgrade it.
 
-## Step 5: Embrace the art of substitution
+### Step 5: Embrace the art of substitution
 
 + Coffee = homemade tea. We have a bunch of peppermint tea bags. I should use them.
-+ Expensive gym = less expensive gym. ai currently pay $22 per month for my gym. I can downgrade to $12.
++ Expensive gym = less expensive gym. I currently pay $22 per month for my gym. I can downgrade to $12.
 
-## Step 6: Reduce spending on discretionary expenses
+### Step 6: Reduce spending on discretionary expenses
 
 The main thing here is food. My SO and I eat out a lot. Time to load up on coupons amd cashback deals and get the cheapest options or smaller portions.
 
-## Step 7: Empower yourself to insource
+### Step 7: Empower yourself to insource
 
 I could have insourced a lot of my gifts from last month since I know how to crochet and knit. Time to load up on mitts, hats, gloves, scarves, and headbands.
 
-## Step 8: Examine your habits
+### Step 8: Examine your habits
 
 Main places where I buy things: on campus, in the mall, at Walmart, Steam, Amazon, at my SO's house. I could avoid the campus food court entirely and refuse to come with my friends. I could not go to Walmart when I don't need to. I could start bringing food to my SO's house.
 
-## Step 9: Plan ahead
+### Step 9: Plan ahead
 
 I think the main theme here is to pack my own food!! That's my main flaw. I'm too lazy and my own cooked food doesn't taste as good. Time to hone my cooking skills.
 
-## Step 10: If you do buy stuff, get it used/cheap
+### Step 10: If you do buy stuff, get it used/cheap
 
+Steps 8 and 9 pretty much covered this. I'm pretty sure I can get away with avoiding some of my spending completely.
+
+### Step 11: Banish excuses
+
+I'm trying! We'll see how this goes. I have no excuses for most of the things that I can eliminate.

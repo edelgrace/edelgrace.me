@@ -1,6 +1,7 @@
 ---
 title: "Block Week"
 date: 2018-01-02T20:03:42-07:00
+type: blog
 categories:
     - School
 slug: block-week
