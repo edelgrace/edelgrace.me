@@ -6,7 +6,7 @@ slug: uber-frugal-month-january-2018-day-2
 type: blog
 ---
 
-**Today's mantra:** When you’re working towards a goal, frugality isn’t about what you’re giving up, it’s about what you’re going to gain.
+**Today's mantra:** When you're working towards a goal, frugality isn't about what you're giving up, it's about what you're going to gain.
 
 **Today's action:** Write your long-term goal on a piece of paper and put it in your wallet.
 
