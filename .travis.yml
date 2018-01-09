@@ -12,8 +12,6 @@ install:
 before_script:
   - git config --global user.email "edel.altares@gmail.com"
   - git config --global user.name "Edel-Travis"
-  
-after_script:
   - git config credential.helper "store --file=.git/credentials"
   - echo "https://${GITHUB_TOKEN}:@github.com" > .git/credentials
 
@@ -24,13 +22,7 @@ script:
   - git submodule update --init --recursive
   - hugo -v
   - cp CNAME public/
-  - git add .
-  - git commit -m "Updated"
-  - git push origin master
-  - cd public
-  - git add .
-  - git commit -m "Updated"
-  - git push origin master
+  - git submodule update --init --recursive
 
 # Deploy to GitHub pages
 deploy:
