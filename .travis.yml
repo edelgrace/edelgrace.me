@@ -23,6 +23,15 @@ script:
   - hugo -v
   - cp CNAME public/
   - git submodule update --init --recursive
+  - git add .
+  - git commit -m "Travis build $TRAVIS_BUILD_NUMBER"
+  - git remote add origin-md https://${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io
+  - git push origin master
+  - cd public/
+  - git add .
+  - git commit -m "Travis build $TRAVIS_BUILD_NUMBER"
+  - git remote add origin-git https://${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io
+  - git push origin master
 
 # Deploy to GitHub pages
 deploy:
