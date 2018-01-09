@@ -22,18 +22,13 @@ script:
   - git submodule update --init --recursive
   - hugo -v
   - cp CNAME public/
-  - git submodule update --init --recursive
-  - cd public/
-  - git add .
-  - git commit -m "Travis build $TRAVIS_BUILD_NUMBER"
-  - git remote add origin-git https://${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io
-  - git push origin master
 
 # Deploy to GitHub pages
 deploy:
   provider: pages
   skip_cleanup: true
+  local_dir: public
   target-branch: master
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  github_token: $GITHUB_TOKEN # Set in the travis-ci.org dashboard
   on:
-    branch: master
+    branch: source
