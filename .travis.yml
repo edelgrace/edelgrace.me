@@ -18,7 +18,7 @@ before_script:
 # Build the website
 script:
   - pygmentize -V
-  - ls
+  - git branch
   - rm -rf public/*
   - git submodule update --init --recursive
   - hugo -v
