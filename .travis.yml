@@ -33,3 +33,4 @@ deploy:
   on:
     repo: edelgrace/edelgrace.me
     branch: master
+    condition: true
