@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lftp on edel grace altares</title>
+    <link>http://edelgrace.me/tags/lftp/</link>
+    <description>Recent content in Lftp on edel grace altares</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Oct 2016 01:48:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://edelgrace.me/tags/lftp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LFTP Fatal Error: Certificate verification</title>
+      <link>http://edelgrace.me/life/lftp-fatal-error-certificate-verification/</link>
+      <pubDate>Tue, 11 Oct 2016 01:48:31 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/life/lftp-fatal-error-certificate-verification/</guid>
+      <description>The error: ~$ git-ftp pull&amp;lt;br /&amp;gt; ~$ cd: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’&amp;lt;br /&amp;gt; ~$ mirror: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’
+Solution: Edit ~/.lftp/rc so that it contains set ssl:check-hostname no. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&amp;rsquo;re attempting to connect to, it doesn&amp;rsquo;t matter because it won&amp;rsquo;t check for that in the first place.</description>
+    </item>
+    
+  </channel>
+</rss>
