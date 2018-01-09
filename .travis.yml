@@ -28,12 +28,12 @@ after_success: |
   if [ -n "${GITHUB_TOKEN}" ] && [ "$TRAVIS_PULL_REQUEST" = 'false' ]
   then
     cd public
-    git remote add origin "https://edelgrace:${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io"
+    git remote add origin-travis "https://edelgrace:${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io"
     git config user.name "edelgrace"
     git config user.email "edel.altares@gmail.com"
     git add .
     git commit -am "Travis build ${TRAVIS_BUILD_NUMBER}"
-    git push origin HEAD:master
+    git push origin-travis HEAD:master
     cd ..
   fi
 
