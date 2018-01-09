@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cooking on edel grace altares</title>
+    <link>http://edelgrace.me/categories/cooking/</link>
+    <description>Recent content in Cooking on edel grace altares</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Jun 2017 18:05:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://edelgrace.me/categories/cooking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attempts at Cooking</title>
+      <link>http://edelgrace.me/cooking/attempts-at-cooking/</link>
+      <pubDate>Sun, 11 Jun 2017 18:05:08 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/cooking/attempts-at-cooking/</guid>
+      <description>I tried to cook more during the month of May. Partly because my mother was out of the country and then cooking was left to us but also because I&amp;rsquo;m trying my best to learn how to cook. Unfortunately, most of what I cooked was pretty simple but I still managed to cook some things. I didn&amp;rsquo;t take pictures of everything I cooked, although I totally should have.
+Honey Garlic Chicken Wings</description>
+    </item>
+    
+    <item>
+      <title>Homemade Cheesecake Quest</title>
+      <link>http://edelgrace.me/cooking/homemade-cheesecake-quest/</link>
+      <pubDate>Sat, 18 Feb 2017 16:22:00 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/cooking/homemade-cheesecake-quest/</guid>
+      <description>I can count the number of times I have tried to make cheesecake on one hand. It&amp;rsquo;s not that many but I count that as a quest to make the ultimate cheesecake. It&amp;rsquo;s my favourite dessert. Yes, it&amp;rsquo;s incredibly filling and calorie dense and expensive but I love it. The expensiveness factor is a big reason why I&amp;rsquo;m trying to perfect the art of the cheesecake.
+On my first attempt back in high school, it tasted lke cream cheese on a graham cracker crust.</description>
+    </item>
+    
+  </channel>
+</rss>

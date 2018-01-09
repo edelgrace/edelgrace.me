@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on edel grace altares</title>
+    <link>http://edelgrace.me/categories/work/</link>
+    <description>Recent content in Work on edel grace altares</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Oct 2016 22:04:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://edelgrace.me/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Silly Mistakes</title>
+      <link>http://edelgrace.me/life/silly-mistakes/</link>
+      <pubDate>Mon, 31 Oct 2016 22:04:29 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/life/silly-mistakes/</guid>
+      <description>At work I&amp;rsquo;m writing a simple script in Python that pulls data from a sqlite database. I was doing some inserts and deletes and I was wondering why the database wasn&amp;rsquo;t changing. I tried printing out the queries and double checking that they were indeed correct syntax-wise. I traced my program line by line up to the point where queries were being executed. Finally, I turned to Google.
+Stackoverflow, of course, delivered.</description>
+    </item>
+    
+    <item>
+      <title>Overheard at Work #1</title>
+      <link>http://edelgrace.me/life/overheard-at-work-1/</link>
+      <pubDate>Wed, 19 Oct 2016 01:46:26 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/life/overheard-at-work-1/</guid>
+      <description>&amp;ldquo;Thank you Doritos, bringing families together.&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on edel grace altares</title>
+    <link>http://edelgrace.me/categories/internet/</link>
+    <description>Recent content in Internet on edel grace altares</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Oct 2016 01:48:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://edelgrace.me/categories/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LFTP Fatal Error: Certificate verification</title>
+      <link>http://edelgrace.me/life/lftp-fatal-error-certificate-verification/</link>
+      <pubDate>Tue, 11 Oct 2016 01:48:31 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/life/lftp-fatal-error-certificate-verification/</guid>
+      <description>The error: ~$ git-ftp pull&amp;lt;br /&amp;gt; ~$ cd: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’&amp;lt;br /&amp;gt; ~$ mirror: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’
+Solution: Edit ~/.lftp/rc so that it contains set ssl:check-hostname no. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&amp;rsquo;re attempting to connect to, it doesn&amp;rsquo;t matter because it won&amp;rsquo;t check for that in the first place.</description>
+    </item>
+    
+    <item>
+      <title>Speaking of Security</title>
+      <link>http://edelgrace.me/life/speaking-of-security/</link>
+      <pubDate>Tue, 07 Jun 2016 22:37:46 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/life/speaking-of-security/</guid>
+      <description>My last post was about security by obscurity and I talked a little about trying to implement security techniques into my projects. This is really great timing.
+Last week, various online services ran by my university were down. It was really inconvenient not having access to my e-mail but I took it in stride. I figured it was just the servers acting up or malware or something like that. It turns out that my university was dealing with a ransomware attack.</description>
+    </item>
+    
+    <item>
+      <title>9 Years of Blogging</title>
+      <link>http://edelgrace.me/life/9-years-of-blogging/</link>
+      <pubDate>Sun, 21 Feb 2016 21:45:26 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/life/9-years-of-blogging/</guid>
+      <description>Okay, I know that probably isn&amp;rsquo;t a lot compared to other bloggers out there but to me, that&amp;rsquo;s mind blowing. 9 years is around 40% of my life and that percentage will only keep on increasing. Assuming that I continue blogging. As long as I can type, I don&amp;rsquo;t think I would stop blogging. Sure, my blogging might be extremely sporadic but it&amp;rsquo;s still blogging to me.
+Actually, I was going through my archive and I read a blog post that was from exactly six years and two days ago.</description>
+    </item>
+    
+    <item>
+      <title>Comics Aren’t Just Kids Stuff!</title>
+      <link>http://edelgrace.me/life/comics-arent-just-kids-stuff/</link>
+      <pubDate>Fri, 19 Feb 2016 01:40:18 +0000</pubDate>
+      
+      <guid>http://edelgrace.me/life/comics-arent-just-kids-stuff/</guid>
+      <description>I initially started writing this post in 2012. I&amp;rsquo;ve been going through and cleaning out my drafts and decided this one was worthy of continuing and actually publishing.
+Comics are usually written off as being childish or something only nerds can enjoy. But, I&amp;rsquo;m not here to argue whether comics are legitimate literature or not. I&amp;rsquo;m here to point out some of my favourite web comics. I don&amp;rsquo;t know where it started but I got bored one day and eventually ended up on a web comics site.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on edel grace altares</title>
+    <link>http://edelgrace.me/project/</link>
+    <description>Recent content in Projects on edel grace altares</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Dec 2017 23:25:12 -0600</lastBuildDate>
+    
+	<atom:link href="http://edelgrace.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Hygge Corner</title>
+      <link>http://edelgrace.me/project/my-hygge-corner/</link>
+      <pubDate>Fri, 01 Dec 2017 23:25:12 -0600</pubDate>
+      
+      <guid>http://edelgrace.me/project/my-hygge-corner/</guid>
+      <description>Sample screenshot     Source code Download How to Run  What is Hygge?  hygge, n. a quality of cosiness and comfortable conviviality that engenders a feeling of contentment or wellbeing (regarded as a defining characteristic of Danish culture)
+     Hygge can mean different things to different people. My interpretation of hygge is a more social take. To me, hygge is sharing special memories with the people you love in a space that is safe, comfortable, and welcoming.</description>
+    </item>
+    
+    <item>
+      <title>360 Star Gazing</title>
+      <link>http://edelgrace.me/project/360-star-gazing/</link>
+      <pubDate>Sat, 11 Nov 2017 23:25:12 -0600</pubDate>
+      
+      <guid>http://edelgrace.me/project/360-star-gazing/</guid>
+      <description>Sample screenshot     Source code Download How to Run  The &amp;ldquo;Problem&amp;rdquo; When was the last time you looked up at the stars? If you&amp;rsquo;re like me and live in a big city, you might not even remember when the last time you could properly see a star that wasn&amp;rsquo;t the sun.</description>
+    </item>
+    
+    <item>
+      <title>I Ring You</title>
+      <link>http://edelgrace.me/project/i-ring-you/</link>
+      <pubDate>Tue, 17 Oct 2017 23:25:12 -0600</pubDate>
+      
+      <guid>http://edelgrace.me/project/i-ring-you/</guid>
+      <description>Source code Download How to Run  The &amp;ldquo;Problem&amp;rdquo; In this day and age, instant communication is a given. This makes long distance relationships more feasible. However, pulling out a phone or your web browser to log onto Facebook isn’t suitable for all situations when you want to send a quick message to your significant other.</description>
+    </item>
+    
+    <item>
+      <title>Kowther&#39;s Turtle Button</title>
+      <link>http://edelgrace.me/project/kowthers-turtle-button/</link>
+      <pubDate>Sat, 23 Sep 2017 23:25:12 -0600</pubDate>
+      
+      <guid>http://edelgrace.me/project/kowthers-turtle-button/</guid>
+      <description>Source code Download How to Run  The &amp;ldquo;Problem&amp;rdquo; The goal of this project was to design a button that would delight its user and respect some aspects of their personality. In this case, the user was a fellow classmate of mine, Kowther.</description>
+    </item>
+    
+  </channel>
+</rss>

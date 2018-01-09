@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-89787234-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-89787234-1');
+        </script>
+
+        <title>Edel Grace | Portfolio</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://use.fontawesome.com/b9d12b39d9.js"></script>
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    </head>
+
+    <body>
+
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/project">Projects</a></li>
+                <li><a href="/blog">Blog</a></li>
+            </ul>
+        </nav>
+
+        <header>
+          <div class="header-content">
+
+            <div class="title">
+                <h1><a href="/">Edel Grace</a></h1>
+                <span class="subtitle">Programmer, Developer, Enthusiast</span>
+            </div>
+
+          </div>
+        </header>
+
+        <div id="container">
+
+<div class="blog-wrapper">
+
+  <div class="list-wrapper">
+    
+    <h2>Internet</h2>
+    
+      
+
+      <article>
+        <div class="article">
+
+          <h3><a href="http://edelgrace.me/life/lftp-fatal-error-certificate-verification/">LFTP Fatal Error: Certificate verification</a></h3>
+          <h4>Oct 11, 2016 | <a href="http://edelgrace.me/life/lftp-fatal-error-certificate-verification/#disqus_thread">Comments</a></h4>
+          
+          <div class="tags">
+              <ul>
+                
+                <li><a href="/categories/internet">Internet</a></li>            
+                
+                <li><a href="/categories/programming">Programming</a></li>            
+                
+                <li><a href="/categories/technology">Technology</a></li>            
+                
+    
+                
+                <li><a href="/tags/git-ftp">#git-ftp</a></li>
+                
+                <li><a href="/tags/lftp">#lftp</a></li>
+                
+              </ul>
+          </div>
+
+          <p>
+
+<h3 id="the-error">The error:</h3>
+
+<p><code class="multi">~$ git-ftp pull&lt;br /&gt;
+~$ cd: Fatal error: Certificate verification: certificate common name doesn&rsquo;t match requested host name ‘ftp.mazohyst.org’&lt;br /&gt;
+~$ mirror: Fatal error: Certificate verification: certificate common name doesn&rsquo;t match requested host name ‘ftp.mazohyst.org’</code></p>
+
+<h3 id="solution">Solution:</h3>
+
+<p>Edit <code>~/.lftp/rc</code> so that it contains <code>set ssl:check-hostname no</code>. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&rsquo;re attempting to connect to, it doesn&rsquo;t matter because it won&rsquo;t check for that in the first place.</p>
+
+<h3 id="the-context">The context:</h3>
+
+<p>I recently wanted to implement version control for my websites because all too often I think to myself, &ldquo;I wish I knew what a previous version of this file looked lik&rdquo;. So since I&rsquo;m on shared hosting and don&rsquo;t have my own server, I resorted to using <a href="https://github.com/git-ftp/git-ftp">git-ftp</a> for deploying my websites. So far, it&rsquo;s working great. However, I momentarily forgot I started using this and made some changes on one of my pages through cPanel. I tried pulling the latest pages using <code>git-ftp pull</code> and encountered this error.</p>
+
+<h3 id="sources">Sources:</h3>
+
+<ul>
+<li><a href="http://web.archive.org/web/20160330173659/http://www.versatilewebsolutions.com/blog/2014/04/lftp-ftps-and-certificate-verification.html">LFTP FTPS and Certificate Verification</a></li>
+</ul>
+</p>
+
+        </div>
+      </article>
+
+      
+
+      <article>
+        <div class="article">
+
+          <h3><a href="http://edelgrace.me/life/speaking-of-security/">Speaking of Security</a></h3>
+          <h4>Jun 7, 2016 | <a href="http://edelgrace.me/life/speaking-of-security/#disqus_thread">Comments</a></h4>
+          
+          <div class="tags">
+              <ul>
+                
+                <li><a href="/categories/internet">Internet</a></li>            
+                
+                <li><a href="/categories/technology">Technology</a></li>            
+                
+    
+                
+              </ul>
+          </div>
+
+          <p><p><a href="/2016/06/security-by-obscurity/">My last post</a> was about security by obscurity and I talked a little about trying to implement security techniques into my projects. This is really great timing.</p>
+
+<p>Last week, various online services ran by my university were down. It was really inconvenient not having access to my e-mail but I took it in stride. I figured it was just the servers acting up or malware or something like that. It turns out that <a href="http://www.ucalgary.ca/it/news/06072016/university-calgary-makes-significant-progress-address-systems-issues">my university was dealing with a ransomware attack</a>. I was half right. Ransomware is malware that basically holds a system hostage until a ransom is paid. My university gave into it and paid $20 000 to get the systems back.</p>
+
+<p>Honestly, it seems to me like paying the ransom was the smart choice. Thousands of users were affected by this attack and it&rsquo;s probably costing them a lot more not having their systems than to pay the money. It&rsquo;s probably the easiest route. I haven&rsquo;t done much research on it but apparently FBI recommends this. It’s better if you don’t pay the ransom but if you’re not tech savvy or the stakes are too high (but not like top secret government stakes), it’s probably a good idea.</p>
+
+<p>Also, personal anecdote. I&rsquo;ve had an instance of &ldquo;ransomeware.&rdquo; It was more like adware ransomware. I was browsing around and all of a sudden my screen flashed and accused me of a crime and asked me to pay a fine. I read through it several times and I froze a bit. I was innocent of the crime (of course) but I was worried that maybe it was something that could easily look like I commited it (think like authors who joke about being on some kind of list for researching murder methods for a book). But I calmly opened up my phone and looked up the message. Common ransomware. So I safely ignored it. Thank goodness because the amount they were asking was easily ten times more than what&rsquo;s in my bank account.</p>
+</p>
+
+        </div>
+      </article>
+
+      
+
+      <article>
+        <div class="article">
+
+          <h3><a href="http://edelgrace.me/life/9-years-of-blogging/">9 Years of Blogging</a></h3>
+          <h4>Feb 21, 2016 | <a href="http://edelgrace.me/life/9-years-of-blogging/#disqus_thread">Comments</a></h4>
+          
+          <div class="tags">
+              <ul>
+                
+                <li><a href="/categories/internet">Internet</a></li>            
+                
+                <li><a href="/categories/life">Life</a></li>            
+                
+    
+                
+              </ul>
+          </div>
+
+          <p><p>Okay, I know that probably isn&rsquo;t a lot compared to other bloggers out there but to me, that&rsquo;s mind blowing. 9 years is around 40% of my life and that percentage will only keep on increasing. Assuming that I continue blogging. As long as I can type, I don&rsquo;t think I would stop blogging. Sure, my blogging might be extremely sporadic but it&rsquo;s still blogging to me.</p>
+
+<p>Actually, I was going through my archive and I read <a href="http://scattered.me/2007/02/bouncy/">a blog post</a> that was from exactly six years and two days ago. That&rsquo;s <strong>3289</strong> days ago. I laughed to myself abouut how some things just don&rsquo;t change.</p>
+
+<p><em>&ldquo;I haven&rsquo;t posted in a while.&rdquo;</em> This is me like every single time I post something. How is this still true even today? &ldquo;I need to post more,&rdquo; I say to myself every year.</p>
+
+<p><em>&ldquo;I&rsquo;m too much of a perfectionist.&rdquo;</em> My second most fatal flaw. My first being that I&rsquo;m a procrastinator, which I&rsquo;m 99.9% sure that I was one back then. It&rsquo;s honestly the deadliest combination against productivity.</p>
+
+<p><em>&ldquo;My mom keeps complaining on how I’m &#8216;losing weight.&lsquo;&rdquo;</em> I literally got into a (civil) argument with my mom about my weight yesterday. I&rsquo;ve been trying to get toned (hence all the recent fitness posts) because I have always been conscious of my large gut. I&rsquo;m at a perfect weight for my height I just want to reduce my body fat percentage to get that flat stomach look. They say doing so is 80% diet and 20% exercise. I don&rsquo;t mind gaining weight through muscles.</p>
+
+<p><em>&ldquo;Live performances always rekindle my love for a band.&rdquo;</em> Just recently I&rsquo;ve been <strong>obsessed</strong> with the post-hardcore Canadian band Alexisonfire. This was because, by some chance, I watched an hour long concert on YouTube of theirs from last year. It was mind blowing how perfect they were in that concert. I used to like Alexisonfire a lot when I was in junior high but watching this concert made my love for them grow tenfold. I never realized how great they were as a band.</p>
+
+<p><em>&ldquo;I am so tired right now.&rdquo;</em> They say nine years later that she is still tired today.</p>
+</p>
+
+        </div>
+      </article>
+
+      
+
+      <article>
+        <div class="article">
+
+          <h3><a href="http://edelgrace.me/life/comics-arent-just-kids-stuff/">Comics Aren’t Just Kids Stuff!</a></h3>
+          <h4>Feb 19, 2016 | <a href="http://edelgrace.me/life/comics-arent-just-kids-stuff/#disqus_thread">Comments</a></h4>
+          
+          <div class="tags">
+              <ul>
+                
+                <li><a href="/categories/books">Books</a></li>            
+                
+                <li><a href="/categories/internet">Internet</a></li>            
+                
+    
+                
+                <li><a href="/tags/web-comics">#web comics</a></li>
+                
+              </ul>
+          </div>
+
+          <p>
+
+<p>I initially started writing this post in 2012. I&rsquo;ve been going through and cleaning out my drafts and decided this one was worthy of continuing and actually publishing.</p>
+
+<p>Comics are usually written off as being childish or something only nerds can enjoy. But, I&rsquo;m not here to argue whether comics are legitimate literature or not. I&rsquo;m here to point out some of my favourite web comics. I don&rsquo;t know where it started but I got bored one day and eventually ended up on a web comics site. I thought I wasn&rsquo;t one for web comics but eventually, I was hooked.</p>
+
+<h3 id="myth">MYth</h3>
+
+<p><a href="http://myth.smackjeeves.com"><img src="http://scattered.me/wp-content/uploads/2016/02/myth.jpg" alt="myth" width="468" height="60" class="alignnone size-full wp-image-11048" srcset="http://erzadel.net/blog/wp-content/uploads/2016/02/myth.jpg 468w, http://erzadel.net/blog/wp-content/uploads/2016/02/myth-300x38.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></p>
+
+<p><a href="http://myth.smackjeeves.com">MYth</a> by <a href="http://zeldacw">Zelda</a>. I stumbled upon the author&rsquo;s DeviantArt page and eventually ended up on her web comic. I was immediately impressed and in awe.</p>
+
+<p>MYth is a spin off on Greek mythology. It&rsquo;s so good that it received two awards from Tokyopop, one of the major comic book publishers in North America. In MYth, there are multiple story arcs. The arc I last read included Zeus and Hades (typical, right?) in their younger years in a different light than most people would think of. Zelda has such a wonderful interpretation of the two gods and their relationship that it makes the story seem like her own and not taken from myths. It&rsquo;s just an incredible comic.</p>
+
+<h3 id="one-halfed">One Halfed</h3>
+
+<p><a href="http://1halfed.smackjeeves.com"><img src="http://scattered.me/wp-content/uploads/2016/02/onehalfed.png" alt="one halfed" width="468" height="60" class="alignnone size-full wp-image-11050" srcset="http://erzadel.net/blog/wp-content/uploads/2016/02/onehalfed.png 468w, http://erzadel.net/blog/wp-content/uploads/2016/02/onehalfed-300x38.png 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></p>
+
+<p>On the other side of the spectrum, there&rsquo;s angst-ridden and dramatic slice of life web comic, <a href="http://1halfed.smackjeeves.com">One Halfed</a> by 2die. This comic is absolutely beautiful. The drawings are expressive and just so darn appealing to the eye. Also, you can&rsquo;t ignore the plot. It&rsquo;s mostly character driven so if you&rsquo;re looking for some action packed explosions you&rsquo;re looking in the wrong place. The characterization and the development of the characters are superb which is rare for any kind of literature. Currently, updates are slowly trickling in. The artist was on hiatus for a while but it seems that they are &ldquo;back.&rdquo;</p>
+
+<h3 id="no-pink-ponies">No Pink Ponies</h3>
+
+<p><a href="http://nopinkponies.keenspot.com"><img src="http://scattered.me/wp-content/uploads/2016/02/nopinkponies.gif" alt="no pink ponies" width="468" height="60" class="alignnone size-full wp-image-11051" /></a></p>
+
+<p>Okay, <a href="http://nopinkponies.keenspot.com">No Pink Ponies</a> hasn&rsquo;t been updated in over a year now. It&rsquo;s incredibly sad but the journey through the comic is worth it. It&rsquo;s sad when an author abandons their work but it&rsquo;s pretty much normal in the web comic world. This comic is very slice of life and a little goofy. It&rsquo;s a lot of fun with the right amount of seriousness. Unfortunately (?) it does play into the whole geeky aspect of comics and such, but I love geek culture so that wasn&rsquo;t an issue for me. I adore the art style. It&rsquo;s very much &ldquo;Western comic&rdquo; to the tee.</p>
+
+<h3 id="crescendo">Crescendo</h3>
+
+<p><a href="http://crescendocomic.smackjeeves.com"><img src="http://scattered.me/wp-content/uploads/2016/02/crescendo.gif" alt="crescendo" width="468" height="60" class="alignnone size-full wp-image-11052" /></a></p>
+
+<p>I really love my slice of life! This one is very centered on romance. The characters can be a little bit one dimensional, fitting perfectly into their stereotypes but overall, they&rsquo;re pretty interesting! Usually you hear about the &ldquo;rich girl&rdquo; and the &ldquo;working class guy&rdquo; but it&rsquo;s nice seeing it &ldquo;switch up.&rdquo; I really enjoy <a href="http://crescendocomic.smackjeeves.com">Crescendo</a>! The art is so pretty and since it&rsquo;s an active comic, I love reading the comments whenever an update comes up.</p>
+
+<h3 id="society-of-vice">Society of Vice</h3>
+
+<p><a href="http://sovcomic.smackjeeves.com"><img src="http://scattered.me/wp-content/uploads/2016/02/sov.jpg" alt="sov" width="350" height="60" class="alignnone size-full wp-image-11053" srcset="http://erzadel.net/blog/wp-content/uploads/2016/02/sov.jpg 350w, http://erzadel.net/blog/wp-content/uploads/2016/02/sov-300x51.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a></p>
+
+<p>The great thing about self-publishing comics is that there is so much variety in the range of topics that can be covered from all sorts of different people without restraint. <a href="http://sovcomic.smackjeeves.com">Society of Vice</a> is about a therapy group which includes a couple of LGBTQ+ members. The water colour art style is GORGEOUS! Seriously! Unfortunately, the comic is currently on hiatus last time I checked. The content is pretty mature so read with caution.</p>
+</p>
+
+        </div>
+      </article>
+
+      
+      
+  </div>
+
+  <div class="pagination">
+    
+    
+
+    
+
+  </div>
+
+</div>
+
+<div class="blog-sidebar">
+
+  <h2>About</h2>
+
+  <section id="about">
+  
+    <div class="about-wrapper">
+  
+      <div class="photo">
+        <img src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1512463955/edel-altares_jcufrn.png" alt="A photo of me" />
+      </div>    
+
+      <div class="about">
+        
+        <p>My name is <strong>Edel Grace Altares</strong>. My programming interests include <strong>full stack development</strong> and <strong>back end development</strong>. My languages of choice are <strong>Python</strong> and <strong>Java</strong>. Outside of programming I enjoy crocheting, video games, cats, historical fiction, and reading. </p>
+
+      </div>
+    
+    </div>
+  
+  </section>    
+
+  <h2>Categories</h2>
+
+  
+
+  <ul>
+
+    
+
+    
+
+    <li><a href="/categories/life">life</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/books">books</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/fitness">fitness</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/crochet">crochet</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/knitting">knitting</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/programming">programming</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/internet">internet</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/technology">technology</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/websites">websites</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/crafts">crafts</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/music">music</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/cooking">cooking</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/movies">movies</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/networking">networking</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/organization">organization</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/work">work</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/anime">anime</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/friends-and-family">friends-and-family</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/school">school</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/snippets">snippets</a></li>
+
+    
+
+    
+
+    
+
+    <li><a href="/categories/tech">tech</a></li>
+
+    
+
+    
+      
+  </ul>
+
+  <h2>Archives</h2>
+  
+  
+
+  <ul>
+
+  
+    <li><a href="/archive/#Jan-2018">Jan-2018</a></li>
+
+  
+    <li><a href="/archive/#Sep-2017">Sep-2017</a></li>
+
+  
+    <li><a href="/archive/#Aug-2017">Aug-2017</a></li>
+
+  
+    <li><a href="/archive/#Jul-2017">Jul-2017</a></li>
+
+  
+    <li><a href="/archive/#Jun-2017">Jun-2017</a></li>
+
+  
+    <li><a href="/archive/#Apr-2017">Apr-2017</a></li>
+
+  
+    <li><a href="/archive/#Mar-2017">Mar-2017</a></li>
+
+  
+    <li><a href="/archive/#Feb-2017">Feb-2017</a></li>
+
+  
+    <li><a href="/archive/#Jan-2017">Jan-2017</a></li>
+
+  
+    <li><a href="/archive/#Dec-2016">Dec-2016</a></li>
+
+  
+    <li><a href="/archive/#Nov-2016">Nov-2016</a></li>
+
+  
+    <li><a href="/archive/#Oct-2016">Oct-2016</a></li>
+
+  
+    <li><a href="/archive/#Jun-2016">Jun-2016</a></li>
+
+  
+    <li><a href="/archive/#Mar-2016">Mar-2016</a></li>
+
+  
+    <li><a href="/archive/#Feb-2016">Feb-2016</a></li>
+
+  
+
+  </ul>
+
+  
+
+  <h2>Blogroll</h2>
+
+  <ul class="blogroll">
+    <li><a href="https://fadedout.com">Kim</a></li>
+    <li><a href="https://violinstar.net">Sakura</a></li>
+  </ul>
+
+</div>
+  
+
+        </div>
+        
+        <footer>
+            <p>Powered by <a href="https://gethugo.io">Hugo</a></p>
+        </footer>
+
+        
+        
+
+        
+
+        <script id="dsq-count-scr" src="//edelgrace.disqus.com/count.js" async></script>
+
+        
+        
+        <script>hljs.initHighlightingOnLoad();</script>
+    </body>
+</html>
