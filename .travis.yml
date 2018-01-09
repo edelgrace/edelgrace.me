@@ -29,7 +29,7 @@ after_success: |
   then
     cd public
     git remote add origin "https://edelgrace:${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io"
-    git config user.name "Edel"
+    git config user.name "edelgrace"
     git config user.email "edel.altares@gmail.com"
     git add .
     git commit -am "Travis build ${TRAVIS_BUILD_NUMBER}"
