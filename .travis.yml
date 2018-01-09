@@ -9,6 +9,14 @@ install:
   - sudo dpkg -i /tmp/hugo.deb
   - rm -rf public || exit 0
 
+before_script:
+  - git config --global user.email "edel.altares@gmail.com"
+  - git config --global user.name "Edel-Travis"
+  
+after_script:
+  - git config credential.helper "store --file=.git/credentials"
+  - echo "https://${GITHUB_TOKEN}:@github.com" > .git/credentials
+
 # Build the website
 script:
   - pygmentize -V
