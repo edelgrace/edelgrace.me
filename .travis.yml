@@ -30,4 +30,6 @@ deploy:
   skip_cleanup: true
   local_dir: public
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  target_branch: master
+  on:
+    repo: edelgrace/edelgrace.github.io
+    branch: master
