@@ -24,11 +24,22 @@ script:
   - hugo -v
   - cp CNAME public/
 
+after_success: |
+  if [ -n "${GITHUB_TOKEN}" ] && [ "$TRAVIS_PULL_REQUEST" = 'false' ]
+  then
+    cd public
+    git remote add origin "https://edelgrace:${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io"
+    git config user.name "Edel"
+    git config user.email "edel.altares@gmail.com"
+    git add .
+    git commit -am "Travis build ${TRAVIS_BUILD_NUMBER}"
+    git push origin HEAD:master
+    cd ..
+  fi
+
 # Deploy to GitHub pages
 deploy:
   provider: pages
   skip_cleanup: true
-  target-branch: master
-  repo: edelgrace/edelgrace.me
   local_dir: public
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
