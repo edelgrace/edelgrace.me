@@ -1,7 +1,8 @@
 ---
 title: "Uber Frugal Month January 2018 Day 3 & 4"
 date: 2018-01-06T22:44:25-07:00
-draft: true
+publish_date: 2018-01-09
+draft: false
 slug: uber-frugal-month-january-2018-day-3-and-4
 type: blog
 ---
