@@ -3,7 +3,7 @@ title: Cookie Icing Charades
 author: Edel
 type: blog
 date: 2017-01-16T06:17:11+00:00
-url: /life/cookie-icing-charades/
+url: /blog/cookie-icing-charades/
 categories:
   - Life
 tags:

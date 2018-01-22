@@ -3,7 +3,7 @@ title: Forever Tinkering with My Productivity System
 author: Edel
 type: blog
 date: 2017-08-12T23:48:53+00:00
-url: /life/forever-tinkering-with-my-productivity-system/
+url: /blog/forever-tinkering-with-my-productivity-system/
 categories:
   - Life
   - Organization

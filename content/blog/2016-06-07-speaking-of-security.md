@@ -3,7 +3,7 @@ title: Speaking of Security
 author: Edel
 type: blog
 date: 2016-06-07T22:37:46+00:00
-url: /life/speaking-of-security/
+url: /blog/speaking-of-security/
 categories:
   - Internet
   - Technology

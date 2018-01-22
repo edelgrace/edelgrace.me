@@ -5,7 +5,7 @@ type: blog
 date: 2017-03-17T18:50:00+00:00
 draft: true
 private: true
-url: /life/i-bought-a-new-laptop/
+url: /blog/i-bought-a-new-laptop/
 categories:
   - Life
   - Technology

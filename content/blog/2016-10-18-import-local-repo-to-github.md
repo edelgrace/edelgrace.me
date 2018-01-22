@@ -5,7 +5,7 @@ type: blog
 date: 2016-10-19T01:31:16+00:00
 draft: true
 private: true
-url: /life/import-local-repo-to-github/
+url: /blog/import-local-repo-to-github/
 categories:
   - Knowledge Base
 tags:

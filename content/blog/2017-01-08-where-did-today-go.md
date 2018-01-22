@@ -5,7 +5,7 @@ type: blog
 date: 2017-01-08T21:50:58+00:00
 draft: true
 private: true
-url: /life/where-did-today-go/
+url: /blog/where-did-today-go/
 categories:
   - Life
 

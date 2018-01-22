@@ -5,7 +5,7 @@ type: blog
 date: 2017-01-16T02:05:19+00:00
 draft: true
 private: true
-url: /life/weekly-drawing-1/
+url: /blog/weekly-drawing-1/
 categories:
   - Life
 tags:

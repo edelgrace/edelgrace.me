@@ -3,7 +3,7 @@ title: Bought Some New Music!
 author: Edel
 type: blog
 date: 2016-10-09T03:33:37+00:00
-url: /life/bought-some-new-music/
+url: /blog/bought-some-new-music/
 categories:
   - Music
 

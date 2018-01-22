@@ -3,7 +3,7 @@ title: New Week, New Me
 author: Edel
 type: blog
 date: 2016-12-01T04:19:53+00:00
-url: /life/new-week-new-me/
+url: /blog/new-week-new-me/
 categories:
   - Life
 

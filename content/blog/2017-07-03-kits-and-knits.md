@@ -3,7 +3,7 @@ title: Kits and Knits
 author: Edel
 type: blog
 date: 2017-07-03T22:09:52+00:00
-url: /life/kits-and-knits/
+url: /blog/kits-and-knits/
 categories:
   - Knitting
   - Life

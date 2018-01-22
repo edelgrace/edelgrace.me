@@ -5,7 +5,7 @@ type: blog
 date: 2017-02-14T12:41:00+00:00
 draft: true
 private: true
-url: /life/being-depressed-in-a-relationship/
+url: /blog/being-depressed-in-a-relationship/
 categories:
   - Life
 

@@ -3,7 +3,7 @@ title: 'Book Blogger Hop #16'
 author: Edel
 type: blog
 date: 2017-04-21T08:00:00+00:00
-url: /life/book-blogger-hop-16/
+url: /blog/book-blogger-hop-16/
 categories:
   - Life
 

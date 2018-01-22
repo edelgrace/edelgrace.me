@@ -5,7 +5,7 @@ type: blog
 date: 2017-02-02T02:46:56+00:00
 draft: true
 private: true
-url: /life/town-hall-with-the-prime-minister/
+url: /blog/town-hall-with-the-prime-minister/
 categories:
   - Life
 tags:
