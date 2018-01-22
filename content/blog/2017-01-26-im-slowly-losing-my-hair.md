@@ -1,5 +1,5 @@
 ---
-title: 'Private: I’m Slowly Losing My Hair'
+title: 'I’m Slowly Losing My Hair'
 author: Edel
 type: blog
 date: 2017-01-26T07:57:00+00:00

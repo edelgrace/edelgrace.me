@@ -10,7 +10,6 @@ categories:
 tags:
   - blogilates
   - blogilates beginners calendar
-
 ---
 **Disclaimer:** This "review"/blog series is NOT sponsored in any way and all opinions are entirely of my own.
 
