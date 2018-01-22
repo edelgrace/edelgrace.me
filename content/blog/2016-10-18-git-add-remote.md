@@ -3,8 +3,7 @@ title: Git Add Remote
 author: Edel
 type: blog
 date: 2016-10-19T01:33:13+00:00
-draft: true
-private: true
+draft: false
 url: /blog/git-add-remote/
 categories:
   - Knowledge Base

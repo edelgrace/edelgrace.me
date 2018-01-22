@@ -1,10 +1,9 @@
 ---
-title: 'Private: Being Depressed in a Relationship'
+title: 'Being Depressed in a Relationship'
 author: Edel
 type: blog
 date: 2017-02-14T12:41:00+00:00
-draft: true
-private: true
+draft: false
 url: /blog/being-depressed-in-a-relationship/
 categories:
   - Life

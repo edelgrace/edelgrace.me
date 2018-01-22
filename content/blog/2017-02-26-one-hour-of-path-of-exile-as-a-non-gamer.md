@@ -1,11 +1,10 @@
 ---
-title: 'Private: One Hour of Path of Exile as a Non-Gamer'
+title: 'One Hour of Path of Exile as a Non-Gamer'
 author: Edel
 type: blog
 date: 2017-02-26T19:34:32+00:00
-draft: true
-private: true
-url: /video-games/one-hour-of-path-of-exile-as-a-non-gamer/
+draft: false
+url: /blog/one-hour-of-path-of-exile-as-a-non-gamer/
 categories:
   - Video Games
 tags:

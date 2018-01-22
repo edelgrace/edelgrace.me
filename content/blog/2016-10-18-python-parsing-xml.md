@@ -3,8 +3,7 @@ title: 'Python: Parsing XML'
 author: Edel
 type: blog
 date: 2016-10-19T01:56:22+00:00
-draft: true
-private: true
+draft: false
 url: /blog/python-parsing-xml/
 categories:
   - Knowledge Base

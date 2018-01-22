@@ -1,10 +1,9 @@
 ---
-title: 'Private: Vietnamese Food and Westworld'
+title: 'Vietnamese Food and Westworld'
 author: Edel
 type: blog
 date: 2017-01-08T18:00:21+00:00
-draft: true
-private: true
+draft: false
 url: /blog/vietnamese-food-and-westworld/
 categories:
   - Life

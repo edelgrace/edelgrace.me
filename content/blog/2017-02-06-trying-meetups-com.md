@@ -1,10 +1,9 @@
 ---
-title: 'Private: Trying Meetups.com'
+title: 'Trying Meetups.com'
 author: Edel
 type: blog
 date: 2017-02-07T06:06:00+00:00
-draft: true
-private: true
+draft: false
 url: /blog/trying-meetups-com/
 categories:
   - Life

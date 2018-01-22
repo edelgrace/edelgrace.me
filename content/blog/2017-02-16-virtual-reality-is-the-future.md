@@ -1,11 +1,10 @@
 ---
-title: 'Private: Virtual Reality is the Future?'
+title: 'Virtual Reality is the Future?'
 author: Edel
 type: blog
 date: 2017-02-16T10:45:00+00:00
-draft: true
-private: true
-url: /technology/virtual-reality-is-the-future/
+draft: false
+url: /blog/virtual-reality-is-the-future/
 categories:
   - Technology
 tags:

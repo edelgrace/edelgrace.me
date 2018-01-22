@@ -1,10 +1,9 @@
 ---
-title: 'Private: TIL: Best First Search and Local Maxima Problem'
+title: 'TIL: Best First Search and Local Maxima Problem'
 author: Edel
 type: blog
 date: 2017-01-02T06:40:16+00:00
-draft: true
-private: true
+draft: false
 url: /blog/til-best-first-search-and-local-maxima-problem/
 categories:
   - Programming

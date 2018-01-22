@@ -1,10 +1,9 @@
 ---
-title: 'Private: I Bought a New Laptop'
+title: 'I Bought a New Laptop'
 author: Edel
 type: blog
 date: 2017-03-17T18:50:00+00:00
-draft: true
-private: true
+draft: false
 url: /blog/i-bought-a-new-laptop/
 categories:
   - Life

@@ -3,8 +3,7 @@ title: 'Python: Cookies and Requests'
 author: Edel
 type: blog
 date: 2016-10-29T01:47:03+00:00
-draft: true
-private: true
+draft: false
 url: /blog/python-cookies-and-requests/
 categories:
   - Knowledge Base

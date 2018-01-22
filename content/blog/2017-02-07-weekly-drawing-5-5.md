@@ -1,10 +1,9 @@
 ---
-title: 'Private: Weekly Drawing #5.5'
+title: 'Weekly Drawing #5.5'
 author: Edel
 type: blog
 date: 2017-02-08T02:38:00+00:00
-draft: true
-private: true
+draft: false
 url: /blog/weekly-drawing-5-5/
 categories:
   - Life

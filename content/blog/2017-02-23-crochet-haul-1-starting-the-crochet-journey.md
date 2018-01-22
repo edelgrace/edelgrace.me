@@ -1,10 +1,9 @@
 ---
-title: 'Private: Crochet Haul #1: Starting the Crochet Journey'
+title: 'Crochet Haul #1: Starting the Crochet Journey'
 author: Edel
 type: blog
 date: 2017-02-23T19:56:02+00:00
-draft: true
-private: true
+draft: false
 url: /blog/crochet-haul-1-starting-the-crochet-journey/
 categories:
   - Crochet

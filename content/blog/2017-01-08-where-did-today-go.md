@@ -1,10 +1,9 @@
 ---
-title: 'Private: Where Did Today Go?'
+title: 'Where Did Today Go?'
 author: Edel
 type: blog
 date: 2017-01-08T21:50:58+00:00
-draft: true
-private: true
+draft: false
 url: /blog/where-did-today-go/
 categories:
   - Life
