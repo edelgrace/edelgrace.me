@@ -3,7 +3,7 @@ title: 'Tip: Backing Up MySQL Databases Via Command Line'
 author: Edel
 type: blog
 date: 2017-03-21T19:26:59+00:00
-url: /programming/tip-backing-up-mysql-databases-via-command-line/
+url: /blog/tip-backing-up-mysql-databases-via-command-line/
 categories:
   - Programming
 tags:

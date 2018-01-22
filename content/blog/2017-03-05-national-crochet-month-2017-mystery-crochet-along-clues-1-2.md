@@ -3,7 +3,7 @@ title: 'National Crochet Month 2017: Mystery Crochet Along Clues 1 & 2'
 author: Edel
 type: blog
 date: 2017-03-05T20:13:11+00:00
-url: /crochet/national-crochet-month-2017-mystery-crochet-along-clues-1-2/
+url: /blog/national-crochet-month-2017-mystery-crochet-along-clues-1-2/
 categories:
   - Crochet
 tags:

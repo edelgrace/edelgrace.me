@@ -3,7 +3,7 @@ title: 'Book Review: The Vegetarian by Han Kang'
 author: Edel
 type: blog
 date: 2017-08-06T04:07:17+00:00
-url: /books/book-review-the-vegetarian-by-han-kang/
+url: /blog/book-review-the-vegetarian-by-han-kang/
 categories:
   - Books
 tags:

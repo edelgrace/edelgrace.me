@@ -3,7 +3,7 @@ title: 'Book Blogger Hop #20'
 author: Edel
 type: blog
 date: 2017-06-23T07:40:11+00:00
-url: /books/book-blogger-hop-20/
+url: /blog/book-blogger-hop-20/
 categories:
   - Books
 tags:

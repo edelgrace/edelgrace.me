@@ -3,7 +3,7 @@ title: 'FO #5: My First Granny Square'
 author: Edel
 type: blog
 date: 2017-04-05T18:14:48+00:00
-url: /crochet/fo-5-my-first-granny-square/
+url: /blog/fo-5-my-first-granny-square/
 categories:
   - Crochet
 tags:

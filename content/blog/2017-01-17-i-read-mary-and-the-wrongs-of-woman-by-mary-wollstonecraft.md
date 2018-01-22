@@ -3,7 +3,7 @@ title: 'I Read: Mary and The Wrongs of Woman by Mary Wollstonecraft'
 author: Edel
 type: blog
 date: 2017-01-18T03:51:00+00:00
-url: /books/i-read-mary-and-the-wrongs-of-woman-by-mary-wollstonecraft/
+url: /blog/i-read-mary-and-the-wrongs-of-woman-by-mary-wollstonecraft/
 categories:
   - Books
 tags:

@@ -3,7 +3,7 @@ title: 'FO #4: NatCroMo2017 Mystery Crochet Along'
 author: Edel
 type: blog
 date: 2017-03-31T08:50:18+00:00
-url: /crochet/fo-4-natcromo2017-mystery-crochet-along/
+url: /blog/fo-4-natcromo2017-mystery-crochet-along/
 categories:
   - Crochet
 tags:

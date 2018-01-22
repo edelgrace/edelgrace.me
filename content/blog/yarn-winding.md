@@ -3,6 +3,7 @@ title: "Yarn Winding"
 date: 2018-01-08T11:05:12-07:00
 draft: false
 type: blog
+slug: yarn-winding
 categories:
     - crafts
 tags:

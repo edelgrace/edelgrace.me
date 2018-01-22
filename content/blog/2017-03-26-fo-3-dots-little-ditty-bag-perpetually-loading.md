@@ -3,7 +3,7 @@ title: 'FO #3: Dot’s Little Ditty Bag – Perpetually Loading'
 author: Edel
 type: blog
 date: 2017-03-26T19:03:56+00:00
-url: /crochet/fo-3-dots-little-ditty-bag-perpetually-loading/
+url: /blog/fo-3-dots-little-ditty-bag-perpetually-loading/
 categories:
   - Crochet
 tags:

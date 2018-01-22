@@ -3,7 +3,7 @@ title: 'Book Review: The Birthday of the World and Other Stories by Ursula K. Le
 author: Edel
 type: blog
 date: 2017-04-03T16:24:00+00:00
-url: /books/book-review-the-birthday-of-the-world-and-other-stories-by-ursula-k-le-guin/
+url: /blog/book-review-the-birthday-of-the-world-and-other-stories-by-ursula-k-le-guin/
 categories:
   - Books
 tags:

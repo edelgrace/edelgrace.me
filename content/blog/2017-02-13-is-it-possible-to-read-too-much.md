@@ -3,7 +3,7 @@ title: Is it Possible to Read Too Much?
 author: Edel
 type: blog
 date: 2017-02-14T02:52:51+00:00
-url: /books/is-it-possible-to-read-too-much/
+url: /blog/is-it-possible-to-read-too-much/
 categories:
   - Books
 

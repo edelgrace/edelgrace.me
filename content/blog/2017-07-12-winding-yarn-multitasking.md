@@ -3,7 +3,7 @@ title: Winding Yarn Multitasking
 author: Edel
 type: blog
 date: 2017-07-12T10:18:40+00:00
-url: /crochet/winding-yarn-multitasking/
+url: /blog/winding-yarn-multitasking/
 categories:
   - Crochet
 

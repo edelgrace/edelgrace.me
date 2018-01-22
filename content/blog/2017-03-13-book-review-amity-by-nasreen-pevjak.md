@@ -3,7 +3,7 @@ title: 'Book Review: Amity by Nasreen Pevjak'
 author: Edel
 type: blog
 date: 2017-03-13T12:47:00+00:00
-url: /books/book-review-amity-by-nasreen-pevjak/
+url: /blog/book-review-amity-by-nasreen-pevjak/
 categories:
   - Books
 tags:

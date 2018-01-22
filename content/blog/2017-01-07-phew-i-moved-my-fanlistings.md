@@ -3,7 +3,7 @@ title: Phew… I Moved My Fanlistings
 author: Edel
 type: blog
 date: 2017-01-07T14:50:11+00:00
-url: /websites/phew-i-moved-my-fanlistings/
+url: /blog/phew-i-moved-my-fanlistings/
 categories:
   - Websites
 tags:
