@@ -3,7 +3,7 @@ title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 3'
 author: Edel
 type: blog
 date: 2016-02-20T06:54:48+00:00
-url: /blogilates-beginners-workout-calendar-2-0-day-3/
+url: /blog/blogilates-beginners-workout-calendar-2-0-day-3/
 categories:
   - Fitness
 tags:

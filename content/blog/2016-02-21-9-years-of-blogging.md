@@ -3,7 +3,7 @@ title: 9 Years of Blogging
 author: Edel
 type: blog
 date: 2016-02-21T21:45:26+00:00
-url: /9-years-of-blogging/
+url: /blog/9-years-of-blogging/
 categories:
   - Internet
   - Life
