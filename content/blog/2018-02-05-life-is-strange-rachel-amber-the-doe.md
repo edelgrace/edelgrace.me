@@ -4,6 +4,10 @@ date: 2018-02-05
 publishDate: 2018-02-05
 slug: life-is-strange-the-tragedy-of-rachel-amber
 draft: false
+categories:
+  - video games
+tags:
+  - life is strange
 ---
 
 **Warning: Spoilers for both *Life is Strange Season 1* and *Life is Strange: Before the Storm***
