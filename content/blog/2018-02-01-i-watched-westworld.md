@@ -3,6 +3,7 @@ title: 'I Watched: Westworld'
 author: Edel
 type: blog
 date: 2018-02-01
+publishDate: 2018-02-01
 draft: false
 slug: i-watched-westworld
 categories:
