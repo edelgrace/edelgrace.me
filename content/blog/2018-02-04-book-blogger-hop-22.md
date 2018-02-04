@@ -19,4 +19,4 @@ tags:
 
 > Do you prefer to blog about (a) specific book genre(s), or do you have an eclectic blog? 
 
-I read a lot of genres and therefore my blog reflects that. So yes, I have an eclectic blog! When I pick books to read, I don't consciously pick something by the genre. I think I tend to read a lot of memoirs, historical fiction, and romance. Lately I've been on a fantasy binge. Really, I don't know if there is a genre I would read and then blog about!
+I read a lot of genres and therefore my blog reflects that. So yes, I have an eclectic blog! When I pick books to read, I don't consciously pick something by the genre. I think I tend to read a lot of memoirs, historical fiction, and romance. Lately I've been on a fantasy binge. Really, I don't know if there is a genre I would **not** read and then blog about!
