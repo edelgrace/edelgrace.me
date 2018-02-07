@@ -1,9 +1,9 @@
 ---
 title: "Book Review: The Unreal and the Real by Ursula K. Le Guin"
-date: 2018-02-07
-publishDate: 2018-02-07
+date: 2018-02-14
+publishDate: 2018-02-14
 slug: book-review-the-unreal-and-the-real-by-ursula-k-le-guin
-draft: true
+draft: false
 categories:
   - books
 tags:
@@ -25,4 +25,4 @@ tags:
 
 > Companion volume Outer Space Inner Lands includes Le Guin’s best known nonrealistic stories. Both volumes include new introductions by the author.
 
-I love Ursula K. Le Guin. I wrote a post about just [how much she sparks my imagination](http://edelgrace.me/blog/inspiration-from-fictional-worlds)
+I love Ursula K. Le Guin. I [wrote a post]((http://edelgrace.me/blog/inspiration-from-fictional-worlds)) about just how much she sparks my imagination
