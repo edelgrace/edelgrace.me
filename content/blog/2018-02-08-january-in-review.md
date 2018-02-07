@@ -55,4 +55,4 @@ My 2018 started pretty quick. By the 2nd of January, [I was back in class](http:
 
 ### Summary
 
-All in all, it was a good month. I spent a lot more than I wish I should have. Tuition is a no brainer but still. I need to get a job.
+All in all, it was a good month. I spent a lot more than I wish I should have. Tuition is a no brainer but still. I need to get a job. That's the goal for next month hopefully.
