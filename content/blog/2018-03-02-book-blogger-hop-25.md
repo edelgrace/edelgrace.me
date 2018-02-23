@@ -18,3 +18,13 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Off the book topic...do you use a mouse pad? If so, what is on it?
+
+I do not use a mouse pad! I don't even own a mouse pad. I just use whatever surface I'm using for a mouse pad. In fact, it's very rare when I actually use a mouse at all.
+
+My only computer is my laptop so I most often use the trackpad instead. The only time I use a mouse is when I'm playing video games on my laptop, since it's a gaming laptop. Previously I used a wired mouse but the wire wore out. Recently I had to buy a new mouse because my wired mouse just wouldn't work anymore.
+
+This time I opted for a wireless mouse. I like it so far. I can change the sensitivity with buttons and go back and forward pages when I'm using a web browser. It's a little bit too big for my small hands but it's still a great mouse!
+
+<figure><img src="" alt="My mouse" /></figure> 
+
+However, if I ever get a desktop computer, I think I would buy a mouse pad just so that the table won't get damaged.
