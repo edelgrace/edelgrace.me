@@ -1,7 +1,7 @@
 ---
 title: "February 2018 in Review"
-date: 2018-03-01
-publishDate: 2018-03-01
+date: 2018-03-04
+publishDate: 2018-03-04
 type: blog
 slug: february-2018-in-review
 draft: false
