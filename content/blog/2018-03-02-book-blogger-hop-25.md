@@ -25,6 +25,4 @@ My only computer is my laptop so I most often use the trackpad instead. The only
 
 This time I opted for a wireless mouse. I like it so far. I can change the sensitivity with buttons and go back and forward pages when I'm using a web browser. It's a little bit too big for my small hands but it's still a great mouse!
 
-<figure><img src="" alt="My mouse" /></figure> 
-
 However, if I ever get a desktop computer, I think I would buy a mouse pad just so that the table won't get damaged.
