@@ -18,3 +18,7 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > When meeting with friends, do your discussions usually turn to books?
+
+Not really. It's been a while since I've had any conversations with friends about books. Actually, the last conversation that comes to mind is around when Ursula K. Le Guin passed away. Which sparked me to want to read _The Left Hand of Darkness_.
+
+Sometimes my friends talk about books but I don't really read the same things they do. George R. R. Martin comes up a lot because they want books to be churned out fast. I think I have different tastes from my friends so books don't come up often. Also, I don't really have a lot of bookish friends to begin with. Most of our common hobbies are anime and video games!
