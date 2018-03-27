@@ -8,9 +8,11 @@ snippet: ""
 
 ## Introduction
 
-I have been recording the songs that I've listened to for seven years as of February 2018. The way I've done this has been through [Last.fm](https://last.fm) by a process called scrobbling.
-
+I have keeping a record the songs that I've listened to for seven years as of February 2018. The way I've done this has been through [Last.fm](https://last.fm) by a process called scrobbling.
+ 
 ## Which songs are the most similar? The most dissimilar? 
+
+
 
 ## What different themes are associated with the songs I listen to the most?
 
