@@ -26,7 +26,7 @@ I have keeping a record the songs that I've listened to for seven years as of Fe
 
 According to Last.fm, these are my top artists:
 
-
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1522248440/Top_10_Artists_Lastfm_hocc8z.png" title="Top 10 Artists by playcount">}}
 
 The way Last.fm calculates a top artist is simply by how many times you have listened to an artist. I know that for me, I tend to go through a lot of phases so my top artists are not accurate. I could listen to an artist 500 times and then never listen to them again. This metric doesn't accurately reflect what a top artist to me.
 
