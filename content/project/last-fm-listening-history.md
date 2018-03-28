@@ -36,3 +36,15 @@ The way I see a top artist is a combination of three factors:
 * How many different songs I listen to by an artist out of their entire discography
 * How long they have been in my library for
 
+In my opinion, here are 10 artists that I feel would by my top artists, purely just from how much I like the artists. These artists are musicians that I would not hesitate to say they are one of my favourites.
+
+* L'Arc~en~Ciel
+* DIR EN GREY
+* Bjork
+* Utada Hikaru
+* Joanna Newsom
+* Marina & the Diamonds
+* Thrice
+* My Chemical Romance
+* Green Day
+* Mashrou' Leila
