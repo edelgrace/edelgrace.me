@@ -16,11 +16,28 @@ I have keeping a record the songs that I've listened to for seven years as of Fe
 
 ## What different themes are associated with the songs I listen to the most?
 
+
 ## How different are my listening habits before and after I started using Spotify?
+
 
 ## Are there any periods when I listen to songs more often?
 
+The following are graphs that showcase when I listen to songs the most often.
+
+### Yearly
+
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1522260005/Yearly_p8tzy5.png" title="Yearly Listening">}}
+
+It seems that as the years go on, I've been listening to less and less music. In the year 2011-2012, I was in high school. I think this was the peak of my music listening because I associated music with my identity quite a lot back then. Also, since I was still new to using Last.fm, I was more enthusiastic about recording songs. One hypothesis that I have as to why 2015 onwards is quite a difference to previous years is that midway through 2015, I got into a relationship. A lot of my free time was now spent hanging out with my boyfriend.
+
+### Monthly
+
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1522261647/Month_All_yr4tnp.png" title="Monthly listening">}}
+
+
+
 ## Are there any factors that can predict high play counts? Low play counts?
+
 
 ## What’s a better way to calculate a “top artist?”
 
@@ -48,3 +65,4 @@ In my opinion, here are 10 artists that I feel would by my top artists, purely j
 * My Chemical Romance
 * Green Day
 * Mashrou' Leila
+
