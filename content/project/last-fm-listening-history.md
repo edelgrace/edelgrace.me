@@ -34,7 +34,9 @@ It seems that as the years go on, I've been listening to less and less music. In
 
 {{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1522261647/Month_All_yr4tnp.png" title="Monthly listening">}}
 
+Across all years, this is how many songs I listen to per month. February has a significantly less scrobbles, probably due to the fact that February is a shorter month. However, it's only a couple days shorter than other months so it wouldn't account that much for it.
 
+June, July, and August are months where I spend a lot of time out of the house and not a lot of time listening to music. September might be so high because of the new semester. The November and December dips a bit possibly because of the end of the semester and holidays.
 
 ## Are there any factors that can predict high play counts? Low play counts?
 
