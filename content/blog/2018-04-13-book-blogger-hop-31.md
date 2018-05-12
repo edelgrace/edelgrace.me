@@ -18,3 +18,7 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Is there a fictitious town in a book that you would love to live in? What makes it appealing?
+
+This is a good question. The first town I thought of is Avonlea, Prince Edward Island. Lately I've been having *Anne of Green Gables* on my mind. Although I admit that I'm a city girl, there's something really comforting about the calming scenery of the East coast.
+
+I've always been curious about the small town feel, especially back in those times. There's a real sense of community 
