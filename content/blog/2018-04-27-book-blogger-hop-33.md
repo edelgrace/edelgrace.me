@@ -18,3 +18,7 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Have you ever thought of writing a respectful, but angry letter to an author to ask them WHY they killed off one of your favorite characters in a novel?
+
+My initial reaction was no but when I thought about it, there has only been one favourite of mine character who was killed off. The Last Dragon Chronicles by Chris D'Lacey was one of my favourite book series while I was growing up.
+
+Without going into too much spoiler terrority, there was one character I liked a lot who the author killed off. I was really shocked by the death. It seemed senseless to me at the time. I didn't get why it happened. So I was pretty angry at the author. Writing a letter to him didn't cross my mind but I was pretty peeved for a while.

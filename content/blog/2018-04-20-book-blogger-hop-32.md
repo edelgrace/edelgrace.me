@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > How do you organize your books for review? Does it work for you or have you had to change it?
+
+I just write reviews of books as I read them. No organization needed. Everything goes into one category: "Book" and then it gets the tag "review." I very rarely review books in the first place so it's not something that I pay much attention to.
