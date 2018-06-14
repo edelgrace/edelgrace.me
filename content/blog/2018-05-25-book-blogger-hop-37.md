@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you remember the first book you read by yourself?
+
+Nope. Not at all. I'm not even going to attempt to try to figure this out. I can see picture books in my mind but damn... That was such a long time ago. And I was such an avid reader back then, even when I was just first starting out. I wish I knew the answer.
