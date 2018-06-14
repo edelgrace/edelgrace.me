@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > For all of you worker bees out there! How do you balance having a day job/career and managing your blog at night? Is it hard or easy to do, and what do people in your work life think of your blogs?
+
+I am unemployed. 🙃
