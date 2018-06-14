@@ -18,3 +18,9 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > What author have you read the most in the past two years?
+
+Not including manga artists, that would by Ursula K. Le Guin.
+
+I just happened to come across Le Guin by chance. I was itching to read some sci-fi but I was daunted by all the thick hardcover volumes at my local library. *A Fisherman of the Inland Sea* stuck out to me. It was a slim normal sized paperback and the summary intrigued me. When I finally read it, I was in awe. I loved how masterfully Le Guin could make these worlds and alien species so foreign but also instill a human element that was relatable and recognizable.
+
+Since then, I've been picking up her books whenever I see them available at the library. Riht now, I'm currently reading her *Earthsea* series so that'll add a few more books to the count.
