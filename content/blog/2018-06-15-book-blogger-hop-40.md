@@ -18,3 +18,12 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > You have just won a $100.00 Visa gift card. Will you spend the entire amount on a rare collector's edition you have always wanted, or buy several newlypublished books? Explain your choice.
+
+For a hot moment, I wanted to buy all the editions of *Vilette* by Charlotte Brontë that I could. I only have two. But I have my eye on a couple of other ones. While the editions definitely aren't rare, I still want them very badly. They are so beautiful.
+
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1529006161/26805367_t8xgmm.jpg" title="">}}
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1529006161/23460962_y1grs6.jpg" title="">}}
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1529006161/10803888_doebay.jpg" title="">}}
+{{<figure src="http://res.cloudinary.com/dvozrk6m8/image/upload/v1529006161/1831331_dw5obb.jpg" title="">}}
+
+But yeah, I've vowed never to buy a book just to try it ever again. I will only buy books that I have read already. This is  because I don't want to take a risk on a book I might not like, I'm trying to spend less money, and I have no room for any more books. So no newly published books for me.
