@@ -1,9 +1,9 @@
 ---
 title: Comics Aren’t Just Kids Stuff!
 author: Edel
-type: blog
+type: post
 date: 2016-02-19T01:40:18+00:00
-url: /blog/comics-arent-just-kids-stuff/
+url: /life/comics-arent-just-kids-stuff/
 categories:
   - Books
   - Internet

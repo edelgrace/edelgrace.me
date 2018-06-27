@@ -1,10 +1,11 @@
 ---
 title: Git Add Remote
 author: Edel
-type: blog
+type: post
 date: 2016-10-19T01:33:13+00:00
-draft: false
-url: /blog/git-add-remote/
+draft: true
+private: true
+url: /life/git-add-remote/
 categories:
   - Knowledge Base
 tags:

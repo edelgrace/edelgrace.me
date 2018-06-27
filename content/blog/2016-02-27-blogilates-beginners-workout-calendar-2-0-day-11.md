@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 11'
 author: Edel
-type: blog
+type: post
 date: 2016-02-27T14:20:53+00:00
-url: /blog/blogilates-beginners-workout-calendar-2-0-day-11/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-11/
 categories:
   - Fitness
   - Life
@@ -18,7 +18,7 @@ tags:
 
 ### Day 11: Lower Body
 
-Another day, another week almost finished (I'm talking in terms of the weekday week and not the Blogilates week)! I keep mixing up the "Wake up and &#8230;" preambles at the start of each day&#8230;. Yesterday I did 30 second planks on each side instead of just 1 minute of planking. I really hate those planks&#8230; You will not hear me say that enough, haha!
+Another day, another week almost finished (I'm talking in terms of the weekday week and not the Blogilates week)! I keep mixing up the "Wake up and ..." preambles at the start of each day.... Yesterday I did 30 second planks on each side instead of just 1 minute of planking. I really hate those planks... You will not hear me say that enough, haha!
 
 ### Video 1: Pick Me Up Quickie Workout
 

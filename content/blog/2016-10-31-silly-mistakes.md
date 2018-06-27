@@ -1,9 +1,9 @@
 ---
 title: Silly Mistakes
 author: Edel
-type: blog
+type: post
 date: 2016-10-31T22:04:29+00:00
-url: /blog/silly-mistakes/
+url: /life/silly-mistakes/
 categories:
   - Programming
   - Work

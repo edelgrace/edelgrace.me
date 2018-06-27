@@ -1,9 +1,9 @@
 ---
 title: 'LFTP Fatal Error: Certificate verification'
 author: Edel
-type: blog
+type: post
 date: 2016-10-11T01:48:31+00:00
-url: /blog/lftp-fatal-error-certificate-verification/
+url: /life/lftp-fatal-error-certificate-verification/
 categories:
   - Internet
   - Programming

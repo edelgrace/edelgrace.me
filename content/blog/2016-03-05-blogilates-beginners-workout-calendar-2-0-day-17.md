@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 17'
 author: Edel
-type: blog
+type: post
 date: 2016-03-06T04:38:50+00:00
-url: /blog/blogilates-beginners-workout-calendar-2-0-day-17/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-17/
 categories:
   - Fitness
   - Life
@@ -44,7 +44,7 @@ What I like about this video is that it's relatively quiet. I got up at 6 this m
 
 ### Video 3: Muffin top Massacre
 
-With "massacre" in the title, I really was expecting worse. But I didn't get it! Which was surprising. For some reason I wondered why a lot of these moves were targeted to muffin tops&#8230; I don't even know if I have muffin tops.
+With "massacre" in the title, I really was expecting worse. But I didn't get it! Which was surprising. For some reason I wondered why a lot of these moves were targeted to muffin tops... I don't even know if I have muffin tops.
 
 <div class="flex-video">
 </div>

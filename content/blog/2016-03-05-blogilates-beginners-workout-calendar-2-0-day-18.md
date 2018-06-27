@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 18'
 author: Edel
-type: blog
+type: post
 date: 2016-03-06T06:59:31+00:00
-url: /blog/blogilates-beginners-workout-calendar-2-0-day-18/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-18/
 categories:
   - Fitness
   - Life
@@ -18,7 +18,7 @@ tags:
 
 ### Day 18: Lower Body
 
-Because I had to make up day 17 today, I broke the two workouts up throughout the day. But near the end of the day, I just did the last two videos all at once. This day's workout is surprisingly not that bad. I didn't have any trouble with the moves today which was&#8230; Weird but satisfying.
+Because I had to make up day 17 today, I broke the two workouts up throughout the day. But near the end of the day, I just did the last two videos all at once. This day's workout is surprisingly not that bad. I didn't have any trouble with the moves today which was... Weird but satisfying.
 
 ### Video 1: Pumped Up Cardio Warmup
 

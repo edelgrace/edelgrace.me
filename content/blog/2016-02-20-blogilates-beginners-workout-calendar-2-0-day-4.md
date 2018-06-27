@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 4'
 author: Edel
-type: blog
+type: post
 date: 2016-02-21T06:42:15+00:00
-url: /blog/blogilates-beginners-workout-calendar-2-0-day-4/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-4/
 categories:
   - Fitness
   - Life
@@ -40,7 +40,7 @@ This video is a bit of fun! Cassey lets a few of her fans come on screen for thi
   * _Froggy Heel Kicks:_ At first it seems really simple but legs got tired fast!
   * _Frogger Heel Touch:_ A variant of frogger, obviously. It's harder so I prefer plain old vanilla frogger.
   * _Inner Thigh Side Raise:_ This was hard! The position of the foot is a little weird and I slipped up a couple of times but when I didn't, I felt it.
-  * _Inner Thigh Lift:_ Another hard move but not nearly as hard as the previous one. My legs tire easily apparently&#8230;
+  * _Inner Thigh Lift:_ Another hard move but not nearly as hard as the previous one. My legs tire easily apparently...
   * _Pile Squat Pulses:_ Squats make me nervous so I was not looking forward to this one. It actually wasn't as bad as I thought it would be!
 
 ### Video 3: How to do a Handstand

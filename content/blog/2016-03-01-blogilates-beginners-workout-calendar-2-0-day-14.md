@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 14'
 author: Edel
-type: blog
+type: post
 date: 2016-03-02T04:06:52+00:00
-url: /blog/blogilates-beginners-workout-calendar-2-0-day-14/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-14/
 categories:
   - Fitness
   - Life
@@ -22,7 +22,7 @@ Ummm, what?? It's rest day already?? I do not believe it. I've been at this for 
 
 ### Video 1: Berrylicious Microwave Minute Muffin
 
-I never actually try these recipes but they are pretty intriguing&#8230; I think I might try this tomorrow morning.
+I never actually try these recipes but they are pretty intriguing... I think I might try this tomorrow morning.
 
 <div class="flex-video">
 </div>

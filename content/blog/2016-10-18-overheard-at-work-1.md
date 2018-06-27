@@ -1,9 +1,9 @@
 ---
 title: 'Overheard at Work #1'
 author: Edel
-type: blog
+type: post
 date: 2016-10-19T01:46:26+00:00
-url: /blog/overheard-at-work-1/
+url: /life/overheard-at-work-1/
 categories:
   - Snippets
   - Work
