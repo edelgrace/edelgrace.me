@@ -1,11 +1,11 @@
 ---
 title: Facebook Woes
 author: Edel
-type: post
+type: blog
 date: 2011-08-31T15:16:26+00:00
 draft: true
 private: true
-url: /life/facebook-woes/
+slug: /life/facebook-woes/
 categories:
   - Internet
 

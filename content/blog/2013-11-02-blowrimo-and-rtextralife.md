@@ -1,9 +1,9 @@
 ---
 title: 'BloWriMo & Rooster Teeth Extra Life 2013 (Image Heavy)'
 author: Edel
-type: post
+type: blog
 date: 2013-11-03T04:38:14+00:00
-url: /life/blowrimo-and-rtextralife/
+slug: /life/blowrimo-and-rtextralife/
 categories:
   - Internet
 tags:

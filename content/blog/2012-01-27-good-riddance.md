@@ -1,9 +1,9 @@
 ---
 title: Good Riddance
 author: Edel
-type: post
+type: blog
 date: 2012-01-27T21:06:18+00:00
-url: /life/good-riddance/
+slug: /life/good-riddance/
 categories:
   - Books
   - High School

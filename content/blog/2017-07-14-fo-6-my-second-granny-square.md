@@ -3,7 +3,7 @@ title: 'FO #6: My Second Granny Square'
 author: Edel
 type: blog
 date: 2017-07-15T04:56:07+00:00
-url: /blog/fo-6-my-second-granny-square/
+slug: /blog/fo-6-my-second-granny-square/
 categories:
   - Crochet
 

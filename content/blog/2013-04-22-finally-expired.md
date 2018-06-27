@@ -1,9 +1,9 @@
 ---
 title: Finally Expired
 author: Edel
-type: post
+type: blog
 date: 2013-04-22T06:02:00+00:00
-url: /life/finally-expired/
+slug: /life/finally-expired/
 categories:
   - Internet
 

@@ -1,11 +1,11 @@
 ---
 title: Testing Blues
 author: Edel
-type: post
+type: blog
 date: 2011-10-07T22:22:31+00:00
 draft: true
 private: true
-url: /life/testing-blues/
+slug: /life/testing-blues/
 categories:
   - High School
   - University

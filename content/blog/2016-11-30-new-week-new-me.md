@@ -1,9 +1,9 @@
 ---
 title: New Week, New Me
 author: Edel
-type: post
+type: blog
 date: 2016-12-01T04:19:53+00:00
-url: /life/new-week-new-me/
+slug: /life/new-week-new-me/
 categories:
   - Life
 

@@ -1,11 +1,11 @@
 ---
 title: Let’s Go Eat
 author: Edel
-type: post
+type: blog
 date: 2010-01-27T02:12:08+00:00
 draft: true
 private: true
-url: /life/lets-go-eat/
+slug: /life/lets-go-eat/
 categories:
   - 'Family &amp; Friends'
 

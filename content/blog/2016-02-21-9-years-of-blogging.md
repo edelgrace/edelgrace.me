@@ -1,9 +1,9 @@
 ---
 title: 9 Years of Blogging
 author: Edel
-type: post
+type: blog
 date: 2016-02-21T21:45:26+00:00
-url: /life/9-years-of-blogging/
+slug: /life/9-years-of-blogging/
 categories:
   - Internet
   - Life

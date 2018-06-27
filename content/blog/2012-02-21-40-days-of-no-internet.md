@@ -1,9 +1,9 @@
 ---
 title: 40 Days of No Internet
 author: Edel
-type: post
+type: blog
 date: 2012-02-22T05:39:59+00:00
-url: /life/40-days-of-no-internet/
+slug: /life/40-days-of-no-internet/
 categories:
   - Internet
 

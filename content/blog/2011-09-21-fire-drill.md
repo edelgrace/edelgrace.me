@@ -1,11 +1,11 @@
 ---
 title: Fire Drill
 author: Edel
-type: post
+type: blog
 date: 2011-09-21T20:36:56+00:00
 draft: true
 private: true
-url: /life/fire-drill/
+slug: /life/fire-drill/
 categories:
   - High School
 

@@ -1,9 +1,9 @@
 ---
 title: Straight From Canada
 author: Edel
-type: post
+type: blog
 date: 2013-05-07T05:59:50+00:00
-url: /life/straight-from-canada/
+slug: /life/straight-from-canada/
 categories:
   - 'Family &amp; Friends'
 

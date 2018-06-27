@@ -1,11 +1,11 @@
 ---
 title: Power Hour
 author: Edel
-type: post
+type: blog
 date: 2011-10-07T04:29:17+00:00
 draft: true
 private: true
-url: /life/power-hour/
+slug: /life/power-hour/
 categories:
   - High School
   - Internet

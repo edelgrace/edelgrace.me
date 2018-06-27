@@ -1,9 +1,9 @@
 ---
 title: Belated Happy Thanksgiving!
 author: Edel
-type: post
+type: blog
 date: 2011-10-12T05:11:34+00:00
-url: /life/belated-happy-thanksgiving/
+slug: /life/belated-happy-thanksgiving/
 categories:
   - 'Family &amp; Friends'
   - High School

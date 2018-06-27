@@ -1,9 +1,9 @@
 ---
 title: Random Thoughts AKA Tweets I Have Tweeted or Would Like to Tweet
 author: Edel
-type: post
+type: blog
 date: 2013-11-17T00:36:07+00:00
-url: /life/random-thoughts-aka-tweets-i-have-tweeted-or-would-like-to-tweet/
+slug: /life/random-thoughts-aka-tweets-i-have-tweeted-or-would-like-to-tweet/
 categories:
   - Gaming
   - Internet

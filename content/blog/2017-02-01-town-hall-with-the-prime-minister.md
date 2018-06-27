@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-02-02T02:46:56+00:00
 draft: false
-url: /blog/town-hall-with-the-prime-minister/
+slug: /blog/town-hall-with-the-prime-minister/
 categories:
   - Life
 tags:

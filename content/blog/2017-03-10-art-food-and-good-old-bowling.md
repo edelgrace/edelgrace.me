@@ -3,7 +3,7 @@ title: Art, Food, and Good Old Bowling
 author: Edel
 type: blog
 date: 2017-03-10T09:00:22+00:00
-url: /blog/art-food-and-good-old-bowling/
+slug: /blog/art-food-and-good-old-bowling/
 categories:
   - Life
 

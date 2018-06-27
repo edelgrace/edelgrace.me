@@ -1,9 +1,9 @@
 ---
 title: Smile for the Camera!
 author: Edel
-type: post
+type: blog
 date: 2011-09-02T03:54:08+00:00
-url: /life/smile-for-the-camera/
+slug: /life/smile-for-the-camera/
 categories:
   - 'Family &amp; Friends'
   - High School

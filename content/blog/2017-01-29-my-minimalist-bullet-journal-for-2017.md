@@ -3,7 +3,7 @@ title: My Minimalist Bullet Journal for 2017
 author: Edel
 type: blog
 date: 2017-01-29T18:23:10+00:00
-url: /organization/my-minimalist-bullet-journal-for-2017/
+slug: /organization/my-minimalist-bullet-journal-for-2017/
 categories:
   - Organization
 tags:

@@ -1,9 +1,9 @@
 ---
 title: Preparation
 author: Edel
-type: post
+type: blog
 date: 2012-08-23T04:57:26+00:00
-url: /life/university-and-connections/
+slug: /life/university-and-connections/
 categories:
   - University
 

@@ -1,10 +1,10 @@
 ---
 title: Making the Almost Switch to Tumblr
 author: Edel
-type: post
+type: blog
 date: 2013-01-14T06:50:01+00:00
 excerpt: 'I love WordPress. It&rsquo;s the best content management system for me and extremely flexible. Anything is possible in WordPress. However, lately I&rsquo;ve been noticing a lack in the number of blogs from undergrads and grads alike. I searched high and low on WordpPess, Blogger, etc. Then I remembered: Tumblr. Not surprisingly, the student blogging community [&hellip;]'
-url: /life/making-the-almost-switch-to-tumblr/
+slug: /life/making-the-almost-switch-to-tumblr/
 enclosure:
   - |
     |

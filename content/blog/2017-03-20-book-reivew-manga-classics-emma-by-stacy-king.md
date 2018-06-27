@@ -3,7 +3,7 @@ title: 'Book Reivew: Manga Classics – Emma by Stacy King'
 author: Edel
 type: blog
 date: 2017-03-20T21:06:51+00:00
-url: /blog/book-reivew-manga-classics-emma-by-stacy-king/
+slug: /blog/book-reivew-manga-classics-emma-by-stacy-king/
 categories:
   - Books
 tags:

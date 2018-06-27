@@ -1,9 +1,9 @@
 ---
 title: Day One of University
 author: Edel
-type: post
+type: blog
 date: 2012-09-05T13:45:37+00:00
-url: /life/day-one-of-university/
+slug: /life/day-one-of-university/
 categories:
   - University
 

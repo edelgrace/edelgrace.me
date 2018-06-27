@@ -1,9 +1,9 @@
 ---
 title: Back From The Dead
 author: Edel
-type: post
+type: blog
 date: 2011-03-19T16:27:24+00:00
-url: /life/back-from-the-dead/
+slug: /life/back-from-the-dead/
 categories:
   - Internet
 

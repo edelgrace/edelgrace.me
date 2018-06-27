@@ -1,9 +1,9 @@
 ---
 title: 'Random Tumblr Posts #3'
 author: Edel
-type: post
+type: blog
 date: 2014-07-03T02:14:32+00:00
-url: /life/random-tumblr-posts-3/
+slug: /life/random-tumblr-posts-3/
 categories:
   - Gaming
   - Internet

@@ -1,9 +1,9 @@
 ---
 title: Be My Dearest, First on Earth
 author: Edel
-type: post
+type: blog
 date: 2014-05-05T18:27:31+00:00
-url: /life/be-my-dearest-first-on-earth/
+slug: /life/be-my-dearest-first-on-earth/
 categories:
   - Books
   - Life

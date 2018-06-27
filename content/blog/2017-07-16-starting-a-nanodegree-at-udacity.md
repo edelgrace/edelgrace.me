@@ -3,7 +3,7 @@ title: Starting a Nanodegree at Udacity
 author: Edel
 type: blog
 date: 2017-07-16T18:03:20+00:00
-url: /blog/starting-a-nanodegree-at-udacity/
+slug: /blog/starting-a-nanodegree-at-udacity/
 categories:
   - Crochet
   - Programming

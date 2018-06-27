@@ -1,9 +1,9 @@
 ---
 title: Musical Finds
 author: Edel
-type: post
+type: blog
 date: 2014-03-24T06:30:54+00:00
-url: /life/musical-finds/
+slug: /life/musical-finds/
 categories:
   - Music
 

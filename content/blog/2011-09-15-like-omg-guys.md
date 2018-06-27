@@ -1,11 +1,11 @@
 ---
 title: Like, OMG Guys
 author: Edel
-type: post
+type: blog
 date: 2011-09-16T01:12:02+00:00
 draft: true
 private: true
-url: /life/like-omg-guys/
+slug: /life/like-omg-guys/
 categories:
   - 'Family &amp; Friends'
   - High School

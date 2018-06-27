@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 5'
 author: Edel
-type: post
+type: blog
 date: 2016-02-22T07:14:41+00:00
-url: /life/blogilates-beginners-workout-calendar-2-0-day-5/
+slug: /life/blogilates-beginners-workout-calendar-2-0-day-5/
 categories:
   - Fitness
   - Life

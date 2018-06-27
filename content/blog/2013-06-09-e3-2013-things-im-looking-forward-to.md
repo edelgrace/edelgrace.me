@@ -1,9 +1,9 @@
 ---
 title: 'E3 2013: Things I’m Looking Forward To'
 author: Edel
-type: post
+type: blog
 date: 2013-06-10T04:55:14+00:00
-url: /life/e3-2013-things-im-looking-forward-to/
+slug: /life/e3-2013-things-im-looking-forward-to/
 categories:
   - Video Games
 

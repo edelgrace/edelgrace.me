@@ -1,9 +1,9 @@
 ---
 title: I’m Just a Loner
 author: Edel
-type: post
+type: blog
 date: 2010-03-21T20:57:25+00:00
-url: /life/im-just-a-l-o-n-e-r/
+slug: /life/im-just-a-l-o-n-e-r/
 categories:
   - High School
   - Internet

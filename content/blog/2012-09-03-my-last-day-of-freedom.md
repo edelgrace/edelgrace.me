@@ -1,9 +1,9 @@
 ---
 title: My Last Day of Freedom
 author: Edel
-type: post
+type: blog
 date: 2012-09-03T16:59:53+00:00
-url: /life/my-last-day-of-freedom/
+slug: /life/my-last-day-of-freedom/
 categories:
   - High School
   - University

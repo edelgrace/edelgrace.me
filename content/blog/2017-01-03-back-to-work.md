@@ -3,7 +3,7 @@ title: 'Back to Work…'
 author: Edel
 type: blog
 date: 2017-01-04T03:04:24+00:00
-url: /blog/back-to-work/
+slug: /blog/back-to-work/
 categories:
   - Books
   - Life

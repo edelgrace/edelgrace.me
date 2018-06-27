@@ -1,9 +1,9 @@
 ---
 title: 'Book Boyfriend/Crush #1'
 author: Edel
-type: post
+type: blog
 date: 2014-11-30T07:05:26+00:00
-url: /life/book-boyfriend-1/
+slug: /life/book-boyfriend-1/
 categories:
   - Books
 

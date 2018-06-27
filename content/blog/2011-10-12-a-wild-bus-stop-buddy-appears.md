@@ -1,11 +1,11 @@
 ---
 title: A Wild Bus Stop Buddy Appears
 author: Edel
-type: post
+type: blog
 date: 2011-10-13T05:01:30+00:00
 draft: true
 private: true
-url: /life/a-wild-bus-stop-buddy-appears/
+slug: /life/a-wild-bus-stop-buddy-appears/
 categories:
   - High School
 

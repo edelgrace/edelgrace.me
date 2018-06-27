@@ -1,9 +1,9 @@
 ---
 title: Some Updates!
 author: Edel
-type: post
+type: blog
 date: 2009-07-23T01:18:09+00:00
-url: /life/some-updates/
+slug: /life/some-updates/
 categories:
   - Internet
 

@@ -1,9 +1,9 @@
 ---
 title: The Beginning of the End
 author: Edel
-type: post
+type: blog
 date: 2012-02-01T23:53:22+00:00
-url: /life/the-beginning-of-the-end/
+slug: /life/the-beginning-of-the-end/
 categories:
   - High School
 

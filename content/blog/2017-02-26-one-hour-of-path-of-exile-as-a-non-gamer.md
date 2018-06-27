@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-02-26T19:34:32+00:00
 draft: false
-url: /blog/one-hour-of-path-of-exile-as-a-non-gamer/
+slug: /blog/one-hour-of-path-of-exile-as-a-non-gamer/
 categories:
   - Video Games
 tags:

@@ -1,11 +1,11 @@
 ---
 title: First Date Jitters
 author: Edel
-type: post
+type: blog
 date: 2014-08-24T06:41:56+00:00
 draft: true
 private: true
-url: /life/first-date-jitters/
+slug: /life/first-date-jitters/
 categories:
   - Life
   - Love

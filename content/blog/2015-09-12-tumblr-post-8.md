@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post:'
 author: Edel
-type: post
+type: blog
 date: 2015-09-13T03:08:37+00:00
-url: /life/tumblr-post-8/
+slug: /life/tumblr-post-8/
 categories:
   - Life
   - Planning

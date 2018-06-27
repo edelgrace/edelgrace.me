@@ -1,11 +1,11 @@
 ---
 title: Super Integration Part 1
 author: Edel
-type: post
+type: blog
 date: 2010-07-31T22:22:50+00:00
 draft: true
 private: true
-url: /life/super-integration-part-1/
+slug: /life/super-integration-part-1/
 categories:
   - 'Family &amp; Friends'
   - High School

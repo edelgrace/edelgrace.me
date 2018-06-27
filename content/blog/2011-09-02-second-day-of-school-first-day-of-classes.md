@@ -1,11 +1,11 @@
 ---
 title: Second Day of School, First Day of Classes
 author: Edel
-type: post
+type: blog
 date: 2011-09-03T02:56:57+00:00
 draft: true
 private: true
-url: /life/second-day-of-school-first-day-of-classes/
+slug: /life/second-day-of-school-first-day-of-classes/
 categories:
   - High School
 

@@ -1,9 +1,9 @@
 ---
 title: You Ain’t Bad! You ain’t nothing!
 author: Edel
-type: post
+type: blog
 date: 2009-08-22T22:58:43+00:00
-url: /life/you-aint-bad-you-aint-nothing/
+slug: /life/you-aint-bad-you-aint-nothing/
 categories:
   - Internet
 

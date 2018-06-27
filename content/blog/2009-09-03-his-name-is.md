@@ -1,11 +1,11 @@
 ---
 title: His Name Is…
 author: Edel
-type: post
+type: blog
 date: 2009-09-04T00:31:07+00:00
 draft: true
 private: true
-url: /life/his-name-is/
+slug: /life/his-name-is/
 categories:
   - High School
 

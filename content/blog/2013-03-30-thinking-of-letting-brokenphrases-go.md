@@ -1,9 +1,9 @@
 ---
 title: Thinking of Letting Brokenphrases Go
 author: Edel
-type: post
+type: blog
 date: 2013-03-30T23:38:07+00:00
-url: /life/thinking-of-letting-brokenphrases-go/
+slug: /life/thinking-of-letting-brokenphrases-go/
 categories:
   - Internet
 

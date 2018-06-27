@@ -3,7 +3,7 @@ title: Hooked on Crochet Spring 2017 Swap
 author: Edel
 type: blog
 date: 2017-06-07T17:55:19+00:00
-url: /blog/hooked-on-crochet-spring-2017-swap/
+slug: /blog/hooked-on-crochet-spring-2017-swap/
 categories:
   - Crochet
 tags:

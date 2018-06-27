@@ -3,7 +3,7 @@ title: 'Knitting Haul #1: LIHAO and Takumi Bamboo Needles'
 author: Edel
 type: blog
 date: 2017-07-05T17:00:00+00:00
-url: /knitting/knitting-haul-1-lihao-and-takumi-bamboo-needles/
+slug: /knitting/knitting-haul-1-lihao-and-takumi-bamboo-needles/
 categories:
   - Knitting
 tags:

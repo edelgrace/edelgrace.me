@@ -1,9 +1,9 @@
 ---
 title: Grade Niners
 author: Edel
-type: post
+type: blog
 date: 2007-01-22T23:16:02+00:00
-url: /life/grade-niners/
+slug: /life/grade-niners/
 categories:
   - life
 tags:

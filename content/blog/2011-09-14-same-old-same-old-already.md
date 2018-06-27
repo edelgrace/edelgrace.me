@@ -1,11 +1,11 @@
 ---
 title: Same Old, Same Old Already?
 author: Edel
-type: post
+type: blog
 date: 2011-09-15T02:39:46+00:00
 draft: true
 private: true
-url: /life/same-old-same-old-already/
+slug: /life/same-old-same-old-already/
 categories:
   - High School
 

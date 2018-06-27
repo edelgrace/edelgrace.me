@@ -1,9 +1,9 @@
 ---
 title: Doki Doki Senpai
 author: Edel
-type: post
+type: blog
 date: 2013-12-04T04:20:42+00:00
-url: /life/doki-doki-senpai/
+slug: /life/doki-doki-senpai/
 categories:
   - Life
   - Love

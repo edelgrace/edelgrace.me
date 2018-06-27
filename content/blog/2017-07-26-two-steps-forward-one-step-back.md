@@ -3,7 +3,7 @@ title: Two Steps Forward, One Step Back
 author: Edel
 type: blog
 date: 2017-07-27T03:35:37+00:00
-url: /blog/two-steps-forward-one-step-back/
+slug: /blog/two-steps-forward-one-step-back/
 categories:
   - Crochet
 

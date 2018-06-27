@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: Using Staedtler Triplus Fineliners'
 author: Edel
-type: post
+type: blog
 date: 2015-08-15T03:18:02+00:00
-url: /life/using-staedtler-triplus-fineliners/
+slug: /life/using-staedtler-triplus-fineliners/
 categories:
   - Life
   - Planning

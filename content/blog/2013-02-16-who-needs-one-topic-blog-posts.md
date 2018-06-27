@@ -1,9 +1,9 @@
 ---
 title: Who Needs One Topic Blog Posts?
 author: Edel
-type: post
+type: blog
 date: 2013-02-17T03:27:00+00:00
-url: /life/who-needs-one-topic-blog-posts/
+slug: /life/who-needs-one-topic-blog-posts/
 categories:
   - Books
   - 'Family &amp; Friends'

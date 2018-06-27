@@ -1,11 +1,11 @@
 ---
 title: Verge of a Meltdown
 author: Edel
-type: post
+type: blog
 date: 2015-10-23T05:07:58+00:00
 draft: true
 private: true
-url: /life/verge-of-a-meltdown/
+slug: /life/verge-of-a-meltdown/
 categories:
   - Life
   - Love

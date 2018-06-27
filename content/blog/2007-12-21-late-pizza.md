@@ -1,9 +1,9 @@
 ---
 title: Late Pizza
 author: Edel
-type: post
+type: blog
 date: 2007-12-22T01:01:33+00:00
-url: /life/late-pizza/
+slug: /life/late-pizza/
 categories:
   - life
 tags:

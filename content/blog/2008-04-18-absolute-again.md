@@ -1,9 +1,9 @@
 ---
 title: Absolute Again!
 author: Edel
-type: post
+type: blog
 date: 2008-04-19T04:02:32+00:00
-url: /life/absolute-again/
+slug: /life/absolute-again/
 categories:
   - music
 tags:

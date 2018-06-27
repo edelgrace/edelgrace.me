@@ -1,9 +1,9 @@
 ---
 title: Speed Racer
 author: Edel
-type: post
+type: blog
 date: 2010-04-07T06:08:50+00:00
-url: /life/speed-racer/
+slug: /life/speed-racer/
 categories:
   - Music
 

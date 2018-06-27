@@ -1,9 +1,9 @@
 ---
 title: Hurriedly Catching Memories
 author: Edel
-type: post
+type: blog
 date: 2014-03-08T01:40:39+00:00
-url: /life/hurriedly-catching-memories/
+slug: /life/hurriedly-catching-memories/
 categories:
   - University
 

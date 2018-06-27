@@ -1,11 +1,11 @@
 ---
 title: 'Private: Hello world, I’m 22'
 author: Edel
-type: post
+type: blog
 date: 2016-12-31T22:48:03+00:00
 draft: true
 private: true
-url: /life/hello-world/
+slug: /life/hello-world/
 categories:
   - Life
 tags:

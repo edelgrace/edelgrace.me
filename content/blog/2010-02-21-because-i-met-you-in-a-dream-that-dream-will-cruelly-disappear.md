@@ -1,9 +1,9 @@
 ---
 title: Because I met you in a dream, that dream will cruelly disappear
 author: Edel
-type: post
+type: blog
 date: 2010-02-21T19:22:42+00:00
-url: /life/because-i-met-you-in-a-dream-that-dream-will-cruelly-disappear/
+slug: /life/because-i-met-you-in-a-dream-that-dream-will-cruelly-disappear/
 categories:
   - Music
 

@@ -1,9 +1,9 @@
 ---
 title: Having an Off Day
 author: Edel
-type: post
+type: blog
 date: 2013-12-04T06:24:49+00:00
-url: /life/having-an-off-day/
+slug: /life/having-an-off-day/
 categories:
   - Life
   - Love

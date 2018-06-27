@@ -1,9 +1,9 @@
 ---
 title: 'At the Library #12'
 author: Edel
-type: post
+type: blog
 date: 2016-12-06T04:51:02+00:00
-url: /life/at-the-library-12/
+slug: /life/at-the-library-12/
 categories:
   - Books
 tags:

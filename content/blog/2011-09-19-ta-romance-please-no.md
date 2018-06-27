@@ -1,11 +1,11 @@
 ---
 title: TA Romance? Please No
 author: Edel
-type: post
+type: blog
 date: 2011-09-20T03:26:54+00:00
 draft: true
 private: true
-url: /life/ta-romance-please-no/
+slug: /life/ta-romance-please-no/
 categories:
   - 'Family &amp; Friends'
   - High School

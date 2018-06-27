@@ -3,7 +3,7 @@ title: 'Book Review: Nine Island by Jane Alison'
 author: Edel
 type: blog
 date: 2017-06-05T17:42:09+00:00
-url: /blog/book-review-nine-island-by-jane-alison/
+slug: /blog/book-review-nine-island-by-jane-alison/
 categories:
   - Books
 tags:

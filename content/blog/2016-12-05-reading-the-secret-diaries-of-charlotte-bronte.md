@@ -1,9 +1,9 @@
 ---
 title: 'Reading: The Secret Diaries of Charlotte Brontë'
 author: Edel
-type: post
+type: blog
 date: 2016-12-05T13:00:02+00:00
-url: /life/reading-the-secret-diaries-of-charlotte-bronte/
+slug: /life/reading-the-secret-diaries-of-charlotte-bronte/
 categories:
   - Books
 

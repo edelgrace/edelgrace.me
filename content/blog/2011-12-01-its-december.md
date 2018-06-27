@@ -1,9 +1,9 @@
 ---
 title: It’s December…
 author: Edel
-type: post
+type: blog
 date: 2011-12-02T02:50:12+00:00
-url: /life/its-december/
+slug: /life/its-december/
 categories:
   - High School
   - Internet

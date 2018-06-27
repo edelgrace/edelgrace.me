@@ -1,11 +1,11 @@
 ---
 title: Weird Feeling of Fear
 author: Edel
-type: post
+type: blog
 date: 2014-02-05T01:54:54+00:00
 draft: true
 private: true
-url: /life/weird-feeling-of-fear/
+slug: /life/weird-feeling-of-fear/
 categories:
   - Life
 

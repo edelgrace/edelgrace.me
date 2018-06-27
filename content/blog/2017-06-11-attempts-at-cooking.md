@@ -3,7 +3,7 @@ title: Attempts at Cooking
 author: Edel
 type: blog
 date: 2017-06-11T18:05:08+00:00
-url: /blog/attempts-at-cooking/
+slug: /blog/attempts-at-cooking/
 categories:
   - Cooking
 

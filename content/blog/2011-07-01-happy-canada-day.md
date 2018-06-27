@@ -1,9 +1,9 @@
 ---
 title: Happy Canada Day!
 author: Edel
-type: post
+type: blog
 date: 2011-07-01T16:38:02+00:00
-url: /life/happy-canada-day/
+slug: /life/happy-canada-day/
 categories:
   - 'Family &amp; Friends'
   - Music

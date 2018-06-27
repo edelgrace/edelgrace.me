@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: Switching to Foundation'
 author: Edel
-type: post
+type: blog
 date: 2015-08-25T01:30:38+00:00
-url: /life/tumblr-post-5/
+slug: /life/tumblr-post-5/
 categories:
   - Life
   - Planning

@@ -1,9 +1,9 @@
 ---
 title: 'Incoming Mail #1'
 author: Edel
-type: post
+type: blog
 date: 2015-08-26T21:08:02+00:00
-url: /life/incoming-mail-1/
+slug: /life/incoming-mail-1/
 categories:
   - Life
   - Mail

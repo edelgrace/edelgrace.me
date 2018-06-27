@@ -1,11 +1,11 @@
 ---
 title: This Wasn’t the Best Week Ever
 author: Edel
-type: post
+type: blog
 date: 2009-12-07T00:47:20+00:00
 draft: true
 private: true
-url: /life/this-wasnt-the-best-week-ever/
+slug: /life/this-wasnt-the-best-week-ever/
 categories:
   - 'Family &amp; Friends'
   - High School

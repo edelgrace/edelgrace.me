@@ -1,9 +1,9 @@
 ---
 title: The First “Post”
 author: Edel
-type: post
+type: blog
 date: 2010-05-19T04:36:51+00:00
-url: /life/the-first-post/
+slug: /life/the-first-post/
 categories:
   - Internet
 

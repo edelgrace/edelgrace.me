@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-01-07T07:05:00+00:00
 draft: false
-url: /blog/weekly-drawing-0/
+slug: /blog/weekly-drawing-0/
 categories:
   - Life
 tags:

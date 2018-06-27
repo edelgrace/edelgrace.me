@@ -1,11 +1,11 @@
 ---
 title: It’s been over a week…
 author: Edel
-type: post
+type: blog
 date: 2010-05-01T20:14:19+00:00
 draft: true
 private: true
-url: /life/its-been-over-a-week/
+slug: /life/its-been-over-a-week/
 categories:
   - 'Family &amp; Friends'
   - High School

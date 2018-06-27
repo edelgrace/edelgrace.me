@@ -3,7 +3,7 @@ title: Tempted by Static Pages Again
 author: Edel
 type: blog
 date: 2017-07-29T14:01:27+00:00
-url: /blog/tempted-by-static-pages-again/
+slug: /blog/tempted-by-static-pages-again/
 categories:
   - Programming
   - Websites

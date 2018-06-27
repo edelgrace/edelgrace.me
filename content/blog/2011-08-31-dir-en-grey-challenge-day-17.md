@@ -1,10 +1,10 @@
 ---
 title: 'DIR EN GREY Challenge: Day 17'
 author: Edel
-type: post
+type: blog
 date: 2011-08-31T23:22:23+00:00
 excerpt: 'Listening to: Hoshizora by L&rsquo;Arc~en~Ciel Fave song atm: Blame it On the Girls by Mika Fave musician(s) atm: SCREW Favourite interview. I don&rsquo;t read interviews except for the ones that happen to appear on my Tumblr dashboard. I&rsquo;ve seen a couple interviews on YouTube but most of them were outdated or boring. The one I [...]'
-url: /life/dir-en-grey-challenge-day-17/
+slug: /life/dir-en-grey-challenge-day-17/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

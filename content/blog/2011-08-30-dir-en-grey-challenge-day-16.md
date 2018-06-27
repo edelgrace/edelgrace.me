@@ -1,7 +1,7 @@
 ---
 title: 'DIR EN GREY Challenge: Day 16'
 author: Edel
-type: post
+type: blog
 date: 2011-08-30T21:28:25+00:00
 slug: dir-en-grey-challenge-day-16
 syndication_source:

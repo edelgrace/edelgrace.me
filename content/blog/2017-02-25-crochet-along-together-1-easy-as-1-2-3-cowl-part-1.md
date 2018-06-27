@@ -3,7 +3,7 @@ title: 'Crochet Along Together #1: Easy as 1-2-3 Cowl (Part 1)'
 author: Edel
 type: blog
 date: 2017-02-25T17:37:00+00:00
-url: /blog/crochet-along-together-1-easy-as-1-2-3-cowl-part-1/
+slug: /blog/crochet-along-together-1-easy-as-1-2-3-cowl-part-1/
 categories:
   - Crochet
 tags:

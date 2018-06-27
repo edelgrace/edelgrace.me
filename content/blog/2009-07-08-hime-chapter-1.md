@@ -1,11 +1,11 @@
 ---
 title: 'Hime [Chapter 1]'
 author: Edel
-type: post
+type: blog
 date: 2009-07-08T21:28:11+00:00
 draft: true
 private: true
-url: /life/hime-chapter-1/
+slug: /life/hime-chapter-1/
 categories:
   - Music
 

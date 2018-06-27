@@ -3,7 +3,7 @@ title: 'Learning the Guitar: Week 1'
 author: Edel
 type: blog
 date: 2017-02-20T01:42:56+00:00
-url: /blog/learning-the-guitar-week-1/
+slug: /blog/learning-the-guitar-week-1/
 categories:
   - Music
 tags:

@@ -1,11 +1,11 @@
 ---
 title: Big Sigh of Relief
 author: Edel
-type: post
+type: blog
 date: 2013-12-17T06:07:10+00:00
 draft: true
 private: true
-url: /life/big-sigh-of-relief/
+slug: /life/big-sigh-of-relief/
 categories:
   - University
 

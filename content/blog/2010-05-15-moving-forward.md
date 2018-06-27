@@ -1,9 +1,9 @@
 ---
 title: Moving Up
 author: Edel
-type: post
+type: blog
 date: 2010-05-15T18:53:58+00:00
-url: /life/moving-forward/
+slug: /life/moving-forward/
 categories:
   - Internet
 

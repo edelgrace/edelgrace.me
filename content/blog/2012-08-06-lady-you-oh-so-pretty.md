@@ -1,11 +1,11 @@
 ---
 title: Lady you oh so pretty
 author: Edel
-type: post
+type: blog
 date: 2012-08-06T07:12:50+00:00
 draft: true
 private: true
-url: /life/lady-you-oh-so-pretty/
+slug: /life/lady-you-oh-so-pretty/
 categories:
   - 'Family &amp; Friends'
   - Internet

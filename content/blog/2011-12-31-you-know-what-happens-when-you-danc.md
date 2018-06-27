@@ -1,9 +1,9 @@
 ---
 title: You Know What Happens When You Dance
 author: Edel
-type: post
+type: blog
 date: 2011-12-31T18:59:03+00:00
-url: /life/you-know-what-happens-when-you-danc/
+slug: /life/you-know-what-happens-when-you-danc/
 categories:
   - 'Family &amp; Friends'
   - Movies

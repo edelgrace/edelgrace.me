@@ -3,7 +3,7 @@ title: STASH Lounge Moving and Other Outings
 author: Edel
 type: blog
 date: 2017-07-24T03:04:34+00:00
-url: /blog/stash-lounge-moving-and-other-outings/
+slug: /blog/stash-lounge-moving-and-other-outings/
 categories:
   - Crochet
   - Knitting

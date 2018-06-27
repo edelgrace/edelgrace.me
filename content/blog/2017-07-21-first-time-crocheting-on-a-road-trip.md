@@ -3,7 +3,7 @@ title: First Time Crocheting on a Road Trip
 author: Edel
 type: blog
 date: 2017-07-21T15:58:58+00:00
-url: /blog/first-time-crocheting-on-a-road-trip/
+slug: /blog/first-time-crocheting-on-a-road-trip/
 categories:
   - Crochet
   - Life

@@ -1,10 +1,10 @@
 ---
 title: Last.FM Stats
 author: Edel
-type: post
+type: blog
 date: 2012-07-25T19:44:43+00:00
 excerpt: 'Listening to: Hit in the USA by Beat Crusaders Fave song atm: Somebody to Love by CLUBSODA Fave musician(s) atm: I actually have no idea My Last.FM stats as of July 2012. I use Last.FM a lot, without my knowledge basically. Whenever I open up iTunes, Last.FM secretly scrobbles my music as I listen. Also, [...]'
-url: /life/last-fm-stats/
+slug: /life/last-fm-stats/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

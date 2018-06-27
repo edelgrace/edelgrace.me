@@ -1,9 +1,9 @@
 ---
 title: Reasons Why I Don’t Wear Makeup
 author: Edel
-type: post
+type: blog
 date: 2013-12-05T05:59:20+00:00
-url: /life/reasons-why-i-dont-wear-makeup/
+slug: /life/reasons-why-i-dont-wear-makeup/
 categories:
   - Life
 

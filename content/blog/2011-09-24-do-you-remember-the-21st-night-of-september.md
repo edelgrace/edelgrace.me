@@ -1,9 +1,9 @@
 ---
 title: Do You Remember the 21st night of September?
 author: Edel
-type: post
+type: blog
 date: 2011-09-24T23:34:14+00:00
-url: /life/do-you-remember-the-21st-night-of-september/
+slug: /life/do-you-remember-the-21st-night-of-september/
 categories:
   - High School
 

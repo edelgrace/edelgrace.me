@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-01-08T21:50:58+00:00
 draft: false
-url: /blog/where-did-today-go/
+slug: /blog/where-did-today-go/
 categories:
   - Life
 

@@ -1,11 +1,11 @@
 ---
 title: Directive
 author: Edel
-type: post
+type: blog
 date: 2011-09-24T01:32:12+00:00
 draft: true
 private: true
-url: /life/directive/
+slug: /life/directive/
 categories:
   - High School
   - Internet

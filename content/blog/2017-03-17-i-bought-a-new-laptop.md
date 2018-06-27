@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-03-17T18:50:00+00:00
 draft: false
-url: /blog/i-bought-a-new-laptop/
+slug: /blog/i-bought-a-new-laptop/
 categories:
   - Life
   - Technology

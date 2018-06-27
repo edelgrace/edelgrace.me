@@ -3,7 +3,7 @@ title: An Hour at Cafe Blanca
 author: Edel
 type: blog
 date: 2017-04-07T09:56:03+00:00
-url: /blog/an-hour-at-cafe-blanca/
+slug: /blog/an-hour-at-cafe-blanca/
 categories:
   - Life
 

@@ -1,11 +1,11 @@
 ---
 title: First Day of My Last Year
 author: Edel
-type: post
+type: blog
 date: 2011-09-02T03:52:45+00:00
 draft: true
 private: true
-url: /life/first-day-of-my-last-year/
+slug: /life/first-day-of-my-last-year/
 categories:
   - 'Family &amp; Friends'
   - High School

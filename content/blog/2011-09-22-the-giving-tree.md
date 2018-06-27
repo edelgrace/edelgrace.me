@@ -1,11 +1,11 @@
 ---
 title: The Giving Tree
 author: Edel
-type: post
+type: blog
 date: 2011-09-23T02:40:43+00:00
 draft: true
 private: true
-url: /life/the-giving-tree/
+slug: /life/the-giving-tree/
 categories:
   - High School
 

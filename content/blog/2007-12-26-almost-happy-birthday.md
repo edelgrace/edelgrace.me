@@ -1,9 +1,9 @@
 ---
 title: Almost Happy Birthday
 author: Edel
-type: post
+type: blog
 date: 2007-12-26T22:54:04+00:00
-url: /life/almost-happy-birthday/
+slug: /life/almost-happy-birthday/
 categories:
   - life
 tags:

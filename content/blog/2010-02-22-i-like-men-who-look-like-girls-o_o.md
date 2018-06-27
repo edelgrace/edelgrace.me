@@ -1,9 +1,9 @@
 ---
 title: Pretty Men
 author: Edel
-type: post
+type: blog
 date: 2010-02-23T05:43:37+00:00
-url: /life/i-like-men-who-look-like-girls-o_o/
+slug: /life/i-like-men-who-look-like-girls-o_o/
 categories:
   - Music
 

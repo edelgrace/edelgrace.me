@@ -3,7 +3,7 @@ title: 'FO #1: Corchet Guru Dishcloth'
 author: Edel
 type: blog
 date: 2017-03-04T21:53:50+00:00
-url: /blog/fo-1-corchet-guru-dishcloth/
+slug: /blog/fo-1-corchet-guru-dishcloth/
 categories:
   - Crochet
 tags:

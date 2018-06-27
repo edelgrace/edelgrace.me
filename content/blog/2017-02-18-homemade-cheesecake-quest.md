@@ -3,7 +3,7 @@ title: Homemade Cheesecake Quest
 author: Edel
 type: blog
 date: 2017-02-18T16:22:00+00:00
-url: /blog/homemade-cheesecake-quest/
+slug: /blog/homemade-cheesecake-quest/
 categories:
   - Cooking
 tags:

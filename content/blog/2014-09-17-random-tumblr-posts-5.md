@@ -1,9 +1,9 @@
 ---
 title: 'Random Tumblr Posts #5'
 author: Edel
-type: post
+type: blog
 date: 2014-09-18T02:46:47+00:00
-url: /life/random-tumblr-posts-5/
+slug: /life/random-tumblr-posts-5/
 categories:
   - Life
 

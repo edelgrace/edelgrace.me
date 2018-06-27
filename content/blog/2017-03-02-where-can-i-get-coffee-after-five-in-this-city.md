@@ -3,7 +3,7 @@ title: Where Can I Get Coffee After Five in this City?
 author: Edel
 type: blog
 date: 2017-03-03T05:45:37+00:00
-url: /blog/where-can-i-get-coffee-after-five-in-this-city/
+slug: /blog/where-can-i-get-coffee-after-five-in-this-city/
 categories:
   - Life
 

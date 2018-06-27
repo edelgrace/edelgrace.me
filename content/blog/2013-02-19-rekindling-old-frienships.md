@@ -1,11 +1,11 @@
 ---
 title: Rekindling Old Frienships
 author: Edel
-type: post
+type: blog
 date: 2013-02-19T07:12:54+00:00
 draft: true
 private: true
-url: /life/rekindling-old-frienships/
+slug: /life/rekindling-old-frienships/
 categories:
   - 'Family &amp; Friends'
   - Internet

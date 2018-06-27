@@ -1,11 +1,11 @@
 ---
 title: Snowy Shenanigans
 author: Edel
-type: post
+type: blog
 date: 2011-12-07T00:00:32+00:00
 draft: true
 private: true
-url: /life/snowy-shenanigans/
+slug: /life/snowy-shenanigans/
 categories:
   - 'Family &amp; Friends'
   - High School

@@ -1,11 +1,11 @@
 ---
 title: School, School, School
 author: Edel
-type: post
+type: blog
 date: 2011-12-05T23:44:35+00:00
 draft: true
 private: true
-url: /life/school-school-school/
+slug: /life/school-school-school/
 categories:
   - 'Family &amp; Friends'
   - High School

@@ -3,7 +3,7 @@ title: The Ending of Arrival
 author: Edel
 type: blog
 date: 2017-02-22T20:26:00+00:00
-url: /blog/the-ending-of-arrival/
+slug: /blog/the-ending-of-arrival/
 categories:
   - Movies
 

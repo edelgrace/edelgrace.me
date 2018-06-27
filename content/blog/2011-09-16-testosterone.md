@@ -1,11 +1,11 @@
 ---
 title: Testosterone
 author: Edel
-type: post
+type: blog
 date: 2011-09-16T20:40:04+00:00
 draft: true
 private: true
-url: /life/testosterone/
+slug: /life/testosterone/
 categories:
   - 'Family &amp; Friends'
   - High School

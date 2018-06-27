@@ -3,7 +3,7 @@ title: 'Crochet Haul #6: Blanket Mania'
 author: Edel
 type: blog
 date: 2017-03-29T17:00:00+00:00
-url: /blog/crochet-haul-6-blanket-mania/
+slug: /blog/crochet-haul-6-blanket-mania/
 categories:
   - Crochet
 tags:

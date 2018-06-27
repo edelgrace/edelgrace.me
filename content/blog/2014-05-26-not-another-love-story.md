@@ -1,9 +1,9 @@
 ---
 title: Not Another Love Story
 author: Edel
-type: post
+type: blog
 date: 2014-05-26T23:16:02+00:00
-url: /life/not-another-love-story/
+slug: /life/not-another-love-story/
 categories:
   - Books
   - Writing

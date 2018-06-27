@@ -1,9 +1,9 @@
 ---
 title: We Were There
 author: Edel
-type: post
+type: blog
 date: 2009-07-20T18:47:44+00:00
-url: /life/we-where-there/
+slug: /life/we-where-there/
 categories:
   - Internet
 

@@ -1,9 +1,9 @@
 ---
 title: Ear Syringes
 author: Edel
-type: post
+type: blog
 date: 2009-08-14T02:23:45+00:00
-url: /life/ear-syringes/
+slug: /life/ear-syringes/
 categories:
   - 'Family &amp; Friends'
 

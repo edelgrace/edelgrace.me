@@ -1,9 +1,9 @@
 ---
 title: Confession
 author: Edel
-type: post
+type: blog
 date: 2011-08-02T16:30:27+00:00
-url: /life/confession/
+slug: /life/confession/
 categories:
   - 'Family &amp; Friends'
   - Internet

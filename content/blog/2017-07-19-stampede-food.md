@@ -3,7 +3,7 @@ title: Stampede Food
 author: Edel
 type: blog
 date: 2017-07-19T17:00:00+00:00
-url: /blog/stampede-food/
+slug: /blog/stampede-food/
 categories:
   - Life
 

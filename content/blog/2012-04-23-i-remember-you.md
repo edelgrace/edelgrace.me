@@ -1,9 +1,9 @@
 ---
 title: I Remember You
 author: Edel
-type: post
+type: blog
 date: 2012-04-24T05:23:41+00:00
-url: /life/i-remember-you/
+slug: /life/i-remember-you/
 categories:
   - 'Family &amp; Friends'
 

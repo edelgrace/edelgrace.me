@@ -3,7 +3,7 @@ title: 'FO: Candy Print Alpine Nights Beanie'
 author: Edel
 type: blog
 date: 2017-08-09T04:45:26+00:00
-url: /blog/fo-candy-print-alpine-nights-beanie/
+slug: /blog/fo-candy-print-alpine-nights-beanie/
 categories:
   - Crochet
 tags:

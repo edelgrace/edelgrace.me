@@ -1,9 +1,9 @@
 ---
 title: 'Happy Valentines Day~! <3'
 author: Edel
-type: post
+type: blog
 date: 2010-02-13T00:15:56+00:00
-url: /life/happy-valentines-day-3/
+slug: /life/happy-valentines-day-3/
 categories:
   - 'Family &amp; Friends'
 

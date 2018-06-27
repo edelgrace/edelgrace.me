@@ -1,11 +1,11 @@
 ---
 title: 'Day 3: Functions'
 author: Edel
-type: post
+type: blog
 date: 2011-09-06T14:05:40+00:00
 draft: true
 private: true
-url: /life/day-3-functions/
+slug: /life/day-3-functions/
 categories:
   - High School
 

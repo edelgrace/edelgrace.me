@@ -1,11 +1,11 @@
 ---
 title: Productive Procrastination
 author: Edel
-type: post
+type: blog
 date: 2011-12-04T05:47:59+00:00
 draft: true
 private: true
-url: /life/productive-procrastination/
+slug: /life/productive-procrastination/
 categories:
   - High School
   - Internet

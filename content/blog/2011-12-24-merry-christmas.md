@@ -1,9 +1,9 @@
 ---
 title: Merry Christmas!
 author: Edel
-type: post
+type: blog
 date: 2011-12-24T21:56:25+00:00
-url: /life/merry-christmas/
+slug: /life/merry-christmas/
 categories:
   - High School
 

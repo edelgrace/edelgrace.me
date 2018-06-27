@@ -1,11 +1,11 @@
 ---
 title: 'Charmed & Restrained'
 author: Edel
-type: post
+type: blog
 date: 2011-06-22T05:13:18+00:00
 draft: true
 private: true
-url: /life/charmed-and-restrained/
+slug: /life/charmed-and-restrained/
 categories:
   - Music
 

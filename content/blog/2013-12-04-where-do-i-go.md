@@ -1,9 +1,9 @@
 ---
 title: Where Do I Go?
 author: Edel
-type: post
+type: blog
 date: 2013-12-04T09:21:29+00:00
-url: /life/where-do-i-go/
+slug: /life/where-do-i-go/
 categories:
   - Life
 

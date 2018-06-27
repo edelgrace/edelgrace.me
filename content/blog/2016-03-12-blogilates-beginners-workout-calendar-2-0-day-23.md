@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 23'
 author: Edel
-type: post
+type: blog
 date: 2016-03-12T07:13:21+00:00
-url: /life/blogilates-beginners-workout-calendar-2-0-day-23/
+slug: /life/blogilates-beginners-workout-calendar-2-0-day-23/
 categories:
   - Fitness
   - Life

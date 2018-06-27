@@ -3,7 +3,7 @@ title: 'Yarn Haul #7: The Knitting Room First Visit'
 author: Edel
 type: blog
 date: 2017-06-21T07:59:07+00:00
-url: /blog/yarn-haul-7-the-knitting-room-first-visit/
+slug: /blog/yarn-haul-7-the-knitting-room-first-visit/
 categories:
   - Crochet
   - Knitting
