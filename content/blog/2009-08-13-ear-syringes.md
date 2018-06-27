@@ -3,7 +3,7 @@ title: Ear Syringes
 author: Edel
 type: blog
 date: 2009-08-14T02:23:45+00:00
-slug: /life/ear-syringes/
+url: /blog/ear-syringes/
 categories:
   - 'Family &amp; Friends'
 

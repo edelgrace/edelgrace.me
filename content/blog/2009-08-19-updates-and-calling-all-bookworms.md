@@ -3,7 +3,7 @@ title: Updates…and Calling All Bookworms!
 author: Edel
 type: blog
 date: 2009-08-19T22:14:55+00:00
-slug: /life/updates-and-calling-all-bookworms/
+url: /blog/updates-and-calling-all-bookworms/
 categories:
   - Books
   - Internet

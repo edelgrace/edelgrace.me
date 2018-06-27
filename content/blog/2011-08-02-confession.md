@@ -3,7 +3,7 @@ title: Confession
 author: Edel
 type: blog
 date: 2011-08-02T16:30:27+00:00
-slug: /life/confession/
+url: /blog/confession/
 categories:
   - 'Family &amp; Friends'
   - Internet

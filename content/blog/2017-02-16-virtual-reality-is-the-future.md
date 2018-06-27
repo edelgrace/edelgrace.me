@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-02-16T10:45:00+00:00
 draft: false
-slug: /blog/virtual-reality-is-the-future/
+url: /blog/virtual-reality-is-the-future/
 categories:
   - Technology
 tags:

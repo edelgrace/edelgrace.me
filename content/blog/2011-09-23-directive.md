@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-24T01:32:12+00:00
 draft: true
 private: true
-slug: /life/directive/
+url: /blog/directive/
 categories:
   - High School
   - Internet

@@ -5,7 +5,7 @@ type: blog
 date: 2012-10-21T00:40:45+00:00
 draft: true
 private: true
-slug: /life/super-integration/
+url: /blog/super-integration/
 categories:
   - 'Family &amp; Friends'
 

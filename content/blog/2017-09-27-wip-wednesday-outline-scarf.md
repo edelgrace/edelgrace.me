@@ -3,7 +3,7 @@ title: 'WIP Wednesday: Outline Ribbed Scarf'
 author: Edel
 type: blog
 date: 2017-09-27
-slug: wip-wednesday-outline-ribbed-scarf
+url: wip-wednesday-outline-ribbed-scarf
 categories:
   - Crafts
 tags:

@@ -5,7 +5,7 @@ type: blog
 date: 2009-07-08T21:28:11+00:00
 draft: true
 private: true
-slug: /life/hime-chapter-1/
+url: /blog/hime-chapter-1/
 categories:
   - Music
 

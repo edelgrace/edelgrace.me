@@ -2,7 +2,7 @@
 title: "Its Monday What Are You Reading #1 + Weekly Recap"
 date: 2018-03-26T13:27:57-06:00
 type: blog
-slug: /blog/its-monday-what-are-you-reading/
+url: /blog/its-monday-what-are-you-reading/
 categories:
   - Books
 tags:

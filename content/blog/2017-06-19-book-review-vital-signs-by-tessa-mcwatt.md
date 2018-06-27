@@ -3,7 +3,7 @@ title: 'Book Review: Vital Signs by Tessa McWatt'
 author: Edel
 type: blog
 date: 2017-06-19T10:32:51+00:00
-slug: /blog/book-review-vital-signs-by-tessa-mcwatt/
+url: /blog/book-review-vital-signs-by-tessa-mcwatt/
 categories:
   - Books
 tags:

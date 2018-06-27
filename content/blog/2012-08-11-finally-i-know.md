@@ -3,7 +3,7 @@ title: Finally, I Know!
 author: Edel
 type: blog
 date: 2012-08-12T04:02:38+00:00
-slug: /life/finally-i-know/
+url: /blog/finally-i-know/
 categories:
   - University
 

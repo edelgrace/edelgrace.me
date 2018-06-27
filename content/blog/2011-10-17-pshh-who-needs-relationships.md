@@ -5,7 +5,7 @@ type: blog
 date: 2011-10-18T05:01:04+00:00
 draft: true
 private: true
-slug: /life/pshh-who-needs-relationships/
+url: /blog/pshh-who-needs-relationships/
 categories:
   - 'Family &amp; Friends'
   - High School

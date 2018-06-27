@@ -3,7 +3,7 @@ title: I’m Not Good at Writing
 author: Edel
 type: blog
 date: 2013-11-07T06:18:53+00:00
-slug: /life/im-not-good-at-writing/
+url: /blog/im-not-good-at-writing/
 categories:
   - University
   - Writing

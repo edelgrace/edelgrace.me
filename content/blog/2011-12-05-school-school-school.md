@@ -5,7 +5,7 @@ type: blog
 date: 2011-12-05T23:44:35+00:00
 draft: true
 private: true
-slug: /life/school-school-school/
+url: /blog/school-school-school/
 categories:
   - 'Family &amp; Friends'
   - High School

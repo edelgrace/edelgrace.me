@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2013-01-06T05:40:55+00:00
 excerpt: '&hellip; Is getting an adult library card. I&rsquo;m not even joking. I detested the teen library card. It was too &ldquo;hip&rdquo; for me. So I rather like my simplistic and pretty white adult library card. The bad thing is that I have to memorize a new card number. I&rsquo;m horrible at memorizing numbers. Although the [...]'
-slug: /life/the-best-thing-about-being-18/
+url: /blog/the-best-thing-about-being-18/
 enclosure:
   - |
     |

@@ -3,7 +3,7 @@ title: DIY Planner for 2015
 author: Edel
 type: blog
 date: 2015-08-13T02:36:03+00:00
-slug: /life/diy-planner-for-2015/
+url: /blog/diy-planner-for-2015/
 categories:
   - Life
   - Planning

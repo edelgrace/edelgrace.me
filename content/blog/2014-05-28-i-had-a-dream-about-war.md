@@ -3,7 +3,7 @@ title: I Had a Dream About War
 author: Edel
 type: blog
 date: 2014-05-29T05:30:14+00:00
-slug: /life/i-had-a-dream-about-war/
+url: /blog/i-had-a-dream-about-war/
 categories:
   - Life
 

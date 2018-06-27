@@ -2,7 +2,7 @@
 title: "Life Is Strange: The Tragedy of Rachel Amber"
 date: 2018-02-05
 publishDate: 2018-02-05
-slug: life-is-strange-the-tragedy-of-rachel-amber
+url: life-is-strange-the-tragedy-of-rachel-amber
 draft: false
 categories:
   - video games

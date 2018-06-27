@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-01-26T07:57:00+00:00
 draft: false
-slug: /blog/im-slowly-losing-my-hair/
+url: /blog/im-slowly-losing-my-hair/
 categories:
   - Life
 tags:

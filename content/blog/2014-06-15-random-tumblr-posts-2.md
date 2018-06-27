@@ -3,7 +3,7 @@ title: 'Random Tumblr Posts #2'
 author: Edel
 type: blog
 date: 2014-06-16T02:10:02+00:00
-slug: /life/random-tumblr-posts-2/
+url: /blog/random-tumblr-posts-2/
 categories:
   - Gaming
   - Life

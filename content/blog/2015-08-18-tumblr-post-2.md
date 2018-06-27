@@ -3,7 +3,7 @@ title: 'Tumblr Post: Lunch Food'
 author: Edel
 type: blog
 date: 2015-08-18T19:14:38+00:00
-slug: /life/tumblr-post-2/
+url: /blog/tumblr-post-2/
 categories:
   - Life
   - Planning

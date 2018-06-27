@@ -3,7 +3,7 @@ title: 'Book Blogger Hop #18'
 author: Edel
 type: blog
 date: 2017-06-09T07:24:36+00:00
-slug: /blog/book-blogger-hop-18/
+url: /blog/book-blogger-hop-18/
 categories:
   - Books
 tags:

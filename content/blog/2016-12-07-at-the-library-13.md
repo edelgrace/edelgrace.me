@@ -3,7 +3,7 @@ title: 'At the Library #13'
 author: Edel
 type: blog
 date: 2016-12-08T04:12:01+00:00
-slug: /life/at-the-library-13/
+url: /blog/at-the-library-13/
 categories:
   - Books
 tags:

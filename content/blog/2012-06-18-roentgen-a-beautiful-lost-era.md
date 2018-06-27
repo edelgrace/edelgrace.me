@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2012-06-18T11:35:22+00:00
 excerpt: 'Listening to: The Sharpest Lives by MCR Fave song atm: Scream by 2NE1 Fave musician(s) atm: 2NE1 &amp; BIGBANG Okay, I love Hyde. I always have. There&rsquo;s something about him that I just can&rsquo;t ignore. However, I just wish I could bring back the Roentgen era. Variety is good and experimenting is all well and [...]'
-slug: /life/roentgen-a-beautiful-lost-era/
+url: /blog/roentgen-a-beautiful-lost-era/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

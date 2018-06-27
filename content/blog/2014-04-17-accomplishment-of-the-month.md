@@ -5,7 +5,7 @@ type: blog
 date: 2014-04-18T05:41:15+00:00
 draft: true
 private: true
-slug: /life/accomplishment-of-the-month/
+url: /blog/accomplishment-of-the-month/
 categories:
   - Love
   - University

@@ -5,7 +5,7 @@ type: blog
 date: 2015-10-23T05:07:58+00:00
 draft: true
 private: true
-slug: /life/verge-of-a-meltdown/
+url: /blog/verge-of-a-meltdown/
 categories:
   - Life
   - Love

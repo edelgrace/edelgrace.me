@@ -3,7 +3,7 @@ title: First Post of the New Year!
 author: Edel
 type: blog
 date: 2012-01-07T18:20:51+00:00
-slug: /life/first-post-of-the-new-year/
+url: /blog/first-post-of-the-new-year/
 categories:
   - Books
   - Video Games

@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2012-10-17T02:46:45+00:00
 excerpt: 'The Afterman: Ascension by Coheed and Cambria Track Listing The Hollow Key Entity Extraction I: Domino The Destitute The Afterman Mothers of Men Goodnight, Fair Lady Key Entity Extraction II: Holly Wood The Cracked Key Entity Extraction III: Vic The Butcher Key Entity Extraction IV: Evagaria The Faithful Subtraction WARNING: Reaction blog posts are probably [...]'
-slug: /life/the-afterman-ascension-a-reaction/
+url: /blog/the-afterman-ascension-a-reaction/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

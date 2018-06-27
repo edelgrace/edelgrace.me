@@ -5,7 +5,7 @@ type: blog
 date: 2011-12-07T00:00:32+00:00
 draft: true
 private: true
-slug: /life/snowy-shenanigans/
+url: /blog/snowy-shenanigans/
 categories:
   - 'Family &amp; Friends'
   - High School

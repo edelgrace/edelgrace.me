@@ -3,7 +3,7 @@ title: 'Weekly Drawing #3'
 author: Edel
 type: blog
 date: 2017-01-31T02:03:36+00:00
-slug: /life/weekly-drawing-3/
+url: /blog/weekly-drawing-3/
 categories:
   - Life
 tags:

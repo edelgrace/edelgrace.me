@@ -3,7 +3,7 @@ title: 'Crochet Haul #3: Vanna’s Choice in Silver Grey Yarn'
 author: Edel
 type: blog
 date: 2017-03-07T21:42:58+00:00
-slug: /blog/crochet-haul-3-vannas-choice-in-silver-grey-yarn/
+url: /blog/crochet-haul-3-vannas-choice-in-silver-grey-yarn/
 categories:
   - Crochet
 tags:

@@ -3,7 +3,7 @@ title: 'Dream: Nearly Survived'
 author: Edel
 type: blog
 date: 2013-02-03T16:18:53+00:00
-slug: /life/dream-nearly-survived/
+url: /blog/dream-nearly-survived/
 categories:
   - Dreams
 

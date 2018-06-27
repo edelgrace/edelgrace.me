@@ -3,7 +3,7 @@ title: Day Out in Pre-Stampede Rush
 author: Edel
 type: blog
 date: 2017-07-09T17:00:00+00:00
-slug: /blog/day-out-in-pre-stampede-rush/
+url: /blog/day-out-in-pre-stampede-rush/
 categories:
   - Crochet
   - Life

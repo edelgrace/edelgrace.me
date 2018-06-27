@@ -5,7 +5,7 @@ author: Edel
 type: blog
 date: 2018-06-06
 publishDate: 2018-06-06
-slug: wip-wednesday-infinity-scarf
+url: wip-wednesday-infinity-scarf
 categories:
   - Crafts
 tags:

@@ -3,7 +3,7 @@ title: 'Book Review: God in Pink by Hasan Namir'
 author: Edel
 type: blog
 date: 2017-07-17T22:22:33+00:00
-slug: /blog/book-review-god-in-pink-by-hasan-namir/
+url: /blog/book-review-god-in-pink-by-hasan-namir/
 categories:
   - Books
 

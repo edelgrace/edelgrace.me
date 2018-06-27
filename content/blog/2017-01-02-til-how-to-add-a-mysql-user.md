@@ -3,7 +3,7 @@ title: 'TIL: How to Add a MySQL User'
 author: Edel
 type: blog
 date: 2017-01-03T04:14:55+00:00
-slug: /blog/til-how-to-add-a-mysql-user/
+url: /blog/til-how-to-add-a-mysql-user/
 categories:
   - Programming
 tags:

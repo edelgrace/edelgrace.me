@@ -3,7 +3,7 @@ title: 'Kuzu no Honkai: On Using Others'
 author: Edel
 type: blog
 date: 2017-07-05T04:46:20+00:00
-slug: /anime/kuzu-no-honkai-on-using-others/
+url: /anime/kuzu-no-honkai-on-using-others/
 categories:
   - Anime
 

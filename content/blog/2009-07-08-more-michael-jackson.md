@@ -3,7 +3,7 @@ title: More Michael Jackson
 author: Edel
 type: blog
 date: 2009-07-08T21:35:07+00:00
-slug: /life/more-michael-jackson/
+url: /blog/more-michael-jackson/
 categories:
   - Music
 

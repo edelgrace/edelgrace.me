@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-02-23T19:56:02+00:00
 draft: false
-slug: /blog/crochet-haul-1-starting-the-crochet-journey/
+url: /blog/crochet-haul-1-starting-the-crochet-journey/
 categories:
   - Crochet
 tags:

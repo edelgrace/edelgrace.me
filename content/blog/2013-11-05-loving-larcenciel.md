@@ -3,7 +3,7 @@ title: Loving L’Arc~en~Ciel
 author: Edel
 type: blog
 date: 2013-11-06T00:53:31+00:00
-slug: /life/loving-larcenciel/
+url: /blog/loving-larcenciel/
 categories:
   - Music
 tags:

@@ -3,7 +3,7 @@ title: ‘Twas the Night Before the Last Final….
 author: Edel
 type: blog
 date: 2013-12-16T05:24:36+00:00
-slug: /life/twas-the-night-before-the-last-final/
+url: /blog/twas-the-night-before-the-last-final/
 categories:
   - Gaming
   - Internet

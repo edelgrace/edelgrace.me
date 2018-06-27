@@ -3,7 +3,7 @@ title: Silly Mistakes
 author: Edel
 type: blog
 date: 2016-10-31T22:04:29+00:00
-slug: /life/silly-mistakes/
+url: /blog/silly-mistakes/
 categories:
   - Programming
   - Work

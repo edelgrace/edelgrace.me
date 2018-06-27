@@ -5,7 +5,7 @@ type: blog
 date: 2010-02-28T04:29:24+00:00
 draft: true
 private: true
-slug: /life/i-love-nine-hours-of-marching-band/
+url: /blog/i-love-nine-hours-of-marching-band/
 categories:
   - 'Family &amp; Friends'
 

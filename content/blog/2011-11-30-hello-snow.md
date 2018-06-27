@@ -3,7 +3,7 @@ title: Hello Snow
 author: Edel
 type: blog
 date: 2011-12-01T05:18:03+00:00
-slug: /life/hello-snow/
+url: /blog/hello-snow/
 categories:
   - Internet
 

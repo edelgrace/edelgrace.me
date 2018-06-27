@@ -3,7 +3,7 @@ title: 'Tumblr Post: My DIY Planner'
 author: Edel
 type: blog
 date: 2015-09-08T00:02:02+00:00
-slug: /life/tumblr-post-7/
+url: /blog/tumblr-post-7/
 categories:
   - Life
   - Planning

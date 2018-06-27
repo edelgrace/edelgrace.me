@@ -5,7 +5,7 @@ type: blog
 date: 2009-11-09T22:58:31+00:00
 draft: true
 private: true
-slug: /life/fanlists-band-camp-sick/
+url: /blog/fanlists-band-camp-sick/
 categories:
   - 'Family &amp; Friends'
   - High School

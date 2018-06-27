@@ -3,7 +3,7 @@ title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 3'
 author: Edel
 type: blog
 date: 2016-02-20T06:54:48+00:00
-slug: /life/blogilates-beginners-workout-calendar-2-0-day-3/
+url: /blog/blogilates-beginners-workout-calendar-2-0-day-3/
 categories:
   - Fitness
 tags:
@@ -27,7 +27,7 @@ This video is around 9 minutes long and surprisingly only has three moves. There
 </div>
 
   * _Toe to ceiling pulse:_ At first this started out easy but it got a little tiring near the end. I made it though!
-  * _Hammy cslug:_ This one I felt like I was on the verge of cramping up so I admit I did not clench as hard as I should have.
+  * _Hammy curl:_ This one I felt like I was on the verge of cramping up so I admit I did not clench as hard as I should have.
   * _Grashopper:_ I could not do these at all! It felt like I was doing them but my legs probably lifted maybe half a centimeter off the floor.
 
 ### Video 2: Total Body Workout with Ana Caban

@@ -3,7 +3,7 @@ title: Speed Racer
 author: Edel
 type: blog
 date: 2010-04-07T06:08:50+00:00
-slug: /life/speed-racer/
+url: /blog/speed-racer/
 categories:
   - Music
 

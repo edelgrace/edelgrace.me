@@ -3,7 +3,7 @@ title: You Ain’t Bad! You ain’t nothing!
 author: Edel
 type: blog
 date: 2009-08-22T22:58:43+00:00
-slug: /life/you-aint-bad-you-aint-nothing/
+url: /blog/you-aint-bad-you-aint-nothing/
 categories:
   - Internet
 

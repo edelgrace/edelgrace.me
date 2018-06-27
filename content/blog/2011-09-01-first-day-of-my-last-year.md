@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-02T03:52:45+00:00
 draft: true
 private: true
-slug: /life/first-day-of-my-last-year/
+url: /blog/first-day-of-my-last-year/
 categories:
   - 'Family &amp; Friends'
   - High School

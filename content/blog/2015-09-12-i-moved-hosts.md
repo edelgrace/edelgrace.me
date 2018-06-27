@@ -3,7 +3,7 @@ title: I Moved Hosts to Network Panda
 author: Edel
 type: blog
 date: 2015-09-13T01:12:20+00:00
-slug: /life/i-moved-hosts/
+url: /blog/i-moved-hosts/
 categories:
   - Internet
 tags:

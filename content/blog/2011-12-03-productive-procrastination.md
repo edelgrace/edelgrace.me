@@ -5,7 +5,7 @@ type: blog
 date: 2011-12-04T05:47:59+00:00
 draft: true
 private: true
-slug: /life/productive-procrastination/
+url: /blog/productive-procrastination/
 categories:
   - High School
   - Internet

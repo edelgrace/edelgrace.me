@@ -3,7 +3,7 @@ title: Finally Expired
 author: Edel
 type: blog
 date: 2013-04-22T06:02:00+00:00
-slug: /life/finally-expired/
+url: /blog/finally-expired/
 categories:
   - Internet
 

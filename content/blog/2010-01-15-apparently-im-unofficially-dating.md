@@ -5,7 +5,7 @@ type: blog
 date: 2010-01-16T02:21:47+00:00
 draft: true
 private: true
-slug: /life/apparently-im-unofficially-dating/
+url: /blog/apparently-im-unofficially-dating/
 categories:
   - 'Family &amp; Friends'
   - High School

@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-16T20:40:04+00:00
 draft: true
 private: true
-slug: /life/testosterone/
+url: /blog/testosterone/
 categories:
   - 'Family &amp; Friends'
   - High School

@@ -3,7 +3,7 @@ title: Grand Opening!
 author: Edel
 type: blog
 date: 2009-06-27T17:22:33+00:00
-slug: /life/grand-opening/
+url: /blog/grand-opening/
 categories:
   - Internet
 

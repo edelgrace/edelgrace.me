@@ -3,7 +3,7 @@ title: 'TIL: Adding Policies in Cisco Firewalls'
 author: Edel
 type: blog
 date: 2017-01-05T05:26:38+00:00
-slug: /blog/til-adding-policies-in-cisco-firewalls/
+url: /blog/til-adding-policies-in-cisco-firewalls/
 categories:
   - Networking
 tags:

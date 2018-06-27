@@ -5,7 +5,7 @@ type: blog
 date: 2014-01-11T23:58:31+00:00
 draft: true
 private: true
-slug: /life/so-uh-this-defs-just-happened/
+url: /blog/so-uh-this-defs-just-happened/
 categories:
   - Love
 

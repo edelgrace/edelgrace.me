@@ -3,7 +3,7 @@ title: 'Yarn Haul #8: Gina Brown’s First Visit'
 author: Edel
 type: blog
 date: 2017-06-28T08:00:00+00:00
-slug: /blog/yarn-haul-8-gina-browns-first-visit/
+url: /blog/yarn-haul-8-gina-browns-first-visit/
 categories:
   - Crochet
   - Knitting

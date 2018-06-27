@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2018-04-16
 publishDate: 2018-04-16
-slug: wip-starting-over
+url: wip-starting-over
 categories:
   - Crafts
 tags:

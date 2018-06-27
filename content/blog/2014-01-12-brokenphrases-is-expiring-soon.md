@@ -3,7 +3,7 @@ title: Brokenphrases is Expiring Soon
 author: Edel
 type: blog
 date: 2014-01-12T19:21:46+00:00
-slug: /life/brokenphrases-is-expiring-soon/
+url: /blog/brokenphrases-is-expiring-soon/
 categories:
   - Internet
 

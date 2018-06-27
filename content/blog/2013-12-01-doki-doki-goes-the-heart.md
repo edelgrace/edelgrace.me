@@ -3,7 +3,7 @@ title: Doki Doki Goes the Heart
 author: Edel
 type: blog
 date: 2013-12-02T02:28:45+00:00
-slug: /life/doki-doki-goes-the-heart/
+url: /blog/doki-doki-goes-the-heart/
 categories:
   - Life
   - Love

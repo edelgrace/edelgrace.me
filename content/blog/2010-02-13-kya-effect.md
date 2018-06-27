@@ -3,7 +3,7 @@ title: kya! effect
 author: Edel
 type: blog
 date: 2010-02-14T03:55:37+00:00
-slug: /life/kya-effect/
+url: /blog/kya-effect/
 categories:
   - Internet
 

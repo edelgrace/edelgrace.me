@@ -3,7 +3,7 @@ title: "February 2018 in Review"
 date: 2018-03-03
 publishDate: 2018-03-03
 type: blog
-slug: february-2018-in-review
+url: february-2018-in-review
 draft: false
 categories:
   - life

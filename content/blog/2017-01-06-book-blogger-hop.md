@@ -3,7 +3,7 @@ title: 'Book Blogger Hop #1 (01/06-01/12/2017)'
 author: Edel
 type: blog
 date: 2017-01-06T08:05:00+00:00
-slug: /blog/book-blogger-hop/
+url: /blog/book-blogger-hop/
 categories:
   - Books
 tags:

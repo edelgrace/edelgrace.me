@@ -3,7 +3,7 @@ title: “Gold” and School
 author: Edel
 type: blog
 date: 2013-11-04T06:24:31+00:00
-slug: /life/gold-and-school/
+url: /blog/gold-and-school/
 categories:
   - Internet
 tags:

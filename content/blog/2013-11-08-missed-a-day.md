@@ -3,7 +3,7 @@ title: Missed a Day
 author: Edel
 type: blog
 date: 2013-11-09T00:17:12+00:00
-slug: /life/missed-a-day/
+url: /blog/missed-a-day/
 categories:
   - Life
   - University

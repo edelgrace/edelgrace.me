@@ -5,7 +5,7 @@ type: blog
 date: 2016-12-31T22:48:03+00:00
 draft: true
 private: true
-slug: /life/hello-world/
+url: /blog/hello-world/
 categories:
   - Life
 tags:

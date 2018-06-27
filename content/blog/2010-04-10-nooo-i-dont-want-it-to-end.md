@@ -5,7 +5,7 @@ type: blog
 date: 2010-04-10T18:38:29+00:00
 draft: true
 private: true
-slug: /life/nooo-i-dont-want-it-to-end/
+url: /blog/nooo-i-dont-want-it-to-end/
 categories:
   - 'Family &amp; Friends'
   - High School

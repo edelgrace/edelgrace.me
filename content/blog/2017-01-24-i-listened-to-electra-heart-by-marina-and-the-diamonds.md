@@ -3,7 +3,7 @@ title: 'I Listened To: Electra Heart by Marina and the Diamonds'
 author: Edel
 type: blog
 date: 2017-01-25T00:39:00+00:00
-slug: /blog/i-listened-to-electra-heart-by-marina-and-the-diamonds/
+url: /blog/i-listened-to-electra-heart-by-marina-and-the-diamonds/
 categories:
   - Music
 tags:

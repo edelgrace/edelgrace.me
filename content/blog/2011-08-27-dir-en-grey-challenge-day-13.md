@@ -3,7 +3,7 @@ title: 'DIR EN GREY Challenge: Day 13'
 author: Edel
 type: blog
 date: 2011-08-27T18:10:27+00:00
-slug: dir-en-grey-challenge-day-13
+url: dir-en-grey-challenge-day-13
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

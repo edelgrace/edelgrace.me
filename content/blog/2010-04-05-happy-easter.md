@@ -3,7 +3,7 @@ title: Happy Easter!
 author: Edel
 type: blog
 date: 2010-04-06T00:55:48+00:00
-slug: /life/happy-easter/
+url: /blog/happy-easter/
 categories:
   - High School
 

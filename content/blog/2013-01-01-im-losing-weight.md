@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2013-01-01T23:37:29+00:00
 excerpt: 'They say that one of the easiest ways to lose weight is to keep track of what you&rsquo;re eating. I&rsquo;ve decided to apply this to my own life in order to lose some weight. I&rsquo;m not talking about the physical kind of weight but the dead weight that everyone carries around and hinders them in [&hellip;]'
-slug: /life/im-losing-weight/
+url: /blog/im-losing-weight/
 enclosure:
   - |
     |

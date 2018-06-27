@@ -3,7 +3,7 @@ title: Preparation
 author: Edel
 type: blog
 date: 2012-08-23T04:57:26+00:00
-slug: /life/university-and-connections/
+url: /blog/university-and-connections/
 categories:
   - University
 

@@ -3,7 +3,7 @@ title: "Inspiration from Fictional Worlds"
 date: 2018-01-25
 publish_date: 2018-01-25
 draft: false
-slug: inspiration-from-fictional-worlds
+url: inspiration-from-fictional-worlds
 type: blog
 categories:
   - books

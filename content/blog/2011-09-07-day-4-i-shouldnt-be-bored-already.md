@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-07T14:32:06+00:00
 draft: true
 private: true
-slug: /life/day-4-i-shouldnt-be-bored-already/
+url: /blog/day-4-i-shouldnt-be-bored-already/
 categories:
   - High School
 

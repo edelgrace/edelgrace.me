@@ -5,7 +5,7 @@ type: blog
 draft: true
 date: 2018-05-12
 publishDate: 2018-05-12
-slug: divers-by-joanna-newsom
+url: divers-by-joanna-newsom
 categories:
   - Music
 tags:

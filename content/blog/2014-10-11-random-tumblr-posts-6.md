@@ -3,7 +3,7 @@ title: 'Random Tumblr Posts #6'
 author: Edel
 type: blog
 date: 2014-10-12T02:57:53+00:00
-slug: /life/random-tumblr-posts-6/
+url: /blog/random-tumblr-posts-6/
 categories:
   - Life
 

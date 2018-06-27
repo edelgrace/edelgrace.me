@@ -5,7 +5,7 @@ type: blog
 date: 2011-10-07T22:22:31+00:00
 draft: true
 private: true
-slug: /life/testing-blues/
+url: /blog/testing-blues/
 categories:
   - High School
   - University

@@ -3,7 +3,7 @@ title: They Were Born Ready!
 author: Edel
 type: blog
 date: 2011-07-21T22:59:03+00:00
-slug: /life/they-were-born-ready/
+url: /blog/they-were-born-ready/
 categories:
   - High School
   - Music

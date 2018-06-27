@@ -3,7 +3,7 @@ title: Getting Through It
 author: Edel
 type: blog
 date: 2012-12-23T22:27:15+00:00
-slug: /life/getting-through-it/
+url: /blog/getting-through-it/
 categories:
   - Internet
   - University

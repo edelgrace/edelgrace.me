@@ -5,7 +5,7 @@ type: blog
 date: 2012-08-15T04:52:32+00:00
 draft: true
 private: true
-slug: /life/ugh-lady-my-ovaries/
+url: /blog/ugh-lady-my-ovaries/
 categories:
   - 'Family &amp; Friends'
   - Internet

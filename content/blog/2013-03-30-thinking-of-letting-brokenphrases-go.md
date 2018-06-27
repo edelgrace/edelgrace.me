@@ -3,7 +3,7 @@ title: Thinking of Letting Brokenphrases Go
 author: Edel
 type: blog
 date: 2013-03-30T23:38:07+00:00
-slug: /life/thinking-of-letting-brokenphrases-go/
+url: /blog/thinking-of-letting-brokenphrases-go/
 categories:
   - Internet
 

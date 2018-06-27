@@ -3,7 +3,7 @@ title: Before I Go To Sleep
 author: Edel
 type: blog
 date: 2009-12-22T05:38:49+00:00
-slug: /life/before-i-go-to-sleep/
+url: /blog/before-i-go-to-sleep/
 categories:
   - Internet
 

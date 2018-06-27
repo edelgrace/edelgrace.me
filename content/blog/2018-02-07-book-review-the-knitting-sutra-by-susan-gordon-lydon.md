@@ -2,7 +2,7 @@
 title: "Book Review: The Knitting Sutra by Susan Gordon Lydon"
 date: 2018-02-07
 publishDate: 2018-02-07
-slug: book-review-the-knitting-sutra-by-susan-gordon-lydon
+url: book-review-the-knitting-sutra-by-susan-gordon-lydon
 draft: false
 categories:
   - books

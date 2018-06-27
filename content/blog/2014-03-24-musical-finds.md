@@ -3,7 +3,7 @@ title: Musical Finds
 author: Edel
 type: blog
 date: 2014-03-24T06:30:54+00:00
-slug: /life/musical-finds/
+url: /blog/musical-finds/
 categories:
   - Music
 

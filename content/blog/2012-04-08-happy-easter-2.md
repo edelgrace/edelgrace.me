@@ -3,7 +3,7 @@ title: Happy Easter!
 author: Edel
 type: blog
 date: 2012-04-08T22:02:19+00:00
-slug: /life/happy-easter-2/
+url: /blog/happy-easter-2/
 categories:
   - Books
   - 'Family &amp; Friends'

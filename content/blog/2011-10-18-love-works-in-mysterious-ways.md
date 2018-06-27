@@ -5,7 +5,7 @@ type: blog
 date: 2011-10-19T04:39:29+00:00
 draft: true
 private: true
-slug: /life/love-works-in-mysterious-ways/
+url: /blog/love-works-in-mysterious-ways/
 categories:
   - High School
 

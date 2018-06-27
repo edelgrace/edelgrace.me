@@ -3,7 +3,7 @@ title: I Started to Play TCGs Again
 author: Edel
 type: blog
 date: 2014-04-03T05:11:20+00:00
-slug: /life/i-started-to-play-tcgs-again/
+url: /blog/i-started-to-play-tcgs-again/
 categories:
   - Anime
   - Internet

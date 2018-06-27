@@ -3,7 +3,7 @@ title: But Seriously Though. U-KISS
 author: Edel
 type: blog
 date: 2013-11-27T03:11:01+00:00
-slug: /life/but-seriously-though-u-kiss/
+url: /blog/but-seriously-though-u-kiss/
 categories:
   - Music
 

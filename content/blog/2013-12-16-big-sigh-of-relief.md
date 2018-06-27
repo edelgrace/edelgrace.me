@@ -5,7 +5,7 @@ type: blog
 date: 2013-12-17T06:07:10+00:00
 draft: true
 private: true
-slug: /life/big-sigh-of-relief/
+url: /blog/big-sigh-of-relief/
 categories:
   - University
 

@@ -3,7 +3,7 @@ title: I’m Bad for the Environment
 author: Edel
 type: blog
 date: 2013-08-23T20:50:19+00:00
-slug: /life/im-bad-for-the-environment/
+url: /blog/im-bad-for-the-environment/
 categories:
   - University
 

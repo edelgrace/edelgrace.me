@@ -3,7 +3,7 @@ title: 'Transition to Foundation: Successful?'
 author: Edel
 type: blog
 date: 2015-08-26T17:55:45+00:00
-slug: /life/transition-to-foundation-successful/
+url: /blog/transition-to-foundation-successful/
 categories:
   - Internet
   - Life

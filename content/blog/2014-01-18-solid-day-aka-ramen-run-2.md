@@ -3,7 +3,7 @@ title: 'Solid Day (AKA Ramen Run #2)'
 author: Edel
 type: blog
 date: 2014-01-19T06:30:23+00:00
-slug: /life/solid-day-aka-ramen-run-2/
+url: /blog/solid-day-aka-ramen-run-2/
 categories:
   - Friends
   - Life

@@ -3,7 +3,7 @@ title: "January 2018 in Review"
 date: 2018-02-08
 publishDate: 2018-02-08
 type: blog
-slug: january-2018-in-review
+url: january-2018-in-review
 draft: false
 categories:
   - life

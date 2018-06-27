@@ -3,7 +3,7 @@ title: "Book Review: The Sky is Yours by Chandler Klang Smith"
 date: 2018-02-21
 publishDate: 2018-02-21
 type: blog
-slug: book-review-the-sky-is-yours-by-chandler-klang-smith
+url: book-review-the-sky-is-yours-by-chandler-klang-smith
 draft: false
 categories:
   - books

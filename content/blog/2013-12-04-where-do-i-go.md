@@ -3,7 +3,7 @@ title: Where Do I Go?
 author: Edel
 type: blog
 date: 2013-12-04T09:21:29+00:00
-slug: /life/where-do-i-go/
+url: /blog/where-do-i-go/
 categories:
   - Life
 

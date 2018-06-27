@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-21T20:36:56+00:00
 draft: true
 private: true
-slug: /life/fire-drill/
+url: /blog/fire-drill/
 categories:
   - High School
 

@@ -3,7 +3,7 @@ title: So Far, So Good
 author: Edel
 type: blog
 date: 2013-09-29T03:49:44+00:00
-slug: /life/so-far-so-good/
+url: /blog/so-far-so-good/
 categories:
   - Internet
   - University

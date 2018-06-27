@@ -3,7 +3,7 @@ title: 'Security By Obscurity: Just Hide It?'
 author: Edel
 type: blog
 date: 2016-06-07T03:26:11+00:00
-slug: /life/security-by-obscurity/
+url: /blog/security-by-obscurity/
 categories:
   - Technology
 tags:

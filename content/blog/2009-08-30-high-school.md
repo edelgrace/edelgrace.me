@@ -5,7 +5,7 @@ type: blog
 date: 2009-08-30T21:37:37+00:00
 draft: true
 private: true
-slug: /life/high-school/
+url: /blog/high-school/
 categories:
   - High School
 

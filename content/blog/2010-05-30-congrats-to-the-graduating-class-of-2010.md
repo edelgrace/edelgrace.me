@@ -5,7 +5,7 @@ type: blog
 date: 2010-05-31T04:23:45+00:00
 draft: true
 private: true
-slug: /life/congrats-to-the-graduating-class-of-2010/
+url: /blog/congrats-to-the-graduating-class-of-2010/
 categories:
   - High School
 

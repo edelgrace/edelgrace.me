@@ -3,7 +3,7 @@ title: 'Book Review: Frankenstein by Mary Shelley'
 author: Edel
 type: blog
 date: 2017-06-13T06:28:23+00:00
-slug: /blog/book-review-frankenstein-by-mary-shelley/
+url: /blog/book-review-frankenstein-by-mary-shelley/
 categories:
   - Books
 tags:

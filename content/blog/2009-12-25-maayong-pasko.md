@@ -3,7 +3,7 @@ title: Maayong Pasko!
 author: Edel
 type: blog
 date: 2009-12-25T18:53:48+00:00
-slug: /life/maayong-pasko/
+url: /blog/maayong-pasko/
 categories:
   - 'Family &amp; Friends'
   - High School

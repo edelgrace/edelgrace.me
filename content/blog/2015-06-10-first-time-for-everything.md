@@ -5,7 +5,7 @@ type: blog
 date: 2015-06-11T05:39:26+00:00
 draft: true
 private: true
-slug: /life/first-time-for-everything/
+url: /blog/first-time-for-everything/
 categories:
   - Life
   - Love

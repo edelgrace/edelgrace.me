@@ -5,7 +5,7 @@ type: blog
 date: 2014-02-05T01:54:54+00:00
 draft: true
 private: true
-slug: /life/weird-feeling-of-fear/
+url: /blog/weird-feeling-of-fear/
 categories:
   - Life
 

@@ -3,7 +3,7 @@ title: 'Random Tumblr Posts #1'
 author: Edel
 type: blog
 date: 2014-06-03T02:09:56+00:00
-slug: /life/random-tumblr-posts-1/
+url: /blog/random-tumblr-posts-1/
 categories:
   - Anime
   - Internet

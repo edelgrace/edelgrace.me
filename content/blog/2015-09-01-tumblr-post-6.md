@@ -3,7 +3,7 @@ title: 'Tumblr Post: The Rebel'
 author: Edel
 type: blog
 date: 2015-09-01T06:02:41+00:00
-slug: /life/tumblr-post-6/
+url: /blog/tumblr-post-6/
 categories:
   - Life
   - Planning

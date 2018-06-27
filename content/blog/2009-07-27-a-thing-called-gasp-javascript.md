@@ -3,7 +3,7 @@ title: A thing called…gasp, Javascript!
 author: Edel
 type: blog
 date: 2009-07-28T04:17:36+00:00
-slug: /life/a-thing-called-gasp-javascript/
+url: /blog/a-thing-called-gasp-javascript/
 categories:
   - Internet
 

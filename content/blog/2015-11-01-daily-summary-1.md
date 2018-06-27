@@ -5,7 +5,7 @@ type: blog
 date: 2015-11-02T03:51:01+00:00
 draft: true
 private: true
-slug: /life/daily-summary-1/
+url: /blog/daily-summary-1/
 categories:
   - Life
 

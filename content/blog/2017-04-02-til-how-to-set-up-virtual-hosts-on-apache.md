@@ -3,7 +3,7 @@ title: 'TIL: How to Set Up Virtual Hosts on Apache'
 author: Edel
 type: blog
 date: 2017-04-02T17:50:31+00:00
-slug: /blog/til-how-to-set-up-virtual-hosts-on-apache/
+url: /blog/til-how-to-set-up-virtual-hosts-on-apache/
 categories:
   - Websites
 tags:

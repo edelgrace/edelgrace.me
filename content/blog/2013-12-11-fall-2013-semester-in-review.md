@@ -3,7 +3,7 @@ title: Fall 2013 Semester in Review
 author: Edel
 type: blog
 date: 2013-12-12T06:43:27+00:00
-slug: /life/fall-2013-semester-in-review/
+url: /blog/fall-2013-semester-in-review/
 categories:
   - Life
   - University

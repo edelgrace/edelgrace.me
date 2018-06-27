@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-12T02:20:43+00:00
 draft: true
 private: true
-slug: /life/school-is-for-learning/
+url: /blog/school-is-for-learning/
 categories:
   - High School
 

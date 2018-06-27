@@ -5,7 +5,7 @@ type: blog
 date: 2009-12-07T00:47:20+00:00
 draft: true
 private: true
-slug: /life/this-wasnt-the-best-week-ever/
+url: /blog/this-wasnt-the-best-week-ever/
 categories:
   - 'Family &amp; Friends'
   - High School

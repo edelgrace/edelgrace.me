@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2018-01-02
 draft: false
-slug: uber-frugal-month-january-2018-day-1
+url: uber-frugal-month-january-2018-day-1
 categories:
   - Life
 ---

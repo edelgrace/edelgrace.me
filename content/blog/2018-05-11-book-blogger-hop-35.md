@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2018-05-11
 publishDate: 2018-05-11
-slug: /blog/book-blogger-hop-35/
+url: /blog/book-blogger-hop-35/
 categories:
   - Books
 tags:

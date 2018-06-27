@@ -3,7 +3,7 @@ title: 'On Approaching this Blog & R.I.P hide'
 author: Edel
 type: blog
 date: 2014-05-25T16:44:53+00:00
-slug: /life/on-approaching-this-blog/
+url: /blog/on-approaching-this-blog/
 categories:
   - Internet
   - Music

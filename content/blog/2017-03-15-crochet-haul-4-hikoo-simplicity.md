@@ -3,7 +3,7 @@ title: 'Crochet Haul #4: HiKoo Simplicity'
 author: Edel
 type: blog
 date: 2017-03-15T12:47:00+00:00
-slug: /blog/crochet-haul-4-hikoo-simplicity/
+url: /blog/crochet-haul-4-hikoo-simplicity/
 categories:
   - Crochet
 tags:

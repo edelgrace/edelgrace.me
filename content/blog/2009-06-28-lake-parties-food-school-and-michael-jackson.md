@@ -3,7 +3,7 @@ title: Lake Parties, Food, School, and . . . Michael Jackson!
 author: Edel
 type: blog
 date: 2009-06-29T02:17:47+00:00
-slug: /life/lake-parties-food-school-and-michael-jackson/
+url: /blog/lake-parties-food-school-and-michael-jackson/
 categories:
   - 'Family &amp; Friends'
   - Jr High

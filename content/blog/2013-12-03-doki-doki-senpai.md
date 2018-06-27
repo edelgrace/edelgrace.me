@@ -3,7 +3,7 @@ title: Doki Doki Senpai
 author: Edel
 type: blog
 date: 2013-12-04T04:20:42+00:00
-slug: /life/doki-doki-senpai/
+url: /blog/doki-doki-senpai/
 categories:
   - Life
   - Love

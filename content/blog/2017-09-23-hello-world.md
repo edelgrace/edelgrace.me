@@ -1,6 +1,6 @@
 ---
 title: "Hello World (Hugo)"
-slug: hello-world-i-mean-hugo
+url: hello-world-i-mean-hugo
 date: 2017-09-23T20:59:19-06:00
 ---
 

@@ -3,7 +3,7 @@ title: Apples to Apples
 author: Edel
 type: blog
 date: 2010-02-15T23:51:58+00:00
-slug: /life/apples-to-apples/
+url: /blog/apples-to-apples/
 categories:
   - 'Family &amp; Friends'
 

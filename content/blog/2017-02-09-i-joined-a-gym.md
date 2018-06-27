@@ -3,7 +3,7 @@ title: I Joined a Gym
 author: Edel
 type: blog
 date: 2017-02-09T16:33:00+00:00
-slug: /blog/i-joined-a-gym/
+url: /blog/i-joined-a-gym/
 categories:
   - Life
 tags:

@@ -3,7 +3,7 @@ title: It’s December…
 author: Edel
 type: blog
 date: 2011-12-02T02:50:12+00:00
-slug: /life/its-december/
+url: /blog/its-december/
 categories:
   - High School
   - Internet

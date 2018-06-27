@@ -5,7 +5,7 @@ type: blog
 date: 2014-08-24T06:41:56+00:00
 draft: true
 private: true
-slug: /life/first-date-jitters/
+url: /blog/first-date-jitters/
 categories:
   - Life
   - Love

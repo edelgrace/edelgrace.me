@@ -3,7 +3,7 @@ title: "I'm Stuffed"
 date: 2018-01-22
 publish_date: 2018-01-22
 draft: false
-slug: im-stuffed
+url: im-stuffed
 type: blog
 categories:
   - life

@@ -5,7 +5,7 @@ type: blog
 date: 2009-09-04T00:31:07+00:00
 draft: true
 private: true
-slug: /life/his-name-is/
+url: /blog/his-name-is/
 categories:
   - High School
 

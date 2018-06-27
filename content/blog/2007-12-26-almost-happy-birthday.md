@@ -3,7 +3,7 @@ title: Almost Happy Birthday
 author: Edel
 type: blog
 date: 2007-12-26T22:54:04+00:00
-slug: /life/almost-happy-birthday/
+url: /blog/almost-happy-birthday/
 categories:
   - life
 tags:

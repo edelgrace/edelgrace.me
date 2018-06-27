@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2011-08-30T00:16:13+00:00
 excerpt: 'Listening to: CLEVER SLEAZOID by DIR EN GREY Fave song atm: Au Revoir by MALICE MIZER Fave musician(s) atm: MALICE MIZER Your first Dir en grey PV. JEALOUS. I was so hooked on that PV. All the members were just eerily beautiful (especially Toshiya, I loved his costume) and the beginning sounded like one of [...]'
-slug: /life/dir-en-grey-challenge-day-15/
+url: /blog/dir-en-grey-challenge-day-15/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

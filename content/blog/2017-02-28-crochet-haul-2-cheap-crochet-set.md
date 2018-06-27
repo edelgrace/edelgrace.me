@@ -3,7 +3,7 @@ title: 'Crochet Haul #2: Cheap Crochet Set'
 author: Edel
 type: blog
 date: 2017-02-28T13:26:00+00:00
-slug: /blog/crochet-haul-2-cheap-crochet-set/
+url: /blog/crochet-haul-2-cheap-crochet-set/
 categories:
   - Crochet
 tags:

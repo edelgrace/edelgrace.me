@@ -3,7 +3,7 @@ title: Well, That’s Cute
 author: Edel
 type: blog
 date: 2011-08-23T20:37:14+00:00
-slug: /life/well-thats-cute/
+url: /blog/well-thats-cute/
 categories:
   - Internet
 

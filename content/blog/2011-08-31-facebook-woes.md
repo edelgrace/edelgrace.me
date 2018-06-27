@@ -5,7 +5,7 @@ type: blog
 date: 2011-08-31T15:16:26+00:00
 draft: true
 private: true
-slug: /life/facebook-woes/
+url: /blog/facebook-woes/
 categories:
   - Internet
 

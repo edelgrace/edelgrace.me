@@ -3,7 +3,7 @@ title: I Enjoy Being Lazy
 author: Edel
 type: blog
 date: 2012-08-06T20:55:18+00:00
-slug: /life/i-enjoy-being-lazy/
+url: /blog/i-enjoy-being-lazy/
 categories:
   - Internet
   - Video Games

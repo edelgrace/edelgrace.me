@@ -3,7 +3,7 @@ title: One Week Down
 author: Edel
 type: blog
 date: 2011-07-11T20:28:46+00:00
-slug: /life/one-week-down/
+url: /blog/one-week-down/
 categories:
   - 'Family &amp; Friends'
 

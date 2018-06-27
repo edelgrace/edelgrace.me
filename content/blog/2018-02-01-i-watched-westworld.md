@@ -5,7 +5,7 @@ type: blog
 date: 2018-02-01
 publishDate: 2018-02-01
 draft: false
-slug: i-watched-westworld
+url: i-watched-westworld
 categories:
   - Life
 

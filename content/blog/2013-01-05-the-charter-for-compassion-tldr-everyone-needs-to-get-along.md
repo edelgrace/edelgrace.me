@@ -3,7 +3,7 @@ title: The Charter for Compassion (TL;DR Everyone Needs to Get Along)
 author: Edel
 type: blog
 date: 2013-01-06T05:25:23+00:00
-slug: /life/the-charter-for-compassion-tldr-everyone-needs-to-get-along/
+url: /blog/the-charter-for-compassion-tldr-everyone-needs-to-get-along/
 categories:
   - Religion
 

@@ -5,7 +5,7 @@ type: blog
 date: 2012-01-14T05:13:14+00:00
 draft: true
 private: true
-slug: /life/my-only-lazy-day/
+url: /blog/my-only-lazy-day/
 categories:
   - High School
 

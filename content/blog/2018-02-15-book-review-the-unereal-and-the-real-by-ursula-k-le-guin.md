@@ -3,7 +3,7 @@ title: "Book Review: The Unreal and the Real by Ursula K. Le Guin"
 date: 2018-02-14
 publishDate: 2018-02-14
 type: blog
-slug: book-review-the-unreal-and-the-real-vol-1-by-ursula-k-le-guin
+url: book-review-the-unreal-and-the-real-vol-1-by-ursula-k-le-guin
 draft: false
 categories:
   - books

@@ -3,7 +3,7 @@ title: Race Against Time
 author: Edel
 type: blog
 date: 2013-11-10T06:24:22+00:00
-slug: /life/race-against-time/
+url: /blog/race-against-time/
 categories:
   - Internet
   - Life

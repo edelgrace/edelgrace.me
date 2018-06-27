@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2013-02-19T06:40:57+00:00
 excerpt: 'I went to the library last Saturday! Quite fitting because it is reading week at university. I&rsquo;m probably the only one who takes the &ldquo;reading&rdquo; in reading week seriously&hellip; Anyway, here is my library haul this week in order of the books I remember first: French Milk by Lucy KnisleyI&rsquo;m always a sucker for personal [...]'
-slug: /life/reading-week-aka-im-reading-week/
+url: /blog/reading-week-aka-im-reading-week/
 enclosure:
   - |
     |

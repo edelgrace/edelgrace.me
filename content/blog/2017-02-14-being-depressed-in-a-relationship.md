@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-02-14T12:41:00+00:00
 draft: false
-slug: /blog/being-depressed-in-a-relationship/
+url: /blog/being-depressed-in-a-relationship/
 categories:
   - Life
 

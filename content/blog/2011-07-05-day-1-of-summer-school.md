@@ -3,7 +3,7 @@ title: Day 1 of Summer School
 author: Edel
 type: blog
 date: 2011-07-06T01:56:29+00:00
-slug: /life/day-1-of-summer-school/
+url: /blog/day-1-of-summer-school/
 categories:
   - High School
 

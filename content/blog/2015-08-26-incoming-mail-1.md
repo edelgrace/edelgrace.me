@@ -3,7 +3,7 @@ title: 'Incoming Mail #1'
 author: Edel
 type: blog
 date: 2015-08-26T21:08:02+00:00
-slug: /life/incoming-mail-1/
+url: /blog/incoming-mail-1/
 categories:
   - Life
   - Mail

@@ -5,7 +5,7 @@ type: blog
 date: 2011-10-13T05:01:30+00:00
 draft: true
 private: true
-slug: /life/a-wild-bus-stop-buddy-appears/
+url: /blog/a-wild-bus-stop-buddy-appears/
 categories:
   - High School
 

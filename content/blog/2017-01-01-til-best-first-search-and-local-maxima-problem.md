@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-01-02T06:40:16+00:00
 draft: false
-slug: /blog/til-best-first-search-and-local-maxima-problem/
+url: /blog/til-best-first-search-and-local-maxima-problem/
 categories:
   - Programming
 tags:

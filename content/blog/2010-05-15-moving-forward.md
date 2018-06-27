@@ -3,7 +3,7 @@ title: Moving Up
 author: Edel
 type: blog
 date: 2010-05-15T18:53:58+00:00
-slug: /life/moving-forward/
+url: /blog/moving-forward/
 categories:
   - Internet
 

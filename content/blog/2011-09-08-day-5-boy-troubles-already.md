@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-08T14:41:06+00:00
 draft: true
 private: true
-slug: /life/day-5-boy-troubles-already/
+url: /blog/day-5-boy-troubles-already/
 categories:
   - High School
 

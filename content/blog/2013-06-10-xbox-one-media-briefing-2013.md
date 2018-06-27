@@ -3,7 +3,7 @@ title: Xbox One Media Briefing 2013
 author: Edel
 type: blog
 date: 2013-06-10T18:20:43+00:00
-slug: /life/xbox-one-media-briefing-2013/
+url: /blog/xbox-one-media-briefing-2013/
 categories:
   - Video Games
 

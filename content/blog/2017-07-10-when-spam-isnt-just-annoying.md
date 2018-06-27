@@ -3,7 +3,7 @@ title: When Spam Isn’t Just Annoying
 author: Edel
 type: blog
 date: 2017-07-10T17:16:00+00:00
-slug: /blog/when-spam-isnt-just-annoying/
+url: /blog/when-spam-isnt-just-annoying/
 categories:
   - Websites
 

@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-01-08T18:00:21+00:00
 draft: false
-slug: /blog/vietnamese-food-and-westworld/
+url: /blog/vietnamese-food-and-westworld/
 categories:
   - Life
 tags:

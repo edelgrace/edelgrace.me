@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2017-01-01
 draft: true
-slug: til-installing-lamp-on-ubuntu-1604
+url: til-installing-lamp-on-ubuntu-1604
 categories:
   - Life
 

@@ -5,7 +5,7 @@ type: blog
 date: 2009-07-08T21:25:51+00:00
 draft: true
 private: true
-slug: /life/end-of-holding-on/
+url: /blog/end-of-holding-on/
 categories:
   - 'Family &amp; Friends'
 

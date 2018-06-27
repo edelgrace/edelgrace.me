@@ -3,7 +3,7 @@ title: 'Just a Review #1'
 author: Edel
 type: blog
 date: 2013-11-08T02:35:16+00:00
-slug: /life/just-a-review-1/
+url: /blog/just-a-review-1/
 categories:
   - Life
 

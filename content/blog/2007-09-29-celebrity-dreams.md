@@ -3,7 +3,7 @@ title: Celebrity Dreams
 author: Edel
 type: blog
 date: 2007-09-29T08:48:07+00:00
-slug: /life/celebrity-dreams/
+url: /blog/celebrity-dreams/
 categories:
   - music
 tags:

@@ -3,7 +3,7 @@ title: The Beginning of the End
 author: Edel
 type: blog
 date: 2012-02-01T23:53:22+00:00
-slug: /life/the-beginning-of-the-end/
+url: /blog/the-beginning-of-the-end/
 categories:
   - High School
 

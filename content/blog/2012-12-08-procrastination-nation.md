@@ -3,7 +3,7 @@ title: Procrastination Nation
 author: Edel
 type: blog
 date: 2012-12-08T20:42:54+00:00
-slug: /life/procrastination-nation/
+url: /blog/procrastination-nation/
 categories:
   - Internet
   - University

@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-03T02:56:57+00:00
 draft: true
 private: true
-slug: /life/second-day-of-school-first-day-of-classes/
+url: /blog/second-day-of-school-first-day-of-classes/
 categories:
   - High School
 

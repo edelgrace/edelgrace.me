@@ -3,7 +3,7 @@ title: 'FO #2: Easy and Thin Dishcloth'
 author: Edel
 type: blog
 date: 2017-03-19T12:46:00+00:00
-slug: /blog/fo-2-easy-and-thin-dishcloth/
+url: /blog/fo-2-easy-and-thin-dishcloth/
 categories:
   - Crochet
 tags:

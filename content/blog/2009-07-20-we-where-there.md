@@ -3,7 +3,7 @@ title: We Were There
 author: Edel
 type: blog
 date: 2009-07-20T18:47:44+00:00
-slug: /life/we-where-there/
+url: /blog/we-where-there/
 categories:
   - Internet
 

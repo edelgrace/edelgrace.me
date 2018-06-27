@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2013-01-03T02:49:19+00:00
 excerpt: 'Suggested Reading is a weekly feature that runs every, you guessed it, Wednesday. In this feature, a website, blog, or article is showcased for further reading. One of the best things about the Internet is the ability to share. So why not take advantage of that and share some of my favourite things to read [&hellip;]'
-slug: /life/suggested-reading-the-common-librarian/
+url: /blog/suggested-reading-the-common-librarian/
 syndication_source:
   - The Librarian Code
 enclosure:

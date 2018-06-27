@@ -5,7 +5,7 @@ type: blog
 date: 2011-11-07T03:38:42+00:00
 draft: true
 private: true
-slug: /life/free-scarfs/
+url: /blog/free-scarfs/
 categories:
   - High School
   - University

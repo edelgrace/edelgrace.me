@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2012-06-15T05:05:14+00:00
 excerpt: 'Listening to: MONSTER by BIGBANG Fave song atm: Scream by 2NE1 Fave musician(s) atm: 2NE1 &amp; BIGBANG What a coincidence, the song just came up on my iPod. Anyway, a couple days ago I finally decided that I would watch BIGBANG&rsquo;s new music video, MONSTER. I must admit, lately I&rsquo;ve been listening to more and [...]'
-slug: /life/monster-by-bigbang/
+url: /blog/monster-by-bigbang/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

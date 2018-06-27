@@ -3,7 +3,7 @@ title: Michael Jackson
 author: Edel
 type: blog
 date: 2009-07-05T21:56:14+00:00
-slug: /life/michael-jackson/
+url: /blog/michael-jackson/
 categories:
   - Music
 

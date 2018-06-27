@@ -3,7 +3,7 @@ title: Absolute Again!
 author: Edel
 type: blog
 date: 2008-04-19T04:02:32+00:00
-slug: /life/absolute-again/
+url: /blog/absolute-again/
 categories:
   - music
 tags:

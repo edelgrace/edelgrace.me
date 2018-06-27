@@ -3,7 +3,7 @@ title: Some Updates!
 author: Edel
 type: blog
 date: 2009-07-23T01:18:09+00:00
-slug: /life/some-updates/
+url: /blog/some-updates/
 categories:
   - Internet
 

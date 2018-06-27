@@ -3,7 +3,7 @@ title: My Favourite Book of 2016
 author: Edel
 type: blog
 date: 2017-01-16T02:40:15+00:00
-slug: /blog/my-favourite-book-of-2016/
+url: /blog/my-favourite-book-of-2016/
 categories:
   - Books
 tags:

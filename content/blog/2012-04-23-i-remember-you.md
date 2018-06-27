@@ -3,7 +3,7 @@ title: I Remember You
 author: Edel
 type: blog
 date: 2012-04-24T05:23:41+00:00
-slug: /life/i-remember-you/
+url: /blog/i-remember-you/
 categories:
   - 'Family &amp; Friends'
 

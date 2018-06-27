@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2012-04-14T06:11:00+00:00
 excerpt: 'Lent is over. I haven&rsquo;t visited Room 304 or Goodreads in over 40 days. Geez, I have a lot of catching up to do. I did read over those 40 days but definitely not a lot. I&rsquo;ve been swamped with school work and going to sleep at midnight every night doesn&rsquo;t leave much time for [...]'
-slug: /life/lent-is-over/
+url: /blog/lent-is-over/
 syndication_source:
   - Room 304
 syndication_source_uri:

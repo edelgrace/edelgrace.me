@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-14T00:42:52+00:00
 draft: true
 private: true
-slug: /life/under-this-pillow-lies-the-key-to-my-release/
+url: /blog/under-this-pillow-lies-the-key-to-my-release/
 categories:
   - 'Family &amp; Friends'
   - High School

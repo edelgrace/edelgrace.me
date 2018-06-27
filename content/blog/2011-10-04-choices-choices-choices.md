@@ -5,7 +5,7 @@ type: blog
 date: 2011-10-05T00:56:47+00:00
 draft: true
 private: true
-slug: /life/choices-choices-choices/
+url: /blog/choices-choices-choices/
 categories:
   - High School
   - University

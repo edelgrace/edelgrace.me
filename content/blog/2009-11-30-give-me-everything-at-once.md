@@ -3,7 +3,7 @@ title: Everything At Once
 author: Edel
 type: blog
 date: 2009-11-30T21:48:47+00:00
-slug: /life/give-me-everything-at-once/
+url: /blog/give-me-everything-at-once/
 categories:
   - 'Family &amp; Friends'
   - High School

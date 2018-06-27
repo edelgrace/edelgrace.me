@@ -3,7 +3,7 @@ title: Wanting to Write
 author: Edel
 type: blog
 date: 2015-10-31T02:42:47+00:00
-slug: /life/wanting-to-write/
+url: /blog/wanting-to-write/
 categories:
   - Books
   - Life

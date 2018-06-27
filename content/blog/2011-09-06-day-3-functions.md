@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-06T14:05:40+00:00
 draft: true
 private: true
-slug: /life/day-3-functions/
+url: /blog/day-3-functions/
 categories:
   - High School
 

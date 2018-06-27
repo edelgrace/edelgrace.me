@@ -3,7 +3,7 @@ title: Omnomnom
 author: Edel
 type: blog
 date: 2010-02-19T04:15:38+00:00
-slug: /life/i-think-everybody-should-join-band/
+url: /blog/i-think-everybody-should-join-band/
 categories:
   - 'Family &amp; Friends'
   - High School

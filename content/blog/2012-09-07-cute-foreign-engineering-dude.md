@@ -5,7 +5,7 @@ type: blog
 date: 2012-09-08T04:30:57+00:00
 draft: true
 private: true
-slug: /life/cute-foreign-engineering-dude/
+url: /blog/cute-foreign-engineering-dude/
 categories:
   - 'Family &amp; Friends'
   - University

@@ -3,7 +3,7 @@ title: Screamfest
 author: Edel
 type: blog
 date: 2011-11-07T02:24:58+00:00
-slug: /life/screamfest/
+url: /blog/screamfest/
 categories:
   - 'Family &amp; Friends'
 

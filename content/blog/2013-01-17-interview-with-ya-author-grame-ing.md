@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2013-01-17T15:07:09+00:00
 excerpt: 'When I let my friends know that I want to be a librarian after I exhaust my career as a software engineer, one of them laughed at me and said, &ldquo;A librarian with an engineering degree? Are you doing to make houses out of books?&rdquo; I just smiled and responded with a witty comment but [&hellip;]'
-slug: /life/interview-with-ya-author-grame-ing/
+url: /blog/interview-with-ya-author-grame-ing/
 enclosure:
   - |
     |

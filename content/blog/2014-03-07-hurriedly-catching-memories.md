@@ -3,7 +3,7 @@ title: Hurriedly Catching Memories
 author: Edel
 type: blog
 date: 2014-03-08T01:40:39+00:00
-slug: /life/hurriedly-catching-memories/
+url: /blog/hurriedly-catching-memories/
 categories:
   - University
 

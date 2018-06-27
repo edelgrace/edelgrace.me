@@ -4,7 +4,7 @@ author: Edel
 type: blog
 date: 2018-02-28
 publishDate: 2018-02-28
-slug: wip-wednesday-temperature-blanket-1
+url: wip-wednesday-temperature-blanket-1
 categories:
   - Crafts
 tags:

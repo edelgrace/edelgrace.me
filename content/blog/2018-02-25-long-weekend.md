@@ -3,7 +3,7 @@ title: "Long Weekend Penguins and Hacks"
 date: 2018-02-25
 publishDate: 2018-02-25
 type: blog
-slug: long-weekend-penguins-and-hacks
+url: long-weekend-penguins-and-hacks
 draft: false
 categories:
   - friends-and-family

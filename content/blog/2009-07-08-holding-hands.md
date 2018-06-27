@@ -5,7 +5,7 @@ type: blog
 date: 2009-07-08T21:23:48+00:00
 draft: true
 private: true
-slug: /life/holding-hands/
+url: /blog/holding-hands/
 categories:
   - 'Family &amp; Friends'
 

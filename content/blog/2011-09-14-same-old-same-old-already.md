@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-15T02:39:46+00:00
 draft: true
 private: true
-slug: /life/same-old-same-old-already/
+url: /blog/same-old-same-old-already/
 categories:
   - High School
 

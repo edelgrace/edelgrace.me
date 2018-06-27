@@ -3,7 +3,7 @@ title: Conversations Over Text Messages
 author: Edel
 type: blog
 date: 2014-05-02T18:28:34+00:00
-slug: /life/conversations-over-text-messages/
+url: /blog/conversations-over-text-messages/
 categories:
   - Love
   - Writing
