@@ -3,8 +3,7 @@ title: 'DIR EN GREY Challenge: Day 13'
 author: Edel
 type: post
 date: 2011-08-27T18:10:27+00:00
-excerpt: 'Listening to: 我、闇とて。。。 by DIR EN GREY Fave song atm: Eyes on Me by Faye Wong Fave musician(s) atm: Yeng Constantino Your favourite Dir en grey era. Hrmm. I'd say the current era and the MOAB and UROBOROS era. This era seems very natural to me and the two previous eras just naturally lead up [...]'
-url: /life/dir-en-grey-challenge-day-13/
+slug: dir-en-grey-challenge-day-13
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

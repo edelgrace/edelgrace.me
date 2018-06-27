@@ -3,8 +3,7 @@ title: 'DIR EN GREY Challenge: Day 14'
 author: Edel
 type: post
 date: 2011-08-28T23:13:15+00:00
-excerpt: 'Listening to: Existence by L'Arc~en~Ciel Fave song atm: Honey Vanity by Közi Fave musician(s) atm: Közi Your first Dir en grey song. The Pledge (Acoustic Version). The first day should have made it clear. Although I sound mad, I'm really not. A lot of these questions are overlapping. It's just annoying to have to repeat [...]'
-url: /life/dir-en-grey-challenge-day-14/
+slug: dir-en-grey-challenge-day-14
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:
