@@ -11,7 +11,7 @@ categories:
   - Love
 
 ---
-On Monday I got asked out by Linquan. At least, I think so?? I woke up, browsed around on my iPod and then I checked my phone. Oh god. A text from Linquan. I had sent him a text last week and the first thing going through my mind was, "Am I finally getting a reply??" But no.
+On Monday I got asked out by L. At least, I think so?? I woke up, browsed around on my iPod and then I checked my phone. Oh god. A text from L. I had sent him a text last week and the first thing going through my mind was, "Am I finally getting a reply??" But no.
 
 > Hi, how's going? Have you done your finals???
 
@@ -37,7 +37,7 @@ I've only been to that Starbucks like twice. Mostly because my friends love goin
 
 Okay, anyway, I had to reschedule because my mom cancelled our trip and made it on the date we were originally going to go on. That was such a hassle and I was so embarrassed omg.
 
-Also, I told my friend Kiran about all of this. She's so excited and enthusiastic and optimistic about it... More so than me. I'm actually dreading this so much. I'm so nervous! I'm afraid it will be a disaster. Whenever I go to talk to Linquan, I get so nervous. My face turns super red and my palms get sweaty.
+Also, I told my friend Kiran about all of this. She's so excited and enthusiastic and optimistic about it... More so than me. I'm actually dreading this so much. I'm so nervous! I'm afraid it will be a disaster. Whenever I go to talk to L, I get so nervous. My face turns super red and my palms get sweaty.
 
 Okay but ever since I started having feelings for this guy, I've been trying to rationalize my way out of it. To like, get rid of my feelings. This has been going on for months and I almost believe myself at this point. I sent Kiran an email about this and I'll try my best to reproduce this from memory.
 
@@ -50,7 +50,7 @@ Okay but ever since I started having feelings for this guy, I've been trying to 
   * **Oh it's just a Filipino/Canadian thing (or, that's something we say on the Internet)**  
     Cultural barrier. He was born and raised in China. I am Filipino but born and raised in Canada. That's three different cultures at play here. I guess we could throw in Tumblr culture to make that four. Can we really relate to each other??? Can I get along with someone who has probably not experienced the beauty of the Mass Effect trilogy???
   * **I kinda hate myself**  
-    I'm still trying to wrap my head around why Linquan suddenly sprung this on me. I don't understand at all. There are so many cute Chinese girls. I am neither cute nor am I Chinese.
+    I'm still trying to wrap my head around why L suddenly sprung this on me. I don't understand at all. There are so many cute Chinese girls. I am neither cute nor am I Chinese.
 
 Actually, the text I sent last week kinda implied a meeting. And in that meeting I was planning to do the thing. The thing where I would be like "we're just friends, right??? Can we keep it that way??" That would have been an act of self deprecation. That was my plan. Good thing it didn't go through.
 

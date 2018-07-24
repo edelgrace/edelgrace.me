@@ -13,7 +13,7 @@ categories:
 ---
 June 6, 2015. First time for everything. Not sure if I regret it.
 
-My first kiss. With a dude. I was at Yu's house. Alone. Alone with him. Since, y'know, he lives alone. We were watching _Firefly_ together. I ended up sitting in his lap. Rather quickly too. "I want to straighten my legs." And then he pulled me onto his lap. No complaints here. Suddenly he rested his head on the other side. His breathing was hot on my left ear. His right arm crept up the nape of my neck, and rested there. For some reason, my insides were on fire. I was so sensitive to his touch.
+My first kiss. With a dude. I was at Y's house. Alone. Alone with him. Since, y'know, he lives alone. We were watching _Firefly_ together. I ended up sitting in his lap. Rather quickly too. "I want to straighten my legs." And then he pulled me onto his lap. No complaints here. Suddenly he rested his head on the other side. His breathing was hot on my left ear. His right arm crept up the nape of my neck, and rested there. For some reason, my insides were on fire. I was so sensitive to his touch.
 
 When he put his head back where it normally is, I reached around with my right arm and cupped his head, bringing it closer to me. I kissed him on the cheek. A couple of times. He murmured something about my "little kisses."
 
@@ -42,5 +42,3 @@ We cuddled a little more. "Would your parents be really angry if they knew what 
 "You really like X, don't you?" Where X = hugs | kisses | cuddling | etc. Yes. Yes so much.
 
 I don't love him. I don't like him. Why am I doing this?
-
-
