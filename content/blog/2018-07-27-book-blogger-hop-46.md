@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you agree or disagree with this statement: A blogger's first name should be in a prominent place on his/her blog.
+
+I definitely agree! Even if the name is an alias, putting a name to the blog can do wonders in making a blog feel more personable. With my own blog, my name is in the domain name itself so it's hard to not associate my blog with me. There are some blogs where I don't even think of them by the blog title but I think, "Oh that's Jane's blog." It does get complicated when names get more common but I think it's good branding.
