@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you have a YouTube channel? If so, do you post book review vlogs?
+
+I technically have a YouTube channel. It's more a hub for past course projects. I don't post any videos on it. I don't think I would ever do book review vlogs. I'm not comfortable in front of a camera. What I like about blog posts is that they can be as long or as short as you want. The same is true for vlogs but viewers usually expect a lot from vlogs. In a way they are more formal even though the content itself could be pretty informal. It's just not a medium I'm interested in exploring.
