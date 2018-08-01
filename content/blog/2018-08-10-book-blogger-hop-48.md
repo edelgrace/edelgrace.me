@@ -18,3 +18,23 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Can you say this about yourself? Nothing makes me happier than sitting down with a good book.
+
+Not even close.
+
+Some things that make as happy or happier:
+
+* Eating really good food
+* Having a meaningful conversation with a friend
+* Sitting in the field in my father's homeland looking up a starry sky
+* Listening to a good song in the window seat of a train watching the city pass by
+* Playing a video game and being absorbed in a virtual world
+* Falling asleep to the sound of rain
+* Singing along to my favourite songs
+* Watching a good TV series that can make me sob
+* Walking along the river on a sunny day
+* Going to a concert
+* Playing with really cute babies
+* Dog spotting around the city
+* Etc.
+
+The list goes on and on. Sitting down with a good book is definitely on that list but it's not the only thing.
