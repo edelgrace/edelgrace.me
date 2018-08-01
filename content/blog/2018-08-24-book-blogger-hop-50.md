@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Where do you post your reviews besides your blog? Please list them all so perhaps we can find some new sites.
+
+Almost always I post my reviews on Goodreads. I think my profile is private but here is [a link to my profile](https://www.goodreads.com/user/show/3727879-mazohyst) anyway. Feel free to add me on Goodreads. I'm not on as much as I'd like. I need to read more.
