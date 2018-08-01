@@ -3,9 +3,9 @@
 title: 'Thoughts on Alexisonfire and Billy Talent'
 author: Edel
 type: blog
-date: 2018-07-26
-draft: true
-publishDate: 2018-07-26
+date: 2018-08-01
+draft: false
+publishDate: 2018-08-01
 url: /blog/thoughts-on-alexisonfire-and-billy-talent/
 categories:
   - Music
