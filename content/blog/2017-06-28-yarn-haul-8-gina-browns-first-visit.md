@@ -5,9 +5,10 @@ type: blog
 date: 2017-06-28T08:00:00+00:00
 url: /blog/yarn-haul-8-gina-browns-first-visit/
 categories:
-  - Crochet
-  - Knitting
+  - Crafts
 tags:
+  - crochet
+  - knitting
   - yarn
   - yarn haul
 

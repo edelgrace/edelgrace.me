@@ -5,8 +5,9 @@ type: blog
 date: 2017-03-15T12:47:00+00:00
 url: /blog/crochet-haul-4-hikoo-simplicity/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - crochet haul
 
 ---

@@ -5,10 +5,10 @@ type: blog
 date: 2017-06-07T17:55:19+00:00
 url: /blog/hooked-on-crochet-spring-2017-swap/
 categories:
-  - Crochet
+  - Crafters
 tags:
-  - swap
-  - yarn
+  - crochet
+  - yarn swap
 
 ---
 Hooked on Crochet is a Discord server that I am a part of. If you don't know what Discord is, it is essentially a chat client for gamers. You can create your own "servers" or chat rooms for dedicated topics. Hooked on Crochet is (obviously) a group of crocheters. They organized a yarn swap last spring which I took a part of.

@@ -5,9 +5,10 @@ type: blog
 date: 2017-06-21T07:59:07+00:00
 url: /blog/yarn-haul-7-the-knitting-room-first-visit/
 categories:
-  - Crochet
-  - Knitting
+  - Crafts
 tags:
+  - crochet
+  - knitting
   - yarn
 
 ---

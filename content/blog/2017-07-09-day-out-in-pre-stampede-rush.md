@@ -5,8 +5,10 @@ type: blog
 date: 2017-07-09T17:00:00+00:00
 url: /blog/day-out-in-pre-stampede-rush/
 categories:
-  - Crochet
+  - Crafts
   - Life
+tags:
+  - crochet
 
 ---
 I went to the first pancake breakfast of the season with my family the other day. It was close to home which was a great bonus because my dad had the car for work. The breakfast wasn't busy at all but maybe being fairly early was a factor. They only served pancakes and sausage patties but they were pretty good! There was also a Tim Hortons truck giving out free coffee and hot chocolate. I'm not one for straight up coffee (my favourite is French Vanillas) so I just opted for some hot chocolate.

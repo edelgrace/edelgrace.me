@@ -5,8 +5,9 @@ type: blog
 date: 2017-04-05T18:14:48+00:00
 url: /blog/fo-5-my-first-granny-square/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - FO
 
 ---

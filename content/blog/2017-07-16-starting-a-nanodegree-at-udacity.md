@@ -5,8 +5,10 @@ type: blog
 date: 2017-07-16T18:03:20+00:00
 url: /blog/starting-a-nanodegree-at-udacity/
 categories:
-  - Crochet
+  - Crafts
   - Programming
+tags:
+  - crochet
 
 ---
 While I'm still looking for a job this summer (which is almost halfway over already&#8230; Blah!) I took a cue from Y who started to work on some side projects and I decided to be a little more productive. Since I have a free month of Udacity from the GitHub [Student Pack][1]. Udacity is basically an online learning hub where you can take courses that are related to the tech field.

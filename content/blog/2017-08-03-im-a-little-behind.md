@@ -5,9 +5,11 @@ type: blog
 date: 2017-08-03T13:35:00+00:00
 url: /blog/im-a-little-behind/
 categories:
-  - Crochet
-  - Knitting
+  - Crafts
   - Life
+tags:
+  - crochet
+  - knitting
 
 ---
 A couple of days ago I was behind on my granny squares for my temperature blanket. If you don't know, temperature blankets consist of one square a day and each square represents the temperature of that day. Thankfully, it's easy to catch up with temperature blankets! Even though I'm caught up with the squares, I still haven't woven the ends in yet nor have I joined them. Eek!

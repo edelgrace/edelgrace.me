@@ -6,8 +6,9 @@ date: 2017-02-23T19:56:02+00:00
 draft: false
 url: /blog/crochet-haul-1-starting-the-crochet-journey/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - crochet haul
 
 ---

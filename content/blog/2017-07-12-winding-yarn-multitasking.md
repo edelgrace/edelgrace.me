@@ -5,7 +5,9 @@ type: blog
 date: 2017-07-12T10:18:40+00:00
 url: /blog/winding-yarn-multitasking/
 categories:
-  - Crochet
+  - Crafts
+tags:
+  - crochet
 
 ---
 Since I recently started making a temperature blanket. I bought a couple of skeins of yarn (Bernat Premium, they are so soft!) and decided to wind them into balls to make transporting them easier for when/if I'm on the go. Surprisingly, it takes a while for them to wind up. I thought it was a perfect opportunity to watch some TV shows while doing it.

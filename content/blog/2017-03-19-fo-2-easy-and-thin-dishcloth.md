@@ -5,8 +5,9 @@ type: blog
 date: 2017-03-19T12:46:00+00:00
 url: /blog/fo-2-easy-and-thin-dishcloth/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - FO
 
 ---

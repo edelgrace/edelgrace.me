@@ -5,7 +5,9 @@ type: blog
 date: 2017-07-07T22:37:09+00:00
 url: /blog/canada-150-temperature-blanket-first-colour-change/
 categories:
-  - Crochet
+  - Crafts
+tags:
+  - crochet
 
 ---
 <blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">

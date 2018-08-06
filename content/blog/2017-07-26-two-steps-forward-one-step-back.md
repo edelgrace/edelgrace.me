@@ -5,7 +5,9 @@ type: blog
 date: 2017-07-27T03:35:37+00:00
 url: /blog/two-steps-forward-one-step-back/
 categories:
-  - Crochet
+  - Crafts
+tags:
+  - crochet
 
 ---
 I finally finished one Bernat Blanket Stripes cake! I am going to move onto cake number two for my afghan ripple blanket. I don't really know yet who this blanket will be for. My mom keeps asking me and I can't make up my mind. I am pretty happy that I am making progress on this blanket. I might need three cakes for this though and not the two that I have.

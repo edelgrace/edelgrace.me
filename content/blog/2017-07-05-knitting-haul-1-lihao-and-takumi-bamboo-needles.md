@@ -5,8 +5,9 @@ type: blog
 date: 2017-07-05T17:00:00+00:00
 url: /knitting/knitting-haul-1-lihao-and-takumi-bamboo-needles/
 categories:
-  - Knitting
+  - Crafts
 tags:
+  - knitting
   - knitting haul
 
 ---

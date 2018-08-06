@@ -5,7 +5,9 @@ type: blog
 date: 2017-07-15T04:56:07+00:00
 url: /blog/fo-6-my-second-granny-square/
 categories:
-  - Crochet
+  - Crafts
+tags:
+  - crochet
 
 ---
 > **FO** means "finished object" in crochet and knitter terms. So any completed project is a finished object!

@@ -5,8 +5,9 @@ type: blog
 date: 2017-03-29T17:00:00+00:00
 url: /blog/crochet-haul-6-blanket-mania/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - crochet haul
 
 ---

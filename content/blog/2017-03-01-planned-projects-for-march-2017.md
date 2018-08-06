@@ -5,7 +5,9 @@ type: blog
 date: 2017-03-01T12:47:00+00:00
 url: /blog/planned-projects-for-march-2017/
 categories:
-  - Crochet
+  - Crafts
+tags:
+  - crochet
 
 ---
 As you may have noticed, I recently took up learning how to crochet. Since March is National Crochet Month, &nbsp;I decided to take part in some of the activities that are being held at Ravelry.

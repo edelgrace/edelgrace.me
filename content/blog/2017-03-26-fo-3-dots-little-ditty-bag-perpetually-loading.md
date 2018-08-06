@@ -5,8 +5,9 @@ type: blog
 date: 2017-03-26T19:03:56+00:00
 url: /blog/fo-3-dots-little-ditty-bag-perpetually-loading/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - FO
 
 ---

@@ -5,8 +5,9 @@ type: blog
 date: 2017-03-31T08:50:18+00:00
 url: /blog/fo-4-natcromo2017-mystery-crochet-along/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - FO
 
 ---

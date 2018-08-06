@@ -5,8 +5,9 @@ type: blog
 date: 2017-03-22T12:46:00+00:00
 url: /blog/crochet-haul-5-first-michaels-trip/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - crochet haul
 
 ---
