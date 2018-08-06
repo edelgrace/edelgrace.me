@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Hard-Boiled Wonderland and the End of the Wolrd by Haruki Murakami"
+title: "Book Review: Hard-Boiled Wonderland and the End of the World by Haruki Murakami"
 date: 2018-08-06
 publishDate: 2018-08-06
 type: blog
