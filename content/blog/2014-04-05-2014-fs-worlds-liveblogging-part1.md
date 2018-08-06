@@ -5,7 +5,9 @@ type: blog
 date: 2014-04-06T02:53:35+00:00
 url: /blog/2014-fs-worlds-liveblogging-part1/
 categories:
-  - Figure Skating
+  - Life
+tags:
+  - figure skating
 
 ---
 Okay, for two weeks I told myself that I would watch the Worlds for figure skating but now I have some time to watch some of it. In typical "me-fashion" these posts are purely for my own enjoyment (that is the philosophy of this blog anyway sp yes, I am extremely vain!). **I KNOW ABSOLUTELY NOTHING ABOUT FIGURE SKATING.** I just enjoy watching it. Read on if you dare!

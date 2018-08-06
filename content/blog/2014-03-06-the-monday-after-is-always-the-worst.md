@@ -5,10 +5,11 @@ type: blog
 date: 2014-03-06T23:49:08+00:00
 url: /blog/the-monday-after-is-always-the-worst/
 categories:
-  - Figure Skating
+  - Life
   - Internet
   - University
 tags:
+  - figure skating
   - mao asada
   - olympics
   - patrick chan
