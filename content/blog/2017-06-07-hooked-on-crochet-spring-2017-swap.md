@@ -5,7 +5,7 @@ type: blog
 date: 2017-06-07T17:55:19+00:00
 url: /blog/hooked-on-crochet-spring-2017-swap/
 categories:
-  - Crafters
+  - Crafts
 tags:
   - crochet
   - yarn swap
