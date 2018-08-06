@@ -26,4 +26,4 @@ _"I am so tired right now."_ They say nine years later that she is still tired t
 
 
 
- [1]: http://scattered.me/2007/02/bouncy/
+ [1]: http://erzadel.net/blog/2007/02/bouncy/

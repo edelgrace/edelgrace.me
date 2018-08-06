@@ -35,7 +35,7 @@ My brother bought Assassin's Creed 4: Black Flag and my friend lent me all of th
   
 Those were my biggest accomplishments for the winter break. Not entirely world changing but the goal was to relax, which I did! I wish I worked on my websites even a little bit but I opted for working on my Filofaxes instead. I just might have to dedicate a section in Ainsley<sup class="footnote"><a href="#foot_ajs-fn-id_1-429" id="back_ajs-fn-id_1-429">1</a></sup> to projects like those. Don't worry, I put it in my planner to-do list.
 
-[<img class="img-responsive" alt="" src="http://scattered.me/wp-content/uploads/2014/01/wpid-wp-1389291958267.jpg" />][2]
+[<img class="img-responsive" alt="" src="http://erzadel.net/blog/wp-content/uploads/2014/01/wpid-wp-1389291958267.jpg" />][2]
 
 
   <li>
@@ -50,4 +50,4 @@ Those were my biggest accomplishments for the winter break. Not entirely world c
 </div>
 
  [1]: http://filofax.co.uk
- [2]: http://scattered.me/wp-content/uploads/2014/01/wpid-wp-1389291958267.jpg
+ [2]: http://erzadel.net/blog/wp-content/uploads/2014/01/wpid-wp-1389291958267.jpg

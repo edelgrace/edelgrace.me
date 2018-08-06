@@ -27,4 +27,4 @@ Now I totally forgot how I ended this post. I originally wanted this post to be 
  [1]: /2015/08/tumblr-post-5
  [2]: http://getboostrap.com
  [3]: http://foundation.zurb.com
- [4]: http://study.scattered.me
+ [4]: http://study.erzadel.net/blog

@@ -17,9 +17,9 @@ But my friends also gave me presents which was really weird wow. Look at all thi
 
 My friend got me fabric instead of washi tape because she couldn't find any but it's okay because I'll find a way to use them. I already used the bear stickies. They're so adorable!
 
-[<img src="http://scattered.me/wp-content/uploads/2014/01/20140118-2334161.jpg" alt="20140118-233416.jpg" class="img-responsive" />][1]
+[<img src="http://erzadel.net/blog/wp-content/uploads/2014/01/20140118-2334161.jpg" alt="20140118-233416.jpg" class="img-responsive" />][1]
 
 
 
 
- [1]: http://scattered.me/wp-content/uploads/2014/01/20140118-2334161.jpg
+ [1]: http://erzadel.net/blog/wp-content/uploads/2014/01/20140118-2334161.jpg

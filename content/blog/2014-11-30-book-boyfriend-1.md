@@ -9,7 +9,7 @@ categories:
 
 ---
 <center>
-  <a href="http://www.stuckinbooks.com/"><img src="http://scattered.me/wp-content/uploads/2014/11/book-crush1.png" alt="book-crush" width="296" height="259" class="img-responsive" /></a>
+  <a href="http://www.stuckinbooks.com/"><img src="http://erzadel.net/blog/wp-content/uploads/2014/11/book-crush1.png" alt="book-crush" width="296" height="259" class="img-responsive" /></a>
 </center>
 
 Okay, I've been in a really "bookish" mood lately. Mostly because I've been working on getting my [book database][1] up and running. I was pretty nostalgic over the idea of "book blogs" and my unsuccessful attempt at [a book blog][2] still haunts me today. I decided: I shall blog about books. Book reviews will belong in my book database but anything else will go here. So what exactly is a book blog post that isn't a review? Memes, of course.
@@ -23,7 +23,7 @@ So, my fictional crush for the week is:
 </p>
 
 <center>
-  <img src="http://scattered.me/wp-content/uploads/2014/11/kafka.png" alt="kafka" width="189" height="284" class="img-responsive" />
+  <img src="http://erzadel.net/blog/wp-content/uploads/2014/11/kafka.png" alt="kafka" width="189" height="284" class="img-responsive" />
 </center>
 
 Some fan-art of Oshima that I mostly agree with (links because I don't have the patience to ask for permission from the artists): [Lisa Ito][3], [Unknown pixiv artist][4], [Unknown artist][5].
@@ -76,7 +76,7 @@ Now, would I actually get along with him and him with me? Probabaly not. Thank g
   </div>
 </div>
 
- [1]: http://books.scattered.me
+ [1]: http://books.erzadel.net/blog
  [2]: http://books.mazohyst.org
  [3]: http://rittlerion.com/profpics/oshima.png
  [4]: http://33.media.tumblr.com/tumblr_lw59v5xs7X1qjd1kgo1_500.gif

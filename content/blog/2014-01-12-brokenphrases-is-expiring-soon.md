@@ -20,5 +20,5 @@ So Scattered.me will be my new blog domain once Brokenphrases expires. I've alre
 
 
  [1]: http://web.archive.org/web/20100610223126/http://brokenphrases.info/
- [2]: http://scattered.me
+ [2]: http://erzadel.net/blog
  [3]: http://vriska.org

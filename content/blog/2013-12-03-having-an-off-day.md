@@ -12,7 +12,7 @@ categories:
 ---
 <div class="center-block">
   <div class="media">
-    <img src="http://scattered.me/wp-content/uploads/2013/12/Scan.png" alt="" width="600" class="img-responsive" height="513" />
+    <img src="http://erzadel.net/blog/wp-content/uploads/2013/12/Scan.png" alt="" width="600" class="img-responsive" height="513" />
   </div>
 </div>
 

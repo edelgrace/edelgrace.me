@@ -25,4 +25,4 @@ On another note, I've been using $0.03 pens for the past month no joke. I was in
 
 
 
- [1]: http://study.scattered.me
+ [1]: http://study.erzadel.net/blog

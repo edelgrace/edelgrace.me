@@ -19,7 +19,7 @@ However, I do want to release my thoughts to the wild in some sort of fashion in
   * Seriously though, console wars are really stupid. Just pick a console and play it. Who cares what other people buy??
   * I finished reading _Lolita_ today. "Lolita is quite possibly the most beautiful and twisted book I have ever read. Nabokov is a genius... I had to put down Lolita after barely reading a paragraph because it was too beautifully written for me to handle. Goosebumps everywhere.
   * I think Arryn<sup class="footnote"><a href="#foot_ajs-fn-id_2-177" id="back_ajs-fn-id_2-177">2</a></sup> is just an all around adorable girl. It's even more adorable how she fangirls over Miles<sup class="footnote"><a href="#foot_ajs-fn-id_3-177" id="back_ajs-fn-id_3-177">3</a></sup> on her Tumblr.
-  * The layout for scattered.me has been tweaked slightly. The title and page/post headings are now centered. Also, fixed alignment with the footnotes and made them just a tad smaller.
+  * The layout for erzadel.net/blog has been tweaked slightly. The title and page/post headings are now centered. Also, fixed alignment with the footnotes and made them just a tad smaller.
   * Today we put up the Christmas tree. My brother refused to do it for half an hour because he was playing LoL. I wish he never started playing LoL. Now he doesn't want to do anything because if he leaves in the middle of a game, he'll get banned. Lame rules.
   * The only thing I don't like about the new YouTube comment system is the fact that I can't reply to old comments.
   * I watched a little bit of Mike's MLP Season 3 stream... I couldn't make it through. However, it was only because I was watching Joel and Adam play Cry of Fear.

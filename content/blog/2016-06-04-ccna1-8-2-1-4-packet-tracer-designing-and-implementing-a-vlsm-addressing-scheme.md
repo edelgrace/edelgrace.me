@@ -60,7 +60,7 @@ You will subnet the network address 192.168.72.0/24. The network has the followi
 
 ##### How many subnets are needed in the network topology?
 
-[<img src="http://scattered.me/wp-content/uploads/2016/06/8.png" alt="8" width="571" height="358" class="alignnone size-full wp-image-11245" srcset="http://erzadel.net/blog/wp-content/uploads/2016/06/8.png 571w, http://erzadel.net/blog/wp-content/uploads/2016/06/8-300x188.png 300w" sizes="(max-width: 571px) 100vw, 571px" />][3]
+[<img src="http://erzadel.net/blog/wp-content/uploads/2016/06/8.png" alt="8" width="571" height="358" class="alignnone size-full wp-image-11245" srcset="http://erzadel.net/blog/wp-content/uploads/2016/06/8.png 571w, http://erzadel.net/blog/wp-content/uploads/2016/06/8-300x188.png 300w" sizes="(max-width: 571px) 100vw, 571px" />][3]
 
 **5 subnets are needed.** If you look at the topology, there are 4 LANs (coloured in orange) and 1 serial connection between Building1 and Building2. Therefore, you need 5 subnets.
 
@@ -663,5 +663,5 @@ Now it's just a matter of plugging in values into Packet Tracer if you haven't a
 
 
  [1]: #answers
- [2]: http://scattered.me/wp-content/uploads/2016/06/8.2.1.4-Packet-Tracer-Designing-and-Implementing-a-VLSM-Addressing-Scheme.pdf
- [3]: http://scattered.me/wp-content/uploads/2016/06/8.png
+ [2]: http://erzadel.net/blog/wp-content/uploads/2016/06/8.2.1.4-Packet-Tracer-Designing-and-Implementing-a-VLSM-Addressing-Scheme.pdf
+ [3]: http://erzadel.net/blog/wp-content/uploads/2016/06/8.png

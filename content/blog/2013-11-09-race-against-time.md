@@ -32,7 +32,7 @@ Mike also does this things called the Mike Cast. Usually he just streams movies 
 
 <div class="center-block">
   <div class="media">
-    <img src="http://scattered.me/wp-content/uploads/2013/11/20131109-2354031.jpg" width="320px" height="480px" class="img-responsive" /></p> 
+    <img src="http://erzadel.net/blog/wp-content/uploads/2013/11/20131109-2354031.jpg" width="320px" height="480px" class="img-responsive" /></p> 
     
     <div class="caption">
       <div class="text-center">

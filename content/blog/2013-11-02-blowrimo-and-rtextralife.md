@@ -17,7 +17,7 @@ November is NaNoWriMo<sup class="footnote"><a href="#foot_ajs-fn-id_1-24" id="ba
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="" src="http://scattered.me/wp-content/uploads/2013/11/xray.png" /></p> 
+    <img class="img-responsive" alt="" src="http://erzadel.net/blog/wp-content/uploads/2013/11/xray.png" /></p> 
     
     <div class="caption">
       <div class="text-center">
@@ -37,7 +37,7 @@ Also, it's all pictures from here on out. I got tired of screen-capping at aroun
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="vav" src="http://scattered.me/wp-content/uploads/2013/11/vav.png" /></p> 
+    <img class="img-responsive" alt="vav" src="http://erzadel.net/blog/wp-content/uploads/2013/11/vav.png" /></p> 
     
     <div class="caption">
       <div class="text-center">
@@ -49,7 +49,7 @@ Also, it's all pictures from here on out. I got tired of screen-capping at aroun
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="eatinglavacake" src="http://scattered.me/wp-content/uploads/2013/11/eatinglavacake.png" width="633" height="343" /></p> 
+    <img class="img-responsive" alt="eatinglavacake" src="http://erzadel.net/blog/wp-content/uploads/2013/11/eatinglavacake.png" width="633" height="343" /></p> 
     
     <div class="caption">
       <div class="text-center">
@@ -61,7 +61,7 @@ Also, it's all pictures from here on out. I got tired of screen-capping at aroun
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="michaelslackofhair" src="http://scattered.me/wp-content/uploads/2013/11/michaelslackofhair.png" width="638" height="357" /></p> 
+    <img class="img-responsive" alt="michaelslackofhair" src="http://erzadel.net/blog/wp-content/uploads/2013/11/michaelslackofhair.png" width="638" height="357" /></p> 
     
     <div class="caption">
       <div class="text-center">
@@ -73,7 +73,7 @@ Also, it's all pictures from here on out. I got tired of screen-capping at aroun
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="michaelsbootifulhair" src="http://scattered.me/wp-content/uploads/2013/11/michaelsbootifulhair.png" width="637" height="356" /></p> 
+    <img class="img-responsive" alt="michaelsbootifulhair" src="http://erzadel.net/blog/wp-content/uploads/2013/11/michaelsbootifulhair.png" width="637" height="356" /></p> 
     
     <div class="caption">
       <div class="text-center">
@@ -85,7 +85,7 @@ Also, it's all pictures from here on out. I got tired of screen-capping at aroun
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="michaellookingcutte" src="http://scattered.me/wp-content/uploads/2013/11/michaellookingcutte.png" width="636" height="356" /></p> 
+    <img class="img-responsive" alt="michaellookingcutte" src="http://erzadel.net/blog/wp-content/uploads/2013/11/michaellookingcutte.png" width="636" height="356" /></p> 
     
     <div class="caption">
       <div class="text-center">
@@ -97,7 +97,7 @@ Also, it's all pictures from here on out. I got tired of screen-capping at aroun
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="vavvshotsauce" src="http://scattered.me/wp-content/uploads/2013/11/vavvshotsauce.png" width="635" height="354" /></p> 
+    <img class="img-responsive" alt="vavvshotsauce" src="http://erzadel.net/blog/wp-content/uploads/2013/11/vavvshotsauce.png" width="635" height="354" /></p> 
     
     <div class="caption">
       <div class="text-center">
@@ -109,7 +109,7 @@ Also, it's all pictures from here on out. I got tired of screen-capping at aroun
 
 <div class="center-block">
   <div class="media">
-    <img class="img-responsive" alt="vavbrazzers" src="http://scattered.me/wp-content/uploads/2013/11/vavbrazzers.png" width="638" height="356" /></p> 
+    <img class="img-responsive" alt="vavbrazzers" src="http://erzadel.net/blog/wp-content/uploads/2013/11/vavbrazzers.png" width="638" height="356" /></p> 
     
     <div class="caption">
       <div class="text-center">
