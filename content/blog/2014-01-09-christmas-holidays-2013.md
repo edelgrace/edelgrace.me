@@ -5,10 +5,12 @@ type: blog
 date: 2014-01-09T18:23:57+00:00
 url: /blog/christmas-holidays-2013/
 categories:
-  - Filofax
+  - Organization
   - Friends and Family
   - Gaming
   - Life
+tags:
+  - filofax
 
 ---
 My exams ended relatively early last semester. That meant more time for a break! I didn't do terribly a lot over through break though. Definitely was not as productive as I would have liked to be.

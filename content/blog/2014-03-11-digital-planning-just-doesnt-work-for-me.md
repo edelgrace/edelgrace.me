@@ -5,8 +5,9 @@ type: blog
 date: 2014-03-11T16:45:42+00:00
 url: /blog/digital-planning-just-doesnt-work-for-me/
 categories:
-  - Filofax
-  - Planning
+  - Organization
+tags:
+  - filofax
 
 ---
 I grew up on the Internet. At the end of elementary school, I already had my own e-mail, posted on forums, ran my own forums, learned HTML and PHP, created my own websites, went on YouTube daily, etc. I was a little late to the first touch screen smartphones (just got one almost one year ago) but I had my iPod touch for years and that was all I needed. I played games, listened to music, and downloaded apps like crazy. I used almost all of my apps extensively, except for the calendar and diary apps. In fact, I hardly ever touched them! I always reverted to pen and paper when it came to planning.
