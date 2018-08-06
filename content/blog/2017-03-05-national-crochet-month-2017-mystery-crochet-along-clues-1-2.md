@@ -5,8 +5,9 @@ type: blog
 date: 2017-03-05T20:13:11+00:00
 url: /blog/national-crochet-month-2017-mystery-crochet-along-clues-1-2/
 categories:
-  - Crochet
+  - Crafts
 tags:
+  - crochet
   - crochet along together
   - NatCroMo2017
 

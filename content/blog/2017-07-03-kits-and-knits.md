@@ -5,8 +5,10 @@ type: blog
 date: 2017-07-03T22:09:52+00:00
 url: /blog/kits-and-knits/
 categories:
-  - Knitting
+  - Crafts
   - Life
+tags:
+  - knitting
 
 ---
 Last week was the end of final exams and on my last exam, I decided to take a well deserved day out. In celebration of Canada Day, Tim Hortons was bringing back Roll Up the Rim for a time. I'm trying to cut down on my coffee but I decided to get at least one cup, just to try my luck. Turns out that my luck isn't that so great.

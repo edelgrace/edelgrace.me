@@ -5,7 +5,9 @@ type: blog
 date: 2017-06-14T07:52:23+00:00
 url: /knitting/learning-how-to-knit-at-stash-needle-art-lounge-1/
 categories:
-  - Knitting
+  - Crafts
+tags:
+  - knitting
 
 ---
 Since I recently took up crochet, I have also been itching to start learning how to knit as well. I figure it would be advantageous to take up both of the more well known fiber art hobbies. So I signed up for lessons at one of my local yarn stores.
