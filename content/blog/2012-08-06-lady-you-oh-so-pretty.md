@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/lady-you-oh-so-pretty/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Internet
 
 ---

@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/fanlists-band-camp-sick/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
   - Internet
 

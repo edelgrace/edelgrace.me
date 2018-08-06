@@ -5,7 +5,7 @@ type: blog
 date: 2012-04-24T05:23:41+00:00
 url: /blog/i-remember-you/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 I meant to post last on the 15th but I just couldn't. I didn't feel like I should blog. It just didn't feel right to do so. Even now, I'm not so comfortable posting this but I just need to get it out, which is why it's private. Only three people have the password to my private posts so I guess it's not that bad.

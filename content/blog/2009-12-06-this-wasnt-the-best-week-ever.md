@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/this-wasnt-the-best-week-ever/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

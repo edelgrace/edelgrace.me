@@ -5,7 +5,7 @@ type: blog
 date: 2009-12-25T18:53:48+00:00
 url: /blog/maayong-pasko/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

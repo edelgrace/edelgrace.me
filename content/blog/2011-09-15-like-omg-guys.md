@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/like-omg-guys/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

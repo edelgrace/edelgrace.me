@@ -5,7 +5,7 @@ type: blog
 date: 2009-06-29T02:17:47+00:00
 url: /blog/lake-parties-food-school-and-michael-jackson/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Jr High
   - Music
 

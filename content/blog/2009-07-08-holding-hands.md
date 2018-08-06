@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/holding-hands/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 Title: Holding Hands  

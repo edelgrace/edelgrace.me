@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/cute-foreign-engineering-dude/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - University
 
 ---

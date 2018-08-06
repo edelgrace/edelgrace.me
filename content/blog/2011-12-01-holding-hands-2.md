@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/holding-hands-2/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 One of my most fondest memories of the Philippines is my cousin, Melchor. I get some post of weird feeling in my stomach and at the back of my throat whenever I think of him, hear his name, or even see his name. I love him, truly. What kind of love? I don't know, but I know it's some sort of love.

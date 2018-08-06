@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/school-school-school/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

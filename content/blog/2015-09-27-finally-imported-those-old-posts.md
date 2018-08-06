@@ -5,7 +5,7 @@ type: blog
 date: 2015-09-27T19:47:13+00:00
 url: /blog/finally-imported-those-old-posts/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Internet
   - Life
   - University

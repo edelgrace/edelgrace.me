@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/apparently-im-unofficially-dating/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

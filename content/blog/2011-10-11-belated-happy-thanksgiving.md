@@ -5,7 +5,7 @@ type: blog
 date: 2011-10-12T05:11:34+00:00
 url: /blog/belated-happy-thanksgiving/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

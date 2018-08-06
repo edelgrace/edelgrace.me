@@ -5,7 +5,7 @@ type: blog
 date: 2011-07-11T20:28:46+00:00
 url: /blog/one-week-down/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 I have another week to go! I'm just ready for it all to be over. Today was a good day because during my 15 minute break, I met up with one of my friends in the hallway. He and the school marching band been in the US for a while and just came back last night so I had a good talk with him. For a moment, I forgot I had school until the bell rang for the end of the break. Tomorrow after school, I'm going to watch my school's marching band compete. Every year during Stampede, there's a marching band competition. I was in band last year and we won first place, so I hope they'll win again!

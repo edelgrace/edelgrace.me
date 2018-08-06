@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/pshh-who-needs-relationships/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

@@ -5,7 +5,7 @@ type: blog
 date: 2010-02-15T23:51:58+00:00
 url: /blog/apples-to-apples/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 I'm really pumped/hyped up/excited for the Kya! effect. Like no joke. Haha. The layout looks suweeeet. I'm thinking of adopting/renting a domain... Kya~!

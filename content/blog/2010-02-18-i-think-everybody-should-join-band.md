@@ -5,7 +5,7 @@ type: blog
 date: 2010-02-19T04:15:38+00:00
 url: /blog/i-think-everybody-should-join-band/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

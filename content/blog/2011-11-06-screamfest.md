@@ -5,7 +5,7 @@ type: blog
 date: 2011-11-07T02:24:58+00:00
 url: /blog/screamfest/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 **EDIT:** This was queued to be posted on Halloween. But I accidentally queued it for Halloween... LAST YEAR. \*facepalm\* Better late than never.

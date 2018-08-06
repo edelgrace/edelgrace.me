@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/end-of-holding-on/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 Title: End Of Holding On

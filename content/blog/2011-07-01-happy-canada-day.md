@@ -5,7 +5,7 @@ type: blog
 date: 2011-07-01T16:38:02+00:00
 url: /blog/happy-canada-day/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Music
 
 ---

@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/late-teachers/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

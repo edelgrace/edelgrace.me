@@ -5,7 +5,7 @@ type: blog
 date: 2010-02-13T00:15:56+00:00
 url: /blog/happy-valentines-day-3/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 Yes, I'm all alone on this five day long weekend. My parents have banned me from going anywhere with my friends. Ahh great. I'll be alone on Valentines day D:

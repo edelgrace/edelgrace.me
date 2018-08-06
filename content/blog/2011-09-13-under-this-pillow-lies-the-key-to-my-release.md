@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/under-this-pillow-lies-the-key-to-my-release/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

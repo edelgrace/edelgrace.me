@@ -5,7 +5,7 @@ type: blog
 date: 2009-11-30T21:48:47+00:00
 url: /blog/give-me-everything-at-once/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

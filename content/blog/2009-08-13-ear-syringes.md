@@ -5,7 +5,7 @@ type: blog
 date: 2009-08-14T02:23:45+00:00
 url: /blog/ear-syringes/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 I can hear again! I went into the walk-in clinic and they shot hot water in my ear. It felt like those jet hot tubs...except in your ear. Haha. It kinda hurt but the main thing is, I CAN HEAR!

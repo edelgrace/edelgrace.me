@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/ta-romance-please-no/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/its-been-over-a-week/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

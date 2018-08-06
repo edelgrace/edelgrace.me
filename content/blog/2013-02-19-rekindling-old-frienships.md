@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/rekindling-old-frienships/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Internet
 
 ---

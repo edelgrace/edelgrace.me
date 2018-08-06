@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/super-integration-part-1/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
   - Internet
 

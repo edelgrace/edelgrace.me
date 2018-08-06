@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/testosterone/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
   - Movies
 

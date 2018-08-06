@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/first-day-of-my-last-year/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

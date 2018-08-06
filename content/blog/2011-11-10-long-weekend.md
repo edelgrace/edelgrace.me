@@ -26,7 +26,7 @@ syndication_source_uri:
 syndication_source_id:
   - http://mazohystic.wordpress.com/feed/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

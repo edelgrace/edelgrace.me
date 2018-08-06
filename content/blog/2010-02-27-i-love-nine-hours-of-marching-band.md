@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/i-love-nine-hours-of-marching-band/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 This is super long so I divided this into days XD

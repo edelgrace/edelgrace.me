@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/nooo-i-dont-want-it-to-end/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

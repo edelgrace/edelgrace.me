@@ -5,7 +5,7 @@ type: blog
 date: 2013-05-07T05:59:50+00:00
 url: /blog/straight-from-canada/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 I've been in the Philippines for about five days now. We decided to take a family trip, because it's been way too long since we've been here. It's been good for the most part. Except it's been an endless cycle of sleep, eat, sleep, eat, sleep with the rare outing. I thought I was going to lose weight here but I'm actually gaining, haha.

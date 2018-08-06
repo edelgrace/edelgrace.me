@@ -5,7 +5,7 @@ type: blog
 date: 2011-12-31T18:59:03+00:00
 url: /blog/you-know-what-happens-when-you-danc/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Movies
 
 ---

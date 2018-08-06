@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/ugh-lady-my-ovaries/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Internet
 
 ---

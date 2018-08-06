@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/super-integration/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 This summer is turning out really bittersweet. On one hand, I just reconnected with an old friend, Sam. On the other hand, I just might lose him again.

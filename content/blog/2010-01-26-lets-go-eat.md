@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /blog/lets-go-eat/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
 
 ---
 -> Fanlists

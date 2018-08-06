@@ -5,7 +5,7 @@ type: blog
 date: 2011-09-02T03:54:08+00:00
 url: /blog/smile-for-the-camera/
 categories:
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - High School
 
 ---

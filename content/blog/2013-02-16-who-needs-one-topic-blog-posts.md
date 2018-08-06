@@ -6,7 +6,7 @@ date: 2013-02-17T03:27:00+00:00
 url: /blog/who-needs-one-topic-blog-posts/
 categories:
   - Books
-  - 'Family &amp; Friends'
+  - 'Friends and Family'
   - Internet
   - Religion
   - University
