@@ -5,7 +5,9 @@ type: blog
 date: 2013-02-03T16:18:53+00:00
 url: /blog/dream-nearly-survived/
 categories:
-  - Dreams
+  - Life
+tag:
+  - dream
 
 ---
 I just woke up from a dream and I have to write about it. I'm not sure if it's some kind of omen or just a representation of the current state of my mind, but either way, it spooked me pretty badly.
