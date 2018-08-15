@@ -4,7 +4,7 @@ date: 2018-08-15
 publishDate: 2018-08-15
 type: blog
 url: book-review-roadside-picnic-by-boris-and-arkady-strugatsky
-draft: false
+draft: true
 categories:
   - books
 tags:
