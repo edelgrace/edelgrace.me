@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you sneak a peek at the number of views your posts have gotten?
+
+Nope! I don't think anyone except for my friend reads my blog or people who somehow stumble upon on my blog from Google. I don't really care that much about view count. Blogging is definitely a personal thing for me. I write because I like to and I like posterity. If people somehow find my blog and reads my things, that's great!

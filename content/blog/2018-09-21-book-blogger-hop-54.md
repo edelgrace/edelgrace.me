@@ -18,3 +18,7 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you like to finish one book before starting the next or do you read several at once?
+
+I'm notorious for reading several books at once but eventually it turns into reading one book at a time. I have a ton of books I've started only to drop for another book instead. I wish I was a faster reader or had more time to read more books then I wouldn't feel the need to start so many books at the same time!
+
+For example, there was a time where I would be listening to an audiobook while I was studying and then I would be reading a physical book during bus rides and then I would have an e-book that I would read while on the computer. Too many things going on at once!

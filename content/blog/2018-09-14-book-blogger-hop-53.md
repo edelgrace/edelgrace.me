@@ -18,3 +18,7 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > What author do you not read and why?
+
+Right off the top of my head, I don't read Jodi Picoult *anymore*. I used to really like Jodi Picoult after reading *My Sister's Keeper* and I went on a binge just reading work after work. That was a mistake because I got tired of her writing very quickly. I stopped seeking her out and I don't think I would read another Jodi Picoult novel again unless someone recommends it to me. There's nothing inherently wrong with her writing (I enjoyed a lot of her novels) but they all seemed to be the same and I just had enough.
+
+Other than Jodi Picoult, I can't really think of any other authors I don't read. I don't really discriminate by author. There are a lot of genres I don't like and therefore authors who write in those genres I don't read.
