@@ -1,7 +1,7 @@
 ---
 title: "Book Review: Roadside Picnic by Boris and Arkady Strugatsky"
-date: 2018-08-30
-publishDate: 2018-08-30
+date: 2018-09-03
+publishDate: 2018-09-03
 type: blog
 url: book-review-roadside-picnic-by-boris-and-arkady-strugatsky
 draft: true
@@ -33,10 +33,12 @@ First, let me gush about Le Guin's foreword for a second. Le Guin mentions the c
 
 The universe of *Roadside Picnic* is soaked with subtle details of the daily lives of stalkers and the collateral damage they leave behind. The concept of the novel is somewhat simple: aliens visited Earth and humans go into those locations to grab whatever the aliens left behind for research, profit, or both. The tales that spin off from this premise are very compelling.
 
-For example, one of the details I really appreciated was watching how Harmont, a regular small town near a Zone, a site where the aliens have visited.
+For example, one of the details I really appreciated was watching how Harmont, a regular small town near one of the alien visitation zones, changed and transformed over the years. Initially, the town attracted young people seeking adventure and get rich quick schemes. However, once the allure was ruined by the danger and the infeasibility of such dreams, the young people left or turned to less exciting ventures such as bussing.
 
 While *Roadside Picnic* explores narratives from several characters, the character in the spotlight the most is Rederick Schuhart or as he is more known by, Red. By far, he is the most interesting character out of all them. When the point of view shifted to other characters, I was a bit bored (bar the one philosophical conversation that I found extremely intriguing). However, the Strugatsky brothers accomplished something in that although I was bored, the content was still important in contributing to the story.
 
-This book, overall, was just a lot of fun. It is a quick read and although it took me a week to get through it, I found myself flipping pages frantically. I did not want to put it down (it doesn't help that when I read, I usually read on the commute and I can't stay on a train forever).
+Going back to the philosophical conversation, I love the analogy of the aliens taking a roadside picnic on Earth. The came as quickly as they left, leaving behind garbage that altered the lives of humans and generations after. Sounds familiar? It's just like when we go out in a hike and unintentionally disturb nature with our footprints, our waste, and our alien presence.
+
+This book, overall, was a lot of fun. It is a quick read and although it took me a week to get through it, I found myself flipping pages frantically. I did not want to put it down (it doesn't help that when I read, I usually read on the commute and I can't stay on a train forever).
 
 Another interesting thing that I really liked about this novel was just how Russian it is. When I think dystopian, I think of *We* by Yevgeny Zamyatin, who is coincidentally also Russian. I remember reading a review of *Roadside Picnic* that compares the two. They are entirely different but they both are extremely Russian. I don't know what it is, but Russian authors have such a distinct voice that I am completely enamoured with. From Nabokov to Bulgakov to Dostoyevsky... I think I can now add the Strugatsky brothers to my list of Russian authors that I admire. 
