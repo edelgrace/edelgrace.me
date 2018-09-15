@@ -19,4 +19,4 @@ tags:
 
 > Do you sneak a peek at the number of views your posts have gotten?
 
-Nope! I don't think anyone except for my friend reads my blog or people who somehow stumble upon on my blog from Google. I don't really care that much about view count. Blogging is definitely a personal thing for me. I write because I like to and I like posterity. If people somehow find my blog and reads my things, that's great!
+Nope! I don't think anyone except for my friends reads my blog or people who somehow stumble upon on my blog from Google. I don't really care that much about view count. Blogging is definitely a personal thing for me. I write because I like to and I like posterity. If people somehow find my blog and reads my things, that's great!

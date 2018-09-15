@@ -17,4 +17,6 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
-> You are suddenly transported into a future time in which (horrors!) books are unknown. How would explain books, and how wonderful they are, to the people of that time?
+> You are suddenly transported into a future time in which (horrors!) books are unknown. How would you explain books, and how wonderful they are, to the people of that time?
+
+UH. That's so hard, especially since I don't really understand what is considered as horror. In my mind, horror just means "scary." There's a lot of similar genres like thrillers. I really do not know enough about the genre to say anything about it. Maybe I need to pick up Stephen King one of these days.
