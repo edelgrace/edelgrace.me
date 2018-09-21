@@ -3,7 +3,7 @@ title: "Book Review: Men Without Women by Haruki Murakami"
 date: 2018-09-24
 publishDate: 2018-09-24
 type: blog
-url: book-review-men-without-women-by-haruki-murakami
+slug: book-review-men-without-women-by-haruki-murakami
 draft: false
 categories:
   - books

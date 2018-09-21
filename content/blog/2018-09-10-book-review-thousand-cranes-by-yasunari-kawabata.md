@@ -3,7 +3,7 @@ title: "Book Review: Thousand Cranes by Yasunari Kawabata"
 date: 2018-09-10
 publishDate: 2018-09-10
 type: blog
-url: book-review-thousand-cranes-by-yasunari-kawabata
+slug: book-review-thousand-cranes-by-yasunari-kawabata
 draft: false
 categories:
   - books

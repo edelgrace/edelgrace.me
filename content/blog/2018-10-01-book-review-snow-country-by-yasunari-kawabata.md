@@ -3,7 +3,7 @@ title: "Book Review: Snow Country by Yasunari Kawabata"
 date: 2018-10-01
 publishDate: 2018-10-01
 type: blog
-url: book-review-snow-country-by-yasunari-kawabata
+slug: book-review-snow-country-by-yasunari-kawabata
 draft: false
 categories:
   - books
@@ -19,7 +19,7 @@ tags:
 
 The summary of this book captures the essence of *Snow Country* perfectly. This book is dripping in implication. The characters are never straightforward. They all keep secrets or they are just distant enough from each other that you know as much as the narrator knows. Even if the characters state their feelings clearly, there is some hidden layer beneath the words that you know to be true. Honestly, all the implications kills me.
 
-The sadness kills me as well. I was so emotionally affected by *Thousand Cranes* that I immediately sought out another one of Kawabata's novels. There is something addicting about how Kawabata portrays sadness. Kawabata is no stranger to sorrow and he conveys it so beautifully.
+The sadness kills me as well. I was so emotionally affected by [*Thousand Cranes*](http://edelgrace.me/blog/book-review-thousand-cranes-by-yasunari-kawabata) that I immediately sought out another one of Kawabata's novels. There is something addicting about how Kawabata portrays sadness. Kawabata is no stranger to sorrow and he conveys it so beautifully.
 
 I remember reading about Kawabata a while ago before I read any of his works. For some reason, I was reading about seppuku (might have been because one of my friends told me that samurais used to drink tea beforehand so they could empty their bowels before committing seppuku, cool fact) and I was reading about the last recorded instance of seppuku. The accomplished poet, writer, actor, and director Yukio Mishima was the last and he was a friend of Kawabata's. It is said that Kawabata was haunted by Mishima's ghost so much so that he in turn also committed suicide (although not by seppuku).
 
