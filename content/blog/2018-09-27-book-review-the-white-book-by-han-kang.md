@@ -1,7 +1,7 @@
 ---
 title: "Book Review: The White Book by Han Kang"
-date: 2018-09-27
-publishDate: 2018-09-27
+date: 2018-10-09
+publishDate: 2018-10-09
 type: blog
 slug: book-review-the-white-book-by-han-kang
 draft: false
