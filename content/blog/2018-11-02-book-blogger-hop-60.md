@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you do collaborations with brands or other bloggers? Which collaboration was your favorite and why?
+
+Nope. Once I interviewed a blogger, [Graeme Inge](http://graemeing.com), a software engineer and author. Does that count as a collaboration? Other than that, I usually stick to my own bubble. While I think collaborations must be fun, usually for people who don't know the people involved in the collaboration it can be a little dry. Depending on the topic, of course, it can be done well. I think Q&A or interview type collaborations are what I prefer. What other ways are there to collaborate?

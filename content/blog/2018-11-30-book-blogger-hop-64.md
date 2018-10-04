@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > If you could travel back in time to purchase the first printing of a specific novel, what book would that be?
+
+AH. This is such a good question. My first instict was *Villette*. I have no idea what the first printing was like but I would love be able to get my hands on one. It doesn't even have to be pretty. *Villette* is one of my favourite novels. It would just perfect my collection if I could have an early edition of the book. In reality though, I don't care much about printings or editions. Unless they are pretty. Kinda contradictory to what I just wrote but I wouldn't really go out of my way to buy different editions. Unless they're *Villette*.

@@ -18,3 +18,5 @@ tags:
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you subscribe to any book subscription boxes?
+
+Nope! I don't like spending money to take a chance on a book. These days I just go to the library so I don't have to risk my money on a book I might not like. So subscription boxes are definitely something that I am not interested in at all. Too risky. My tastes are also very particulaor. I tend to stick to authors I know and I'm mostly focused on reading classics or well known and well revered books rather than anything new right now.
