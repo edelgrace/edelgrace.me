@@ -4,7 +4,7 @@ date: 2018-10-15
 publishDate: 2018-10-15
 type: blog
 slug: book-review-definitely-maybe-by-arkady-and-boris-strugatsky
-draft: true
+draft: false
 categories:
   - books
 tags:

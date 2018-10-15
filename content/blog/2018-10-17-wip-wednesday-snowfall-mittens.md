@@ -1,6 +1,6 @@
 ---
 title: "WIP Wednesday: Snowfall Mittens"
-draft: true
+draft: false
 author: Edel
 type: blog
 date: 2018-10-17
@@ -18,10 +18,10 @@ tags:
 
 > **WIP** stands for a "work in progress." As an avid crafter, I always have at least one WIP!
 
-* **Yarn:** [Loops and Threads Urban (Rust)]()
-* **Pattern:** [Snowfall Mittens]()
+* **Yarn:** [Loops and Threads Urban (Rust)](https://www.ravelry.com/yarns/library/loops--threads-urban)
+* **Pattern:** [Snowfall Mittens](https://www.whistleandivy.com/snow-fall-mittens/)
 
-{{<figure src="" title="Snowfall Mittens">}}
+{{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1539570934/wip_mittens_hndiju.png" title="Snowfall Mittens">}}
 
 I have finished one half of my Christmas present to one of my cousins. I've had this yarn sitting in my stash for a long time (I bought it a year and a half ago). I plan to hopefully make a couple of mittens/scarves/toques to burn through some of my yarn stash. After this, I plan to make mittens for my mother.
 
