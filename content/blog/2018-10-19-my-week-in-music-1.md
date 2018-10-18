@@ -1,7 +1,7 @@
 ---
 title: "My Week in Music #1: 2018/10/05 - 2018/10/12"
-date: 2018-10-22
-publishDate: 2018-10-22
+date: 2018-10-19
+publishDate: 2018-10-19
 type: blog
 slug: my-week-in-music-1
 draft: false
