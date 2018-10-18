@@ -4,7 +4,7 @@ date: 2018-10-22
 publishDate: 2018-10-22
 type: blog
 slug: my-week-in-music-1
-draft: true
+draft: false
 categories:
   - Music
 tags:
@@ -42,4 +42,4 @@ Wow, who knew? Listening to Coheed and Cambria means that most of my top albums 
 
 {{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1539739752/song_top_10_ptkjia.png" title="Top 10 songs">}}
 
-*The Gutter* just might be song of the year. I am in love with it. I am currently fighting the urge to not put it on right now. In fact, I asked one of my friends to recommend me some music because I just can't continue to listening Coheed and Cambria almost exclusively. 
+*The Gutter* just might be song of the year. I am in love with it. I am currently fighting the urge to not put it on right now. In fact, I asked one of my friends to recommend me some music because I just can't continue to listening Coheed and Cambria almost exclusively.
