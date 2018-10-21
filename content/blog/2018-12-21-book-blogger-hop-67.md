@@ -11,10 +11,12 @@ tags:
   - book blogger hop
 
 ---
-<figure><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><img src="https://i1.wp.com/3.bp.blogspot.com/-2bKizvp-A9w/WEjGAM4OjJI/AAAAAAAAV50/nU3xHQNtvSQQ8dRsB8OueG061E99KPrYACLcB/s1600/Book%2BBlogger%2BHop%2B%2528Final%2529.png?w=663&#038;ssl=1" data-recalc-dims="1" /></a></figure> 
+<figure><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><img src="https://i1.wp.com/3.bp.blogspot.com/-2bKizvp-A9w/WEjGAM4OjJI/AAAAAAAAV50/nU3xHQNtvSQQ8dRsB8OueG061E99KPrYACLcB/s1600/Book%2BBlogger%2BHop%2B%2528Final%2529.png?w=663&#038;ssl=1" data-recalc-dims="1" /></a></figure>
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Does your book club have a book exchange for the holidays or any other time during the year? If you don't belong to a book club, do you think that would be something fun to do?
+
+Nope! I am part of a few "book clubs" at work but it mostly is just reading one non-fiction book that relates to our work (programming). I don't know if a book exchange is something that we would do. I would totally be up for a book exchange for the holidays. Maybe I need to get my friends into it.

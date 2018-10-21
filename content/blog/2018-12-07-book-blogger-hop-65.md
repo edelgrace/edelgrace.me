@@ -11,10 +11,12 @@ tags:
   - book blogger hop
 
 ---
-<figure><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><img src="https://i1.wp.com/3.bp.blogspot.com/-2bKizvp-A9w/WEjGAM4OjJI/AAAAAAAAV50/nU3xHQNtvSQQ8dRsB8OueG061E99KPrYACLcB/s1600/Book%2BBlogger%2BHop%2B%2528Final%2529.png?w=663&#038;ssl=1" data-recalc-dims="1" /></a></figure> 
+<figure><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><img src="https://i1.wp.com/3.bp.blogspot.com/-2bKizvp-A9w/WEjGAM4OjJI/AAAAAAAAV50/nU3xHQNtvSQQ8dRsB8OueG061E99KPrYACLcB/s1600/Book%2BBlogger%2BHop%2B%2528Final%2529.png?w=663&#038;ssl=1" data-recalc-dims="1" /></a></figure>
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you tend to visit the same blogs each week but also try to look for new blogs?
+
+No, I try to keep the amount of blogs that I follow to a minimum. At the moment, I am subscribed to about maybe four blogs. They don't post weekly (more like bi-weekly or once a month) so I don't visit them that often. I just wait until I see a post on my RSS feed and then I go check them out. Sometimes I think I should go look for new blogs but that just means more time spent reading. If I do stumble across a blog that is interesting to me, I'd probably read it, however.
