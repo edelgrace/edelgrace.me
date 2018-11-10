@@ -13,7 +13,7 @@ tags:
   - book review
 ---
 
-{{<figure src="" title="Mrs. Dalloway by Virginia Woolf">}}
+{{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1541867678/mrs-dalloway-virginia-woolf_farlvc.png" title="Mrs. Dalloway by Virginia Woolf">}}
 
 > *Mrs. Dalloway* was the first novel to split the atom. If the novel before *Mrs. Dalloway* aspired to immensities of scope and scale, to heroic journeys across vast landscapes, with *Mrs. Dalloway* Virginia Woolf insisted that it could also locate the enormous within the everyday; that a life of errands and party-giving was every bit as viable a subject as any life lived anywhere; and that should any human act in any novel seem unimportant, it has merely been inadequately observed. The novel as an art form has not been the same since.
 
