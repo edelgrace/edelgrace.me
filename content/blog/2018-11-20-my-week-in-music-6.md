@@ -116,7 +116,7 @@ I think EMI MARIA is trying to break the Western market with her latest singles.
 5. **Björk — Pagan Poetry** (+)
 This music video is a little weird but I love it and this song. There is just so much in this song. The music box-like melody at the beginning, the pounding beat in the background, and Björk's voice. The lyrics is dripping with sexual imagery (so is the music video) and it feels so extremely authentic. This is what I look for in music. Artists being able to reveal parts of themselves in a beautiful way.
 
-6. **My Chemical Romance — SING** (+))
+6. **My Chemical Romance — SING** (+)
 
 
 7. **Amy Winehouse — Tears Dry on their Own** (+)
