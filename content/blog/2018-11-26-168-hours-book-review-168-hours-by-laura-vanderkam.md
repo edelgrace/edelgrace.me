@@ -13,7 +13,7 @@ tags:
   - book review
 ---
 
-{{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1541867678/mrs-dalloway-virginia-woolf_farlvc.png" title="168 Hours by Laura Vanderkam">}}
+{{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1543686416/168-hours-laura-vanderkam_osk5nl.png" title="168 Hours by Laura Vanderkam">}}
 
 > There are 168 hours in a week. This is your guide to getting the most out of them.
 
