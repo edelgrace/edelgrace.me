@@ -1,9 +1,9 @@
 ---
-title: "December 2018 in Review"
+title: "November 2018 in Review"
 date: 2018-12-01
 publishDate: 2018-12-01
 type: blog
-url: december-2018-in-review
+url: november-2018-in-review
 draft: false
 categories:
   - life
@@ -54,7 +54,7 @@ It does make sense that I'm walking less. The months that I walked the most this
 
 {{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1543684165/Hours_on_Phone_wqlwfa.png" title="Hours on Phone">}}
 
-Tracked with [App Usage]()
+Tracked with [App Usage](https://play.google.com/store/apps/details?id=com.a0soft.gphone.uninstaller&referrer=utm_source%3DCustomAd%26utm_medium%3DMoreApps%26utm_campaign%3Da0soft)
 
 The trend of a spike and then immediately trying to remediate the next day is prominent in this graph. Thing mid-late November got a little out of hand. I can't remember why. I might be that I was out and just kept checking my phone out of boredom.
 
@@ -63,6 +63,8 @@ The trend of a spike and then immediately trying to remediate the next day is pr
 In general though, I'm definitely making progress on spending less time on my phone. Two hours still seems like a lot of time, however. I might need to start breaking down what exactly it is that I do on my phone that takes two hours.
 
 {{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1543684162/Hours_of_Sleep_eebj6s.png" title="Hours of Sleep">}}
+
+Tracked with [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
 
 I seem to be solidly getting around 7 hours of sleep per night. I started going down to 6 hours of sleep because there are just not enough hours in the day to do the things I want to.
 
