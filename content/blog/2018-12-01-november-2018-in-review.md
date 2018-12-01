@@ -20,7 +20,7 @@ November went by super fast. I was taking a look at my to do list this morning a
 
 While I didn't successfully avoid Reddit altogether (I would check links that friends would send me or sit with my friends and looked at Reddit together), I managed to not browse Reddit *on my own*. Does that make much of a difference? To me it does! Usually I could spend hours upon hours on Reddit. I think I managed to curb that number last month.
 
-**I made it passed probation at my new job**
+**I made it past probation at my new job**
 
 This month marked the third month I spent at my new job. It's been great so far. I do feel like I'm getting comfortable and getting to know people at work. I'm slowly feeling a little more confident.
 
