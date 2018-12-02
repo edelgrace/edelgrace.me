@@ -4,7 +4,7 @@ date: 2018-12-03
 publishDate: 2018-12-03
 type: blog
 slug: thoughts-on-the-hours-and-mrs-dalloway
-draft: true
+draft: false
 categories:
   - books
   - movies
