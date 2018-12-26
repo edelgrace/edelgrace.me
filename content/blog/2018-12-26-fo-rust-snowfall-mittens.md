@@ -5,7 +5,7 @@ type: blog
 date: 2018-12-26
 publishDate: 2018-12-26
 slug: fo-rust-snowfall-mittens
-draft: true
+draft: false
 categories:
   - Crafts
 tags:
@@ -15,10 +15,10 @@ tags:
 ---
 > **FO** stands for "finished object." It is a term used by knitters and crocheters.
 
-* **Yarn:** [Loops & Threads Urban]() (Rust colourway)
-* **Pattern:** [Snowfall Mittens]()
+* **Yarn:** [Loops & Threads Urban](https://www.ravelry.com/yarns/library/loops--threads-urban) (Rust colourway)
+* **Pattern:** [Snowfall Mittens](https://www.ravelry.com/patterns/library/snowfall-mittens-2)
 
-{{<figure src="" title="Rust Snowfall Mittens">}}
+{{<figure src="https://res.cloudinary.com/dvozrk6m8/image/upload/v1545788746/rust-snowfall-mittens_v1ardm.png" title="Rust Snowfall Mittens">}}
 
 For a Christmas present, I made a pair of mittens for one of my cousins. It's supposed to match the infinity scarf I made her. My mom was the one who picked the colour! This yarn is discontinued and I only had one skein of this colour so I was slightly worried about running out. Thankfully I had plenty of yarn to spare once I finished it
 
