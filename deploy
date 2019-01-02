@@ -1,0 +1,9 @@
+#!/bin/sh
+USER=edel
+HOST=144.217.242.87
+DIR=/var/www/html/erzadel.net   # might sometimes be empty!
+PORT=1582
+
+git pull origin source && hugo && rsync -avz -e "ssh -p 1582" --delete public/ ${USER}@${HOST}:${DIR}
+
+exit 0
