@@ -1,6 +1,6 @@
 ---
 title: "Year of Projects: Year 8 Week 1"
-draft: true
+draft: false
 author: Edel
 type: blog
 date: 2019-01-04
