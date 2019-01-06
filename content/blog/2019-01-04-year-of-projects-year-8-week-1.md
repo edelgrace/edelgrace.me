@@ -26,6 +26,7 @@ I joined this group mostly because I wanted to kick my butt into gear and actual
 I'm trying my best not to be too ambitious. I have a habit of over promising in the new year. But I hope it's enough to make a good dent in my stash.
 
 **WIPs**
+
 * Wheat Caramel Scarf
 * Lost in Time Shawl
 * Simple Garter Stitch Slippers
@@ -38,6 +39,7 @@ I'm trying my best not to be too ambitious. I have a habit of over promising in 
 * 2018 Temperature Lap Blanket
 
 **Will Frog**
+
 * Elephant
 * Granny Square 2017 Temperature Blanket
 * Ear Bud Covers
@@ -49,6 +51,7 @@ I'm trying my best not to be too ambitious. I have a habit of over promising in 
 * Fribbed Cowl
 
 **Needs weaving in ends and blocking**
+
 * Clean Edge Dishcloths
 * C2 Shining Sea
 * Chocolate Delight
@@ -59,6 +62,7 @@ I'm trying my best not to be too ambitious. I have a habit of over promising in 
 * Mint Koi Cowl
 
 **Planned for 2019**
+
 * Block-A-Month Crochet Blocks x 12
 * Broken Garter Stitch Scarf
 * Some sort of knitted blanket for my cousin's newborn
