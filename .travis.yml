@@ -31,10 +31,10 @@ after_success: |
     git remote add origin-travis "https://edelgrace:${GITHUB_TOKEN}@github.com/edelgrace/edelgrace.github.io"
     git config user.name "edelgrace"
     git config user.email "edel.altares@gmail.com"
-    git pull origin-travis master
-    git reset origin-travis/master
     git add .
     git commit -am "Travis build ${TRAVIS_BUILD_NUMBER}"
+    git pull origin-travis master
+    git reset origin-travis/master
     git push origin-travis HEAD:master
     cd ..
   fi
