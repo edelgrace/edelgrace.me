@@ -35,7 +35,7 @@ after_success: |
     git commit -am "Travis build ${TRAVIS_BUILD_NUMBER}"
     git pull origin-travis master
     git reset origin-travis/master
-    git push origin-travis HEAD:master
+    git push origin-travis HEAD:master --force
     cd ..
   fi
 
